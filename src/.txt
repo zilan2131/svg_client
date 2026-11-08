@@ -1,0 +1,8 @@
+
+Remove-Item "public/extapicture/*.png"
+ Remove-Item *.png
+
+
+
+
+vtracer --input "Goodbye.jpg" --output "Goodbye.svg" --mode polygon --colormode color --color_precision 4

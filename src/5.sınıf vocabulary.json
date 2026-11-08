@@ -1,0 +1,5125 @@
+{
+  "Unit-1": "1",
+  "Sections-1": [
+    {
+      "category": "people_and_places_at_school",
+      "emoji": "🏫",
+      "words": [
+        { "en": "teacher", "tr": "öğretmen" },
+        { "en": "student", "tr": "öğrenci" },
+        { "en": "principal", "tr": "müdür" },
+        { "en": "classroom", "tr": "sınıf" },
+        { "en": "library", "tr": "kütüphane" },
+        { "en": "canteen", "tr": "kantin" },
+        { "en": "playground", "tr": "oyun alanı" }
+      ]
+    },
+    {
+      "category": "countries",
+      "emoji": "🌍",
+      "words": [
+        { "en": "Turkey", "tr": "Türkiye" },
+        { "en": "England", "tr": "İngiltere" },
+        { "en": "Germany", "tr": "Almanya" },
+        { "en": "France", "tr": "Fransa" },
+        { "en": "Italy", "tr": "İtalya" },
+        { "en": "Spain", "tr": "İspanya" },
+        { "en": "USA", "tr": "ABD" }
+      ]
+    },
+    {
+      "category": "school_clubs",
+      "emoji": "🎭",
+      "words": [
+        { "en": "drama club", "tr": "tiyatro kulübü" },
+        { "en": "music club", "tr": "müzik kulübü" },
+        { "en": "science club", "tr": "fen kulübü" },
+        { "en": "chess club", "tr": "satranç kulübü" },
+        { "en": "sports club", "tr": "spor kulübü" }
+      ]
+    },
+    {
+      "category": "national_and_religious_days",
+      "emoji": "🎉",
+      "words": [
+        { "en": "Republic Day", "tr": "Cumhuriyet Bayramı" },
+        { "en": "Children’s Day", "tr": "Çocuk Bayramı" },
+        { "en": "Ramadan Feast", "tr": "Ramazan Bayramı" },
+        { "en": "Sacrifice Feast", "tr": "Kurban Bayramı" },
+        { "en": "Victory Day", "tr": "Zafer Bayramı" }
+      ]
+    },
+    {
+      "category": "other_important_words",
+      "emoji": "📚",
+      "words": [
+        { "en": "homework", "tr": "ödev" },
+        { "en": "exam", "tr": "sınav" },
+        { "en": "break", "tr": "teneffüs" },
+        { "en": "subject", "tr": "ders" },
+        { "en": "lesson", "tr": "ders (öğretim)" },
+        { "en": "flag", "tr": "bayrak" }
+      ]
+    },
+    [
+      {
+        "Eng": "Teacher",
+        "tr": "öğretmen",
+        "emoji": "🏫",
+        "options": ["Teacher", "Student", "Principal", "Classroom"]
+      },
+      {
+        "Eng": "Student",
+        "tr": "öğrenci",
+        "emoji": "🏫",
+        "options": ["Student", "Teacher", "Library", "Canteen"]
+      },
+      {
+        "Eng": "Principal",
+        "tr": "müdür",
+        "emoji": "🏫",
+        "options": ["Principal", "Student", "Playground", "Teacher"]
+      },
+      {
+        "Eng": "Classroom",
+        "tr": "sınıf",
+        "emoji": "🏫",
+        "options": ["Classroom", "Library", "Canteen", "Principal"]
+      },
+      {
+        "Eng": "Library",
+        "tr": "kütüphane",
+        "emoji": "🏫",
+        "options": ["Library", "Classroom", "Playground", "Student"]
+      },
+      {
+        "Eng": "Canteen",
+        "tr": "kantin",
+        "emoji": "🏫",
+        "options": ["Canteen", "Library", "Teacher", "Classroom"]
+      },
+      {
+        "Eng": "Playground",
+        "tr": "oyun alanı",
+        "emoji": "🏫",
+        "options": ["Playground", "Canteen", "Student", "Principal"]
+      },
+      {
+        "Eng": "Turkey",
+        "tr": "Türkiye",
+        "emoji": "🌍",
+        "options": ["Turkey", "England", "Germany", "France"]
+      },
+      {
+        "Eng": "England",
+        "tr": "İngiltere",
+        "emoji": "🌍",
+        "options": ["England", "Turkey", "Italy", "Spain"]
+      },
+      {
+        "Eng": "Germany",
+        "tr": "Almanya",
+        "emoji": "🌍",
+        "options": ["Germany", "France", "USA", "Turkey"]
+      },
+      {
+        "Eng": "France",
+        "tr": "Fransa",
+        "emoji": "🌍",
+        "options": ["France", "Germany", "Spain", "England"]
+      },
+      {
+        "Eng": "Italy",
+        "tr": "İtalya",
+        "emoji": "🌍",
+        "options": ["Italy", "Spain", "USA", "Germany"]
+      },
+      {
+        "Eng": "Spain",
+        "tr": "İspanya",
+        "emoji": "🌍",
+        "options": ["Spain", "Italy", "England", "France"]
+      },
+      {
+        "Eng": "USA",
+        "tr": "ABD",
+        "emoji": "🌍",
+        "options": ["USA", "Turkey", "Germany", "Italy"]
+      },
+      {
+        "Eng": "Drama club",
+        "tr": "tiyatro kulübü",
+        "emoji": "🎭",
+        "options": ["Drama club", "Music club", "Science club", "Chess club"]
+      },
+      {
+        "Eng": "Music club",
+        "tr": "müzik kulübü",
+        "emoji": "🎭",
+        "options": ["Music club", "Drama club", "Sports club", "Science club"]
+      },
+      {
+        "Eng": "Science club",
+        "tr": "fen kulübü",
+        "emoji": "🎭",
+        "options": ["Science club", "Chess club", "Music club", "Drama club"]
+      },
+      {
+        "Eng": "Chess club",
+        "tr": "satranç kulübü",
+        "emoji": "🎭",
+        "options": ["Chess club", "Sports club", "Science club", "Music club"]
+      },
+      {
+        "Eng": "Sports club",
+        "tr": "spor kulübü",
+        "emoji": "🎭",
+        "options": ["Sports club", "Chess club", "Drama club", "Science club"]
+      },
+      {
+        "Eng": "Republic Day",
+        "tr": "Cumhuriyet Bayramı",
+        "emoji": "🎉",
+        "options": [
+          "Republic Day",
+          "Children’s Day",
+          "Victory Day",
+          "Ramadan Feast"
+        ]
+      },
+      {
+        "Eng": "Children’s Day",
+        "tr": "Çocuk Bayramı",
+        "emoji": "🎉",
+        "options": [
+          "Children’s Day",
+          "Republic Day",
+          "Sacrifice Feast",
+          "Victory Day"
+        ]
+      },
+      {
+        "Eng": "Ramadan Feast",
+        "tr": "Ramazan Bayramı",
+        "emoji": "🎉",
+        "options": [
+          "Ramadan Feast",
+          "Sacrifice Feast",
+          "Republic Day",
+          "Children’s Day"
+        ]
+      },
+      {
+        "Eng": "Sacrifice Feast",
+        "tr": "Kurban Bayramı",
+        "emoji": "🎉",
+        "options": [
+          "Sacrifice Feast",
+          "Ramadan Feast",
+          "Victory Day",
+          "Republic Day"
+        ]
+      },
+      {
+        "Eng": "Victory Day",
+        "tr": "Zafer Bayramı",
+        "emoji": "🎉",
+        "options": [
+          "Victory Day",
+          "Republic Day",
+          "Children’s Day",
+          "Sacrifice Feast"
+        ]
+      },
+      {
+        "Eng": "Homework",
+        "tr": "ödev",
+        "emoji": "📚",
+        "options": ["Homework", "Exam", "Break", "Subject"]
+      },
+      {
+        "Eng": "Exam",
+        "tr": "sınav",
+        "emoji": "📚",
+        "options": ["Exam", "Homework", "Lesson", "Flag"]
+      },
+      {
+        "Eng": "Break",
+        "tr": "teneffüs",
+        "emoji": "📚",
+        "options": ["Break", "Subject", "Homework", "Exam"]
+      },
+      {
+        "Eng": "Subject",
+        "tr": "ders",
+        "emoji": "📚",
+        "options": ["Subject", "Lesson", "Break", "Flag"]
+      },
+      {
+        "Eng": "Lesson",
+        "tr": "ders (öğretim)",
+        "emoji": "📚",
+        "options": ["Lesson", "Subject", "Exam", "Homework"]
+      },
+      {
+        "Eng": "Flag",
+        "tr": "bayrak",
+        "emoji": "📚",
+        "options": ["Flag", "Break", "Subject", "Exam"]
+      }
+    ]
+  ],
+  "Unit-2": "2",
+  "Sections-2": [
+    {
+      "category": "school_subjects",
+      "emoji": "📖",
+      "words": [
+        { "en": "Art", "tr": "Görsel Sanatlar / Resim" },
+        { "en": "Drama", "tr": "Drama" },
+        { "en": "Elective Lesson", "tr": "seçmeli ders" },
+        { "en": "English", "tr": "İngilizce" },
+        { "en": "Foreign Language", "tr": "Yabancı Dil" },
+        { "en": "IT (Information Technology)", "tr": "Bilişim Teknolojileri" },
+        { "en": "Maths", "tr": "Matematik" },
+        { "en": "Music", "tr": "Müzik" },
+        { "en": "P.E. (Physical Education)", "tr": "Beden Eğitimi" },
+        { "en": "Religion and Morals", "tr": "Din Kültürü ve Ahlak Bilgisi" },
+        { "en": "Science", "tr": "Fen Bilimleri" },
+        { "en": "Social Studies", "tr": "Sosyal Bilgiler" },
+        { "en": "Turkish", "tr": "Türkçe" }
+      ]
+    },
+    {
+      "category": "classroom_objects",
+      "emoji": "✏️",
+      "words": [
+        { "en": "board marker", "tr": "tahta kalemi" },
+        { "en": "bookcase", "tr": "kitaplık" },
+        { "en": "bookshelf", "tr": "kitap rafı" },
+        { "en": "crayon", "tr": "pastel boya" },
+        { "en": "desk", "tr": "sıra / masa" },
+        { "en": "dictionary", "tr": "sözlük" },
+        { "en": "glue", "tr": "yapıştırıcı" },
+        { "en": "notebook", "tr": "defter" },
+        { "en": "pencil case", "tr": "kalemlik" },
+        { "en": "poster", "tr": "poster" },
+        { "en": "rubbish bin", "tr": "çöp kutusu" },
+        { "en": "ruler", "tr": "cetvel" },
+        { "en": "school bag", "tr": "okul çantası" },
+        { "en": "scissors", "tr": "makas" },
+        { "en": "seat", "tr": "oturak / koltuk" },
+        { "en": "sheet", "tr": "kâğıt / sayfa" },
+        { "en": "smart board", "tr": "akıllı tahta" }
+      ]
+    },
+    {
+      "category": "days_of_the_week",
+      "emoji": "📅",
+      "words": [
+        { "en": "Monday", "tr": "Pazartesi" },
+        { "en": "Tuesday", "tr": "Salı" },
+        { "en": "Wednesday", "tr": "Çarşamba" },
+        { "en": "Thursday", "tr": "Perşembe" },
+        { "en": "Friday", "tr": "Cuma" },
+        { "en": "Saturday", "tr": "Cumartesi" },
+        { "en": "Sunday", "tr": "Pazar" }
+      ]
+    },
+    {
+      "category": "verbs",
+      "emoji": "🔧",
+      "words": [
+        { "en": "borrow", "tr": "ödünç almak" },
+        { "en": "bring", "tr": "getirmek" },
+        { "en": "can’t wait", "tr": "sabırsızlanmak, dört gözle beklemek" },
+        { "en": "erase", "tr": "silmek" },
+        { "en": "finish", "tr": "bitmek / bitirmek" },
+        { "en": "follow", "tr": "takip etmek" },
+        { "en": "forget", "tr": "unutmak" },
+        { "en": "hang", "tr": "asmak" },
+        { "en": "hold on", "tr": "beklemek" },
+        { "en": "leave", "tr": "ayrılmak / bırakmak" },
+        { "en": "look sth up", "tr": "(kitapta, sözlükte) aramak" },
+        { "en": "pick up", "tr": "kaldırmak" },
+        { "en": "remind", "tr": "hatırlatmak" },
+        { "en": "shout", "tr": "bağırmak" },
+        { "en": "skip the lesson", "tr": "dersi asmak, derse girmemek" },
+        { "en": "start", "tr": "başlamak" },
+        { "en": "tidy (up)", "tr": "toplamak / düzenlemek" },
+        { "en": "warn", "tr": "uyarmak" }
+      ]
+    },
+    {
+      "category": "other_important_words",
+      "emoji": "📚",
+      "words": [
+        { "en": "afternoon", "tr": "öğleden sonra" },
+        { "en": "attention", "tr": "dikkat" },
+        { "en": "break", "tr": "teneffüs" },
+        { "en": "careful", "tr": "dikkatli" },
+        { "en": "day", "tr": "gün" },
+        { "en": "double", "tr": "çift" },
+        { "en": "farming", "tr": "çiftçilik" },
+        { "en": "history", "tr": "tarih" },
+        { "en": "horseback javelin", "tr": "cirit atma" },
+        { "en": "horseback riding", "tr": "ata binme" },
+        { "en": "loudly", "tr": "yüksek sesle" },
+        { "en": "lunch", "tr": "öğle yemeği" },
+        { "en": "material", "tr": "malzeme" },
+        { "en": "mistake", "tr": "hata" },
+        { "en": "morning", "tr": "sabah" },
+        { "en": "oil wrestling", "tr": "yağlı güreş" },
+        { "en": "quietly", "tr": "sessizce" },
+        { "en": "respect", "tr": "saygı" },
+        { "en": "rubbish", "tr": "çöp" },
+        { "en": "schoolwork", "tr": "ödev, dersle ilgili işler" },
+        { "en": "slowly", "tr": "yavaşça" },
+        { "en": "timetable", "tr": "ders programı" },
+        { "en": "traditional", "tr": "geleneksel" },
+        { "en": "week", "tr": "hafta" }
+      ]
+    },
+    [
+      {
+        "Eng": "Art",
+        "tr": "Görsel Sanatlar / Resim",
+        "emoji": "📖",
+        "options": ["Art", "Drama", "Music", "Maths"]
+      },
+      {
+        "Eng": "Drama",
+        "tr": "Drama",
+        "emoji": "📖",
+        "options": ["Drama", "English", "Science", "Turkish"]
+      },
+      {
+        "Eng": "Elective Lesson",
+        "tr": "seçmeli ders",
+        "emoji": "📖",
+        "options": [
+          "Elective Lesson",
+          "Foreign Language",
+          "IT (Information Technology)",
+          "Social Studies"
+        ]
+      },
+      {
+        "Eng": "English",
+        "tr": "İngilizce",
+        "emoji": "📖",
+        "options": ["English", "Turkish", "Foreign Language", "Maths"]
+      },
+      {
+        "Eng": "Foreign Language",
+        "tr": "Yabancı Dil",
+        "emoji": "📖",
+        "options": [
+          "Foreign Language",
+          "English",
+          "Turkish",
+          "P.E. (Physical Education)"
+        ]
+      },
+      {
+        "Eng": "IT (Information Technology)",
+        "tr": "Bilişim Teknolojileri",
+        "emoji": "📖",
+        "options": ["IT (Information Technology)", "Science", "Maths", "Music"]
+      },
+      {
+        "Eng": "Maths",
+        "tr": "Matematik",
+        "emoji": "📖",
+        "options": ["Maths", "Science", "Social Studies", "Art"]
+      },
+      {
+        "Eng": "Music",
+        "tr": "Müzik",
+        "emoji": "📖",
+        "options": ["Music", "Art", "Drama", "P.E. (Physical Education)"]
+      },
+      {
+        "Eng": "P.E. (Physical Education)",
+        "tr": "Beden Eğitimi",
+        "emoji": "📖",
+        "options": [
+          "P.E. (Physical Education)",
+          "Music",
+          "Science",
+          "Religion and Morals"
+        ]
+      },
+      {
+        "Eng": "Religion and Morals",
+        "tr": "Din Kültürü ve Ahlak Bilgisi",
+        "emoji": "📖",
+        "options": ["Religion and Morals", "Social Studies", "Turkish", "Drama"]
+      },
+      {
+        "Eng": "Science",
+        "tr": "Fen Bilimleri",
+        "emoji": "📖",
+        "options": [
+          "Science",
+          "Maths",
+          "Social Studies",
+          "IT (Information Technology)"
+        ]
+      },
+      {
+        "Eng": "Social Studies",
+        "tr": "Sosyal Bilgiler",
+        "emoji": "📖",
+        "options": ["Social Studies", "Science", "History", "Turkish"]
+      },
+      {
+        "Eng": "Turkish",
+        "tr": "Türkçe",
+        "emoji": "📖",
+        "options": ["Turkish", "English", "Social Studies", "Literature"]
+      },
+      {
+        "Eng": "Board marker",
+        "tr": "tahta kalemi",
+        "emoji": "✏️",
+        "options": ["Board marker", "Crayon", "Pencil case", "Ruler"]
+      },
+      {
+        "Eng": "Bookcase",
+        "tr": "kitaplık",
+        "emoji": "✏️",
+        "options": ["Bookcase", "Bookshelf", "Desk", "Seat"]
+      },
+      {
+        "Eng": "Bookshelf",
+        "tr": "kitap rafı",
+        "emoji": "✏️",
+        "options": ["Bookshelf", "Bookcase", "Desk", "Poster"]
+      },
+      {
+        "Eng": "Crayon",
+        "tr": "pastel boya",
+        "emoji": "✏️",
+        "options": ["Crayon", "Board marker", "Glue", "Scissors"]
+      },
+      {
+        "Eng": "Desk",
+        "tr": "sıra / masa",
+        "emoji": "✏️",
+        "options": ["Desk", "Seat", "Bookcase", "Smart board"]
+      },
+      {
+        "Eng": "Dictionary",
+        "tr": "sözlük",
+        "emoji": "✏️",
+        "options": ["Dictionary", "Notebook", "Sheet", "Bookcase"]
+      },
+      {
+        "Eng": "Glue",
+        "tr": "yapıştırıcı",
+        "emoji": "✏️",
+        "options": ["Glue", "Scissors", "Crayon", "Ruler"]
+      },
+      {
+        "Eng": "Notebook",
+        "tr": "defter",
+        "emoji": "✏️",
+        "options": ["Notebook", "Dictionary", "Sheet", "School bag"]
+      },
+      {
+        "Eng": "Pencil case",
+        "tr": "kalemlik",
+        "emoji": "✏️",
+        "options": ["Pencil case", "School bag", "Board marker", "Scissors"]
+      },
+      {
+        "Eng": "Poster",
+        "tr": "poster",
+        "emoji": "✏️",
+        "options": ["Poster", "Smart board", "Bookshelf", "Sheet"]
+      },
+      {
+        "Eng": "Rubbish bin",
+        "tr": "çöp kutusu",
+        "emoji": "✏️",
+        "options": ["Rubbish bin", "Seat", "Desk", "Pencil case"]
+      },
+      {
+        "Eng": "Ruler",
+        "tr": "cetvel",
+        "emoji": "✏️",
+        "options": ["Ruler", "Scissors", "Glue", "Board marker"]
+      },
+      {
+        "Eng": "School bag",
+        "tr": "okul çantası",
+        "emoji": "✏️",
+        "options": ["School bag", "Pencil case", "Notebook", "Dictionary"]
+      },
+      {
+        "Eng": "Scissors",
+        "tr": "makas",
+        "emoji": "✏️",
+        "options": ["Scissors", "Glue", "Ruler", "Crayon"]
+      },
+      {
+        "Eng": "Seat",
+        "tr": "oturak / koltuk",
+        "emoji": "✏️",
+        "options": ["Seat", "Desk", "Bookcase", "Rubbish bin"]
+      },
+      {
+        "Eng": "Sheet",
+        "tr": "kâğıt / sayfa",
+        "emoji": "✏️",
+        "options": ["Sheet", "Notebook", "Poster", "Dictionary"]
+      },
+      {
+        "Eng": "Smart board",
+        "tr": "akıllı tahta",
+        "emoji": "✏️",
+        "options": ["Smart board", "Desk", "Poster", "Bookcase"]
+      },
+      {
+        "Eng": "Monday",
+        "tr": "Pazartesi",
+        "emoji": "📅",
+        "options": ["Monday", "Tuesday", "Wednesday", "Friday"]
+      },
+      {
+        "Eng": "Tuesday",
+        "tr": "Salı",
+        "emoji": "📅",
+        "options": ["Tuesday", "Monday", "Thursday", "Saturday"]
+      },
+      {
+        "Eng": "Wednesday",
+        "tr": "Çarşamba",
+        "emoji": "📅",
+        "options": ["Wednesday", "Thursday", "Friday", "Sunday"]
+      },
+      {
+        "Eng": "Thursday",
+        "tr": "Perşembe",
+        "emoji": "📅",
+        "options": ["Thursday", "Wednesday", "Tuesday", "Friday"]
+      },
+      {
+        "Eng": "Friday",
+        "tr": "Cuma",
+        "emoji": "📅",
+        "options": ["Friday", "Saturday", "Sunday", "Monday"]
+      },
+      {
+        "Eng": "Saturday",
+        "tr": "Cumartesi",
+        "emoji": "📅",
+        "options": ["Saturday", "Sunday", "Friday", "Monday"]
+      },
+      {
+        "Eng": "Sunday",
+        "tr": "Pazar",
+        "emoji": "📅",
+        "options": ["Sunday", "Saturday", "Friday", "Wednesday"]
+      },
+      {
+        "Eng": "Borrow",
+        "tr": "ödünç almak",
+        "emoji": "🔧",
+        "options": ["Borrow", "Bring", "Forget", "Remind"]
+      },
+      {
+        "Eng": "Bring",
+        "tr": "getirmek",
+        "emoji": "🔧",
+        "options": ["Bring", "Borrow", "Leave", "Pick up"]
+      },
+      {
+        "Eng": "Can’t wait",
+        "tr": "sabırsızlanmak, dört gözle beklemek",
+        "emoji": "🔧",
+        "options": ["Can’t wait", "Hold on", "Finish", "Start"]
+      },
+      {
+        "Eng": "Erase",
+        "tr": "silmek",
+        "emoji": "🔧",
+        "options": ["Erase", "Tidy (up)", "Finish", "Start"]
+      },
+      {
+        "Eng": "Finish",
+        "tr": "bitmek / bitirmek",
+        "emoji": "🔧",
+        "options": ["Finish", "Start", "Erase", "Follow"]
+      },
+      {
+        "Eng": "Follow",
+        "tr": "takip etmek",
+        "emoji": "🔧",
+        "options": ["Follow", "Warn", "Shout", "Remind"]
+      },
+      {
+        "Eng": "Forget",
+        "tr": "unutmak",
+        "emoji": "🔧",
+        "options": ["Forget", "Remind", "Borrow", "Bring"]
+      },
+      {
+        "Eng": "Hang",
+        "tr": "asmak",
+        "emoji": "🔧",
+        "options": ["Hang", "Pick up", "Leave", "Erase"]
+      },
+      {
+        "Eng": "Hold on",
+        "tr": "beklemek",
+        "emoji": "🔧",
+        "options": ["Hold on", "Can’t wait", "Start", "Finish"]
+      },
+      {
+        "Eng": "Leave",
+        "tr": "ayrılmak / bırakmak",
+        "emoji": "🔧",
+        "options": ["Leave", "Bring", "Pick up", "Hang"]
+      },
+      {
+        "Eng": "Look sth up",
+        "tr": "(kitapta, sözlükte) aramak",
+        "emoji": "🔧",
+        "options": ["Look sth up", "Follow", "Forget", "Remind"]
+      },
+      {
+        "Eng": "Pick up",
+        "tr": "kaldırmak",
+        "emoji": "🔧",
+        "options": ["Pick up", "Leave", "Hang", "Tidy (up)"]
+      },
+      {
+        "Eng": "Remind",
+        "tr": "hatırlatmak",
+        "emoji": "🔧",
+        "options": ["Remind", "Forget", "Warn", "Shout"]
+      },
+      {
+        "Eng": "Shout",
+        "tr": "bağırmak",
+        "emoji": "🔧",
+        "options": ["Shout", "Warn", "Follow", "Remind"]
+      },
+      {
+        "Eng": "Skip the lesson",
+        "tr": "dersi asmak, derse girmemek",
+        "emoji": "🔧",
+        "options": ["Skip the lesson", "Follow", "Start", "Finish"]
+      },
+      {
+        "Eng": "Start",
+        "tr": "başlamak",
+        "emoji": "🔧",
+        "options": ["Start", "Finish", "Hold on", "Can’t wait"]
+      },
+      {
+        "Eng": "Tidy (up)",
+        "tr": "toplamak / düzenlemek",
+        "emoji": "🔧",
+        "options": ["Tidy (up)", "Erase", "Pick up", "Leave"]
+      },
+      {
+        "Eng": "Warn",
+        "tr": "uyarmak",
+        "emoji": "🔧",
+        "options": ["Warn", "Shout", "Remind", "Follow"]
+      },
+      {
+        "Eng": "Afternoon",
+        "tr": "öğleden sonra",
+        "emoji": "📚",
+        "options": ["Afternoon", "Morning", "Day", "Week"]
+      },
+      {
+        "Eng": "Attention",
+        "tr": "dikkat",
+        "emoji": "📚",
+        "options": ["Attention", "Careful", "Respect", "Mistake"]
+      },
+      {
+        "Eng": "Break",
+        "tr": "teneffüs",
+        "emoji": "📚",
+        "options": ["Break", "Timetable", "Lunch", "Day"]
+      },
+      {
+        "Eng": "Careful",
+        "tr": "dikkatli",
+        "emoji": "📚",
+        "options": ["Careful", "Attention", "Slowly", "Quietly"]
+      },
+      {
+        "Eng": "Day",
+        "tr": "gün",
+        "emoji": "📚",
+        "options": ["Day", "Week", "Morning", "Afternoon"]
+      },
+      {
+        "Eng": "Double",
+        "tr": "çift",
+        "emoji": "📚",
+        "options": ["Double", "Material", "Traditional", "Careful"]
+      },
+      {
+        "Eng": "Farming",
+        "tr": "çiftçilik",
+        "emoji": "📚",
+        "options": ["Farming", "Oil wrestling", "Horseback riding", "Material"]
+      },
+      {
+        "Eng": "History",
+        "tr": "tarih",
+        "emoji": "📚",
+        "options": ["History", "Traditional", "Day", "Timetable"]
+      },
+      {
+        "Eng": "Horseback javelin",
+        "tr": "cirit atma",
+        "emoji": "📚",
+        "options": [
+          "Horseback javelin",
+          "Horseback riding",
+          "Oil wrestling",
+          "Farming"
+        ]
+      },
+      {
+        "Eng": "Horseback riding",
+        "tr": "ata binme",
+        "emoji": "📚",
+        "options": [
+          "Horseback riding",
+          "Horseback javelin",
+          "Oil wrestling",
+          "Farming"
+        ]
+      },
+      {
+        "Eng": "Loudly",
+        "tr": "yüksek sesle",
+        "emoji": "📚",
+        "options": ["Loudly", "Quietly", "Slowly", "Careful"]
+      },
+      {
+        "Eng": "Lunch",
+        "tr": "öğle yemeği",
+        "emoji": "📚",
+        "options": ["Lunch", "Break", "Morning", "Afternoon"]
+      },
+      {
+        "Eng": "Material",
+        "tr": "malzeme",
+        "emoji": "📚",
+        "options": ["Material", "Rubbish", "Schoolwork", "Double"]
+      },
+      {
+        "Eng": "Mistake",
+        "tr": "hata",
+        "emoji": "📚",
+        "options": ["Mistake", "Respect", "Attention", "Careful"]
+      },
+      {
+        "Eng": "Morning",
+        "tr": "sabah",
+        "emoji": "📚",
+        "options": ["Morning", "Afternoon", "Lunch", "Day"]
+      },
+      {
+        "Eng": "Oil wrestling",
+        "tr": "yağlı güreş",
+        "emoji": "📚",
+        "options": [
+          "Oil wrestling",
+          "Horseback javelin",
+          "Horseback riding",
+          "Farming"
+        ]
+      },
+      {
+        "Eng": "Quietly",
+        "tr": "sessizce",
+        "emoji": "📚",
+        "options": ["Quietly", "Loudly", "Slowly", "Careful"]
+      },
+      {
+        "Eng": "Respect",
+        "tr": "saygı",
+        "emoji": "📚",
+        "options": ["Respect", "Attention", "Mistake", "Traditional"]
+      },
+      {
+        "Eng": "Rubbish",
+        "tr": "çöp",
+        "emoji": "📚",
+        "options": ["Rubbish", "Material", "Schoolwork", "Break"]
+      },
+      {
+        "Eng": "Schoolwork",
+        "tr": "ödev, dersle ilgili işler",
+        "emoji": "📚",
+        "options": ["Schoolwork", "Timetable", "Break", "Material"]
+      },
+      {
+        "Eng": "Slowly",
+        "tr": "yavaşça",
+        "emoji": "📚",
+        "options": ["Slowly", "Quietly", "Loudly", "Careful"]
+      },
+      {
+        "Eng": "Timetable",
+        "tr": "ders programı",
+        "emoji": "📚",
+        "options": ["Timetable", "Schoolwork", "Break", "Day"]
+      },
+      {
+        "Eng": "Traditional",
+        "tr": "geleneksel",
+        "emoji": "📚",
+        "options": ["Traditional", "History", "Respect", "Double"]
+      },
+      {
+        "Eng": "Week",
+        "tr": "hafta",
+        "emoji": "📚",
+        "options": ["Week", "Day", "Timetable", "Morning"]
+      }
+    ]
+  ],
+  "Unit-3": "3",
+  "Sections-3": [
+    {
+      "category": "body_parts",
+      "emoji": "👤",
+      "words": [
+        { "en": "arm", "tr": "kol" },
+        { "en": "body", "tr": "vücut" },
+        { "en": "eye", "tr": "göz" },
+        { "en": "face", "tr": "yüz" },
+        { "en": "finger", "tr": "parmak" },
+        { "en": "foot", "tr": "ayak" },
+        { "en": "hair", "tr": "saç" },
+        { "en": "hand", "tr": "el" },
+        { "en": "head", "tr": "baş" },
+        { "en": "leg", "tr": "bacak" },
+        { "en": "neck", "tr": "boyun" },
+        { "en": "nose", "tr": "burun" },
+        { "en": "tooth", "tr": "diş" }
+      ]
+    },
+    {
+      "category": "clothes_and_accessories",
+      "emoji": "👕",
+      "words": [
+        { "en": "backpack", "tr": "sırt çantası" },
+        { "en": "bag", "tr": "çanta" },
+        { "en": "belt", "tr": "kemer" },
+        { "en": "blouse", "tr": "bluz" },
+        { "en": "boots", "tr": "bot" },
+        { "en": "bow", "tr": "fiyonk / papyon" },
+        { "en": "cap", "tr": "şapka, kasket" },
+        { "en": "coat", "tr": "kaban, mont" },
+        { "en": "costume", "tr": "kostüm" },
+        { "en": "dress", "tr": "elbise" },
+        { "en": "earrings", "tr": "küpe" },
+        { "en": "glasses", "tr": "gözlük" },
+        { "en": "glove", "tr": "eldiven" },
+        { "en": "handbag", "tr": "el çantası" },
+        { "en": "hat", "tr": "şapka" },
+        { "en": "headscarf", "tr": "baş örtüsü" },
+        { "en": "jacket", "tr": "ceket" },
+        { "en": "jeans", "tr": "kot pantolon" },
+        { "en": "jumper", "tr": "kazak" },
+        { "en": "necklace", "tr": "kolye" },
+        { "en": "raincoat", "tr": "yağmurluk" },
+        { "en": "ring", "tr": "yüzük" },
+        { "en": "scarf", "tr": "atkı" },
+        { "en": "shirt", "tr": "gömlek" },
+        { "en": "shoes", "tr": "ayakkabı" },
+        { "en": "shorts", "tr": "şort" },
+        { "en": "skirt", "tr": "etek" },
+        { "en": "socks", "tr": "çorap" },
+        { "en": "sunglasses", "tr": "güneş gözlüğü" },
+        { "en": "T-shirt", "tr": "tişört" },
+        { "en": "trousers", "tr": "pantolon" },
+        { "en": "umbrella", "tr": "şemsiye" },
+        { "en": "watch", "tr": "kol saati" }
+      ]
+    },
+    {
+      "category": "daily_activities",
+      "emoji": "🏃",
+      "words": [
+        { "en": "draw pictures", "tr": "resim çizmek" },
+        { "en": "go for a walk", "tr": "yürüyüşe çıkmak" },
+        { "en": "go jogging", "tr": "koşuya çıkmak" },
+        { "en": "go out", "tr": "dışarı çıkmak" },
+        { "en": "go shopping", "tr": "alışverişe gitmek" },
+        { "en": "go to the park", "tr": "parka gitmek" },
+        { "en": "listen to music", "tr": "müzik dinlemek" },
+        { "en": "meet friends", "tr": "arkadaşlarla buluşmak" },
+        { "en": "play chess", "tr": "satranç oynamak" },
+        { "en": "play video games", "tr": "video oyunları oynamak" },
+        { "en": "read a book", "tr": "kitap okumak" },
+        { "en": "read a magazine", "tr": "dergi okumak" },
+        { "en": "watch TV", "tr": "televizyon seyretmek" }
+      ]
+    },
+    {
+      "category": "seasons",
+      "emoji": "🍂",
+      "words": [
+        { "en": "autumn", "tr": "sonbahar" },
+        { "en": "winter", "tr": "kış" },
+        { "en": "spring", "tr": "ilkbahar" },
+        { "en": "summer", "tr": "yaz" }
+      ]
+    },
+    {
+      "category": "adjectives",
+      "emoji": "🌟",
+      "words": [
+        { "en": "average", "tr": "ortalama, sıradan" },
+        { "en": "bright", "tr": "parlak" },
+        { "en": "casual", "tr": "gündelik" },
+        { "en": "colourful", "tr": "rengarenk" },
+        { "en": "comfortable", "tr": "rahat" },
+        { "en": "cool", "tr": "havalı" },
+        { "en": "cotton", "tr": "pamuk" },
+        { "en": "curly", "tr": "kıvırcık" },
+        { "en": "cute", "tr": "sevimli, şirin" },
+        { "en": "daily", "tr": "günlük" },
+        { "en": "dark", "tr": "koyu renk (saç)" },
+        { "en": "different", "tr": "farklı" },
+        { "en": "fancy", "tr": "süsü" },
+        { "en": "general", "tr": "genel" },
+        { "en": "loose", "tr": "bol, gevşek" },
+        { "en": "medium height", "tr": "orta boylu" },
+        { "en": "medium weight", "tr": "orta kilolu" },
+        { "en": "necessary", "tr": "gerekli" },
+        { "en": "old-fashioned", "tr": "modası geçmiş" },
+        { "en": "ordinary", "tr": "sıradan" },
+        { "en": "oval", "tr": "oval" },
+        { "en": "round", "tr": "yuvarlak" },
+        { "en": "short", "tr": "kısa" },
+        { "en": "silk", "tr": "ipek" },
+        { "en": "slim", "tr": "zayıf, ince" },
+        { "en": "soft", "tr": "yumuşak" },
+        { "en": "square", "tr": "kare şeklinde" },
+        { "en": "straight", "tr": "düz" },
+        { "en": "stylish", "tr": "şık, modaya uygun" },
+        { "en": "tall", "tr": "uzun" },
+        { "en": "thick", "tr": "kalın" },
+        { "en": "thin", "tr": "zayıf / ince" },
+        { "en": "tight", "tr": "dar, sıkı" },
+        { "en": "trendy", "tr": "modaya uygun" },
+        { "en": "wavy", "tr": "dalgalı" },
+        { "en": "wool", "tr": "yün" }
+      ]
+    },
+    {
+      "category": "other_important_words",
+      "emoji": "📚",
+      "words": [
+        { "en": "buy", "tr": "satın almak" },
+        { "en": "care", "tr": "önemsemek" },
+        { "en": "celebrity", "tr": "ünlü kişi" },
+        { "en": "choose", "tr": "seçmek" },
+        { "en": "clothing", "tr": "kıyafetler" },
+        { "en": "fabric", "tr": "kumaş" },
+        { "en": "fashion", "tr": "moda" },
+        { "en": "female", "tr": "kadın" },
+        { "en": "gender", "tr": "cinsiyet" },
+        { "en": "go well", "tr": "yakışmak, uymak" },
+        { "en": "height", "tr": "boy (uzunluk)" },
+        { "en": "look", "tr": "görünmek" },
+        { "en": "male", "tr": "erkek" },
+        { "en": "need", "tr": "ihtiyaç duymak" },
+        { "en": "outfit", "tr": "kıyafet, giysi" },
+        { "en": "own", "tr": "sahip olmak" },
+        { "en": "protect", "tr": "korumak" },
+        { "en": "smile", "tr": "gülümsemek" },
+        { "en": "spend money", "tr": "para harcamak" },
+        { "en": "train", "tr": "antrenman yapmak" },
+        { "en": "travel", "tr": "seyahat etmek" },
+        { "en": "try on", "tr": "denemek (kıyafet)" },
+        { "en": "wear", "tr": "giymek" }
+      ]
+    },
+    [
+      {
+        "Eng": "Art",
+        "tr": "Görsel Sanatlar / Resim",
+        "emoji": "📖",
+        "options": ["Art", "Drama", "Music", "Maths"]
+      },
+      {
+        "Eng": "Drama",
+        "tr": "Drama",
+        "emoji": "📖",
+        "options": ["Drama", "English", "Science", "Turkish"]
+      },
+      {
+        "Eng": "Elective Lesson",
+        "tr": "seçmeli ders",
+        "emoji": "📖",
+        "options": [
+          "Elective Lesson",
+          "Foreign Language",
+          "IT (Information Technology)",
+          "Social Studies"
+        ]
+      },
+      {
+        "Eng": "English",
+        "tr": "İngilizce",
+        "emoji": "📖",
+        "options": ["English", "Turkish", "Foreign Language", "Maths"]
+      },
+      {
+        "Eng": "Foreign Language",
+        "tr": "Yabancı Dil",
+        "emoji": "📖",
+        "options": [
+          "Foreign Language",
+          "English",
+          "Turkish",
+          "P.E. (Physical Education)"
+        ]
+      },
+      {
+        "Eng": "IT (Information Technology)",
+        "tr": "Bilişim Teknolojileri",
+        "emoji": "📖",
+        "options": ["IT (Information Technology)", "Science", "Maths", "Music"]
+      },
+      {
+        "Eng": "Maths",
+        "tr": "Matematik",
+        "emoji": "📖",
+        "options": ["Maths", "Science", "Social Studies", "Art"]
+      },
+      {
+        "Eng": "Music",
+        "tr": "Müzik",
+        "emoji": "📖",
+        "options": ["Music", "Art", "Drama", "P.E. (Physical Education)"]
+      },
+      {
+        "Eng": "P.E. (Physical Education)",
+        "tr": "Beden Eğitimi",
+        "emoji": "📖",
+        "options": [
+          "P.E. (Physical Education)",
+          "Music",
+          "Science",
+          "Religion and Morals"
+        ]
+      },
+      {
+        "Eng": "Religion and Morals",
+        "tr": "Din Kültürü ve Ahlak Bilgisi",
+        "emoji": "📖",
+        "options": ["Religion and Morals", "Social Studies", "Turkish", "Drama"]
+      },
+      {
+        "Eng": "Science",
+        "tr": "Fen Bilimleri",
+        "emoji": "📖",
+        "options": [
+          "Science",
+          "Maths",
+          "Social Studies",
+          "IT (Information Technology)"
+        ]
+      },
+      {
+        "Eng": "Social Studies",
+        "tr": "Sosyal Bilgiler",
+        "emoji": "📖",
+        "options": ["Social Studies", "Science", "History", "Turkish"]
+      },
+      {
+        "Eng": "Turkish",
+        "tr": "Türkçe",
+        "emoji": "📖",
+        "options": ["Turkish", "English", "Social Studies", "Literature"]
+      },
+      {
+        "Eng": "Board marker",
+        "tr": "tahta kalemi",
+        "emoji": "✏️",
+        "options": ["Board marker", "Crayon", "Pencil case", "Ruler"]
+      },
+      {
+        "Eng": "Bookcase",
+        "tr": "kitaplık",
+        "emoji": "✏️",
+        "options": ["Bookcase", "Bookshelf", "Desk", "Seat"]
+      },
+      {
+        "Eng": "Bookshelf",
+        "tr": "kitap rafı",
+        "emoji": "✏️",
+        "options": ["Bookshelf", "Bookcase", "Desk", "Poster"]
+      },
+      {
+        "Eng": "Crayon",
+        "tr": "pastel boya",
+        "emoji": "✏️",
+        "options": ["Crayon", "Board marker", "Glue", "Scissors"]
+      },
+      {
+        "Eng": "Desk",
+        "tr": "sıra / masa",
+        "emoji": "✏️",
+        "options": ["Desk", "Seat", "Bookcase", "Smart board"]
+      },
+      {
+        "Eng": "Dictionary",
+        "tr": "sözlük",
+        "emoji": "✏️",
+        "options": ["Dictionary", "Notebook", "Sheet", "Bookcase"]
+      },
+      {
+        "Eng": "Glue",
+        "tr": "yapıştırıcı",
+        "emoji": "✏️",
+        "options": ["Glue", "Scissors", "Crayon", "Ruler"]
+      },
+      {
+        "Eng": "Notebook",
+        "tr": "defter",
+        "emoji": "✏️",
+        "options": ["Notebook", "Dictionary", "Sheet", "School bag"]
+      },
+      {
+        "Eng": "Pencil case",
+        "tr": "kalemlik",
+        "emoji": "✏️",
+        "options": ["Pencil case", "School bag", "Board marker", "Scissors"]
+      },
+      {
+        "Eng": "Poster",
+        "tr": "poster",
+        "emoji": "✏️",
+        "options": ["Poster", "Smart board", "Bookshelf", "Sheet"]
+      },
+      {
+        "Eng": "Rubbish bin",
+        "tr": "çöp kutusu",
+        "emoji": "✏️",
+        "options": ["Rubbish bin", "Seat", "Desk", "Pencil case"]
+      },
+      {
+        "Eng": "Ruler",
+        "tr": "cetvel",
+        "emoji": "✏️",
+        "options": ["Ruler", "Scissors", "Glue", "Board marker"]
+      },
+      {
+        "Eng": "School bag",
+        "tr": "okul çantası",
+        "emoji": "✏️",
+        "options": ["School bag", "Pencil case", "Notebook", "Dictionary"]
+      },
+      {
+        "Eng": "Scissors",
+        "tr": "makas",
+        "emoji": "✏️",
+        "options": ["Scissors", "Glue", "Ruler", "Crayon"]
+      },
+      {
+        "Eng": "Seat",
+        "tr": "oturak / koltuk",
+        "emoji": "✏️",
+        "options": ["Seat", "Desk", "Bookcase", "Rubbish bin"]
+      },
+      {
+        "Eng": "Sheet",
+        "tr": "kâğıt / sayfa",
+        "emoji": "✏️",
+        "options": ["Sheet", "Notebook", "Poster", "Dictionary"]
+      },
+      {
+        "Eng": "Smart board",
+        "tr": "akıllı tahta",
+        "emoji": "✏️",
+        "options": ["Smart board", "Desk", "Poster", "Bookcase"]
+      },
+      {
+        "Eng": "Monday",
+        "tr": "Pazartesi",
+        "emoji": "📅",
+        "options": ["Monday", "Tuesday", "Wednesday", "Friday"]
+      },
+      {
+        "Eng": "Tuesday",
+        "tr": "Salı",
+        "emoji": "📅",
+        "options": ["Tuesday", "Monday", "Thursday", "Saturday"]
+      },
+      {
+        "Eng": "Wednesday",
+        "tr": "Çarşamba",
+        "emoji": "📅",
+        "options": ["Wednesday", "Thursday", "Friday", "Sunday"]
+      },
+      {
+        "Eng": "Thursday",
+        "tr": "Perşembe",
+        "emoji": "📅",
+        "options": ["Thursday", "Wednesday", "Tuesday", "Friday"]
+      },
+      {
+        "Eng": "Friday",
+        "tr": "Cuma",
+        "emoji": "📅",
+        "options": ["Friday", "Saturday", "Sunday", "Monday"]
+      },
+      {
+        "Eng": "Saturday",
+        "tr": "Cumartesi",
+        "emoji": "📅",
+        "options": ["Saturday", "Sunday", "Friday", "Monday"]
+      },
+      {
+        "Eng": "Sunday",
+        "tr": "Pazar",
+        "emoji": "📅",
+        "options": ["Sunday", "Saturday", "Friday", "Wednesday"]
+      },
+      {
+        "Eng": "Borrow",
+        "tr": "ödünç almak",
+        "emoji": "🔧",
+        "options": ["Borrow", "Bring", "Forget", "Remind"]
+      },
+      {
+        "Eng": "Bring",
+        "tr": "getirmek",
+        "emoji": "🔧",
+        "options": ["Bring", "Borrow", "Leave", "Pick up"]
+      },
+      {
+        "Eng": "Can’t wait",
+        "tr": "sabırsızlanmak, dört gözle beklemek",
+        "emoji": "🔧",
+        "options": ["Can’t wait", "Hold on", "Finish", "Start"]
+      },
+      {
+        "Eng": "Erase",
+        "tr": "silmek",
+        "emoji": "🔧",
+        "options": ["Erase", "Tidy (up)", "Finish", "Start"]
+      },
+      {
+        "Eng": "Finish",
+        "tr": "bitmek / bitirmek",
+        "emoji": "🔧",
+        "options": ["Finish", "Start", "Erase", "Follow"]
+      },
+      {
+        "Eng": "Follow",
+        "tr": "takip etmek",
+        "emoji": "🔧",
+        "options": ["Follow", "Warn", "Shout", "Remind"]
+      },
+      {
+        "Eng": "Forget",
+        "tr": "unutmak",
+        "emoji": "🔧",
+        "options": ["Forget", "Remind", "Borrow", "Bring"]
+      },
+      {
+        "Eng": "Hang",
+        "tr": "asmak",
+        "emoji": "🔧",
+        "options": ["Hang", "Pick up", "Leave", "Erase"]
+      },
+      {
+        "Eng": "Hold on",
+        "tr": "beklemek",
+        "emoji": "🔧",
+        "options": ["Hold on", "Can’t wait", "Start", "Finish"]
+      },
+      {
+        "Eng": "Leave",
+        "tr": "ayrılmak / bırakmak",
+        "emoji": "🔧",
+        "options": ["Leave", "Bring", "Pick up", "Hang"]
+      },
+      {
+        "Eng": "Look sth up",
+        "tr": "(kitapta, sözlükte) aramak",
+        "emoji": "🔧",
+        "options": ["Look sth up", "Follow", "Forget", "Remind"]
+      },
+      {
+        "Eng": "Pick up",
+        "tr": "kaldırmak",
+        "emoji": "🔧",
+        "options": ["Pick up", "Leave", "Hang", "Tidy (up)"]
+      },
+      {
+        "Eng": "Remind",
+        "tr": "hatırlatmak",
+        "emoji": "🔧",
+        "options": ["Remind", "Forget", "Warn", "Shout"]
+      },
+      {
+        "Eng": "Shout",
+        "tr": "bağırmak",
+        "emoji": "🔧",
+        "options": ["Shout", "Warn", "Follow", "Remind"]
+      },
+      {
+        "Eng": "Skip the lesson",
+        "tr": "dersi asmak, derse girmemek",
+        "emoji": "🔧",
+        "options": ["Skip the lesson", "Follow", "Start", "Finish"]
+      },
+      {
+        "Eng": "Start",
+        "tr": "başlamak",
+        "emoji": "🔧",
+        "options": ["Start", "Finish", "Hold on", "Can’t wait"]
+      },
+      {
+        "Eng": "Tidy (up)",
+        "tr": "toplamak / düzenlemek",
+        "emoji": "🔧",
+        "options": ["Tidy (up)", "Erase", "Pick up", "Leave"]
+      },
+      {
+        "Eng": "Warn",
+        "tr": "uyarmak",
+        "emoji": "🔧",
+        "options": ["Warn", "Shout", "Remind", "Follow"]
+      },
+      {
+        "Eng": "Afternoon",
+        "tr": "öğleden sonra",
+        "emoji": "📚",
+        "options": ["Afternoon", "Morning", "Day", "Week"]
+      },
+      {
+        "Eng": "Attention",
+        "tr": "dikkat",
+        "emoji": "📚",
+        "options": ["Attention", "Careful", "Respect", "Mistake"]
+      },
+      {
+        "Eng": "Break",
+        "tr": "teneffüs",
+        "emoji": "📚",
+        "options": ["Break", "Timetable", "Lunch", "Day"]
+      },
+      {
+        "Eng": "Careful",
+        "tr": "dikkatli",
+        "emoji": "📚",
+        "options": ["Careful", "Attention", "Slowly", "Quietly"]
+      },
+      {
+        "Eng": "Day",
+        "tr": "gün",
+        "emoji": "📚",
+        "options": ["Day", "Week", "Morning", "Afternoon"]
+      },
+      {
+        "Eng": "Double",
+        "tr": "çift",
+        "emoji": "📚",
+        "options": ["Double", "Material", "Traditional", "Careful"]
+      },
+      {
+        "Eng": "Farming",
+        "tr": "çiftçilik",
+        "emoji": "📚",
+        "options": ["Farming", "Oil wrestling", "Horseback riding", "Material"]
+      },
+      {
+        "Eng": "History",
+        "tr": "tarih",
+        "emoji": "📚",
+        "options": ["History", "Traditional", "Day", "Timetable"]
+      },
+      {
+        "Eng": "Horseback javelin",
+        "tr": "cirit atma",
+        "emoji": "📚",
+        "options": [
+          "Horseback javelin",
+          "Horseback riding",
+          "Oil wrestling",
+          "Farming"
+        ]
+      },
+      {
+        "Eng": "Horseback riding",
+        "tr": "ata binme",
+        "emoji": "📚",
+        "options": [
+          "Horseback riding",
+          "Horseback javelin",
+          "Oil wrestling",
+          "Farming"
+        ]
+      },
+      {
+        "Eng": "Loudly",
+        "tr": "yüksek sesle",
+        "emoji": "📚",
+        "options": ["Loudly", "Quietly", "Slowly", "Careful"]
+      },
+      {
+        "Eng": "Lunch",
+        "tr": "öğle yemeği",
+        "emoji": "📚",
+        "options": ["Lunch", "Break", "Morning", "Afternoon"]
+      },
+      {
+        "Eng": "Material",
+        "tr": "malzeme",
+        "emoji": "📚",
+        "options": ["Material", "Rubbish", "Schoolwork", "Double"]
+      },
+      {
+        "Eng": "Mistake",
+        "tr": "hata",
+        "emoji": "📚",
+        "options": ["Mistake", "Respect", "Attention", "Careful"]
+      },
+      {
+        "Eng": "Morning",
+        "tr": "sabah",
+        "emoji": "📚",
+        "options": ["Morning", "Afternoon", "Lunch", "Day"]
+      },
+      {
+        "Eng": "Oil wrestling",
+        "tr": "yağlı güreş",
+        "emoji": "📚",
+        "options": [
+          "Oil wrestling",
+          "Horseback javelin",
+          "Horseback riding",
+          "Farming"
+        ]
+      },
+      {
+        "Eng": "Quietly",
+        "tr": "sessizce",
+        "emoji": "📚",
+        "options": ["Quietly", "Loudly", "Slowly", "Careful"]
+      },
+      {
+        "Eng": "Respect",
+        "tr": "saygı",
+        "emoji": "📚",
+        "options": ["Respect", "Attention", "Mistake", "Traditional"]
+      },
+      {
+        "Eng": "Rubbish",
+        "tr": "çöp",
+        "emoji": "📚",
+        "options": ["Rubbish", "Material", "Schoolwork", "Break"]
+      },
+      {
+        "Eng": "Schoolwork",
+        "tr": "ödev, dersle ilgili işler",
+        "emoji": "📚",
+        "options": ["Schoolwork", "Timetable", "Break", "Material"]
+      },
+      {
+        "Eng": "Slowly",
+        "tr": "yavaşça",
+        "emoji": "📚",
+        "options": ["Slowly", "Quietly", "Loudly", "Careful"]
+      },
+      {
+        "Eng": "Timetable",
+        "tr": "ders programı",
+        "emoji": "📚",
+        "options": ["Timetable", "Schoolwork", "Break", "Day"]
+      },
+      {
+        "Eng": "Traditional",
+        "tr": "geleneksel",
+        "emoji": "📚",
+        "options": ["Traditional", "History", "Respect", "Double"]
+      },
+      {
+        "Eng": "Week",
+        "tr": "hafta",
+        "emoji": "📚",
+        "options": ["Week", "Day", "Timetable", "Morning"]
+      }
+    ]
+  ],
+  "Unit-4": "4",
+  "Sections-4": [
+    {
+      "category": "family_members",
+      "emoji": "👨‍👩‍👧‍👦",
+      "words": [
+        { "en": "aunt", "tr": "hala, teyze, yenge" },
+        { "en": "baby", "tr": "bebek" },
+        { "en": "brother", "tr": "erkek kardeş" },
+        { "en": "couple", "tr": "çift" },
+        { "en": "cousin", "tr": "kuzen" },
+        { "en": "daughter", "tr": "kız evlat" },
+        { "en": "father / dad", "tr": "baba" },
+        { "en": "granddaughter", "tr": "kız torun" },
+        { "en": "grandfather / grandpa", "tr": "dede, büyükbaba" },
+        {
+          "en": "grandmother / grandma",
+          "tr": "anneanne / babaanne, büyükanne"
+        },
+        { "en": "grandson", "tr": "erkek torun" },
+        { "en": "mother / mum", "tr": "anne" },
+        { "en": "parents", "tr": "ebeveynler / anne ve baba" },
+        { "en": "sister", "tr": "kız kardeş" },
+        { "en": "son", "tr": "erkek evlat" },
+        { "en": "uncle", "tr": "amca, dayı, enişte" }
+      ]
+    },
+    {
+      "category": "hobbies_and_activities",
+      "emoji": "🎯",
+      "words": [
+        { "en": "camping", "tr": "kamp yapma" },
+        { "en": "cooking", "tr": "yemek pişirme" },
+        { "en": "cycling", "tr": "bisiklet sürme" },
+        { "en": "dancing", "tr": "dans etme" },
+        { "en": "doing origami", "tr": "origami yapma" },
+        { "en": "fishing", "tr": "balık tutma" },
+        { "en": "having a barbecue", "tr": "mangal yapma" },
+        { "en": "having a picnic", "tr": "piknik yapma" },
+        { "en": "playing a board game", "tr": "kutu oyunu oynama" },
+        { "en": "playing football", "tr": "futbol oynama" },
+        { "en": "playing golf", "tr": "golf oynama" },
+        { "en": "playing the guitar", "tr": "gitar çalma" },
+        { "en": "resting", "tr": "dinlenme" },
+        { "en": "riding a bike", "tr": "bisiklete binme" },
+        { "en": "riding a scooter", "tr": "skuter binme" },
+        { "en": "swimming", "tr": "yüzme" },
+        { "en": "taking care of a pet", "tr": "evcil hayvanla ilgilenme" },
+        { "en": "taking photos", "tr": "fotoğraf çekme" },
+        { "en": "tidying up the house", "tr": "evi toplama" },
+        { "en": "visiting a museum", "tr": "müzeyi ziyaret etme" }
+      ]
+    },
+    {
+      "category": "other_important_words",
+      "emoji": "📚",
+      "words": [
+        { "en": "active", "tr": "aktif" },
+        { "en": "beach", "tr": "plaj" },
+        { "en": "birthday party", "tr": "doğum günü partisi" },
+        { "en": "brush", "tr": "fırçalamak" },
+        { "en": "camera", "tr": "fotoğraf makinesi" },
+        { "en": "climb", "tr": "tırmanmak" },
+        { "en": "come over", "tr": "uğramak, ziyaret etmek" },
+        { "en": "computer game", "tr": "bilgisayar oyunu" },
+        { "en": "everyday", "tr": "her günkü, günlük" },
+        { "en": "diary", "tr": "günlük" },
+        { "en": "festival", "tr": "festival" },
+        { "en": "focus", "tr": "odaklanmak" },
+        { "en": "forest", "tr": "orman" },
+        { "en": "funny", "tr": "komik" },
+        { "en": "garden", "tr": "bahçe" },
+        { "en": "get on well", "tr": "iyi geçinmek" },
+        { "en": "hobby", "tr": "hobi" },
+        { "en": "holiday", "tr": "tatil" },
+        { "en": "jump", "tr": "zıplamak" },
+        { "en": "lake", "tr": "göl" },
+        { "en": "lucky", "tr": "şanslı" },
+        { "en": "member", "tr": "üye" },
+        { "en": "newspaper", "tr": "gazete" },
+        { "en": "organise", "tr": "düzenlemek" },
+        { "en": "pet care", "tr": "evcil hayvan bakımı" },
+        { "en": "role", "tr": "rol" },
+        { "en": "specific", "tr": "belirli, özel" },
+        { "en": "strange", "tr": "tuhaf, garip" },
+        { "en": "suggest", "tr": "önermek" },
+        { "en": "task", "tr": "görev" },
+        { "en": "tent", "tr": "çadır" },
+        { "en": "trip", "tr": "gezi" },
+        { "en": "usual", "tr": "alışıldık, sıradan" },
+        { "en": "win", "tr": "kazanmak" }
+      ]
+    },
+    [
+      {
+        "Eng": "Aunt",
+        "tr": "hala, teyze, yenge",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Aunt", "Uncle", "Mother / mum", "Grandmother / grandma"]
+      },
+      {
+        "Eng": "Baby",
+        "tr": "bebek",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Baby", "Child", "Son", "Daughter"]
+      },
+      {
+        "Eng": "Brother",
+        "tr": "erkek kardeş",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Brother", "Sister", "Son", "Cousin"]
+      },
+      {
+        "Eng": "Couple",
+        "tr": "çift",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Couple", "Parents", "Family", "Member"]
+      },
+      {
+        "Eng": "Cousin",
+        "tr": "kuzen",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Cousin", "Brother", "Sister", "Aunt"]
+      },
+      {
+        "Eng": "Daughter",
+        "tr": "kız evlat",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Daughter", "Son", "Sister", "Granddaughter"]
+      },
+      {
+        "Eng": "Father / dad",
+        "tr": "baba",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": [
+          "Father / dad",
+          "Mother / mum",
+          "Grandfather / grandpa",
+          "Uncle"
+        ]
+      },
+      {
+        "Eng": "Granddaughter",
+        "tr": "kız torun",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": [
+          "Granddaughter",
+          "Grandson",
+          "Daughter",
+          "Grandmother / grandma"
+        ]
+      },
+      {
+        "Eng": "Grandfather / grandpa",
+        "tr": "dede, büyükbaba",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": [
+          "Grandfather / grandpa",
+          "Grandmother / grandma",
+          "Father / dad",
+          "Uncle"
+        ]
+      },
+      {
+        "Eng": "Grandmother / grandma",
+        "tr": "anneanne / babaanne, büyükanne",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": [
+          "Grandmother / grandma",
+          "Grandfather / grandpa",
+          "Mother / mum",
+          "Aunt"
+        ]
+      },
+      {
+        "Eng": "Grandson",
+        "tr": "erkek torun",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Grandson", "Granddaughter", "Son", "Grandfather / grandpa"]
+      },
+      {
+        "Eng": "Mother / mum",
+        "tr": "anne",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": [
+          "Mother / mum",
+          "Father / dad",
+          "Grandmother / grandma",
+          "Aunt"
+        ]
+      },
+      {
+        "Eng": "Parents",
+        "tr": "ebeveynler / anne ve baba",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Parents", "Couple", "Family", "Children"]
+      },
+      {
+        "Eng": "Sister",
+        "tr": "kız kardeş",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Sister", "Brother", "Daughter", "Cousin"]
+      },
+      {
+        "Eng": "Son",
+        "tr": "erkek evlat",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Son", "Daughter", "Brother", "Grandson"]
+      },
+      {
+        "Eng": "Uncle",
+        "tr": "amca, dayı, enişte",
+        "emoji": "👨‍👩‍👧‍👦",
+        "options": ["Uncle", "Aunt", "Father / dad", "Grandfather / grandpa"]
+      },
+      {
+        "Eng": "Camping",
+        "tr": "kamp yapma",
+        "emoji": "🎯",
+        "options": ["Camping", "Fishing", "Swimming", "Cycling"]
+      },
+      {
+        "Eng": "Cooking",
+        "tr": "yemek pişirme",
+        "emoji": "🎯",
+        "options": [
+          "Cooking",
+          "Having a barbecue",
+          "Having a picnic",
+          "Resting"
+        ]
+      },
+      {
+        "Eng": "Cycling",
+        "tr": "bisiklet sürme",
+        "emoji": "🎯",
+        "options": ["Cycling", "Riding a bike", "Riding a scooter", "Swimming"]
+      },
+      {
+        "Eng": "Dancing",
+        "tr": "dans etme",
+        "emoji": "🎯",
+        "options": [
+          "Dancing",
+          "Playing football",
+          "Playing golf",
+          "Playing the guitar"
+        ]
+      },
+      {
+        "Eng": "Doing origami",
+        "tr": "origami yapma",
+        "emoji": "🎯",
+        "options": [
+          "Doing origami",
+          "Taking photos",
+          "Taking care of a pet",
+          "Tidying up the house"
+        ]
+      },
+      {
+        "Eng": "Fishing",
+        "tr": "balık tutma",
+        "emoji": "🎯",
+        "options": ["Fishing", "Camping", "Swimming", "Cycling"]
+      },
+      {
+        "Eng": "Having a barbecue",
+        "tr": "mangal yapma",
+        "emoji": "🎯",
+        "options": [
+          "Having a barbecue",
+          "Having a picnic",
+          "Cooking",
+          "Visiting a museum"
+        ]
+      },
+      {
+        "Eng": "Having a picnic",
+        "tr": "piknik yapma",
+        "emoji": "🎯",
+        "options": [
+          "Having a picnic",
+          "Having a barbecue",
+          "Camping",
+          "Visiting a museum"
+        ]
+      },
+      {
+        "Eng": "Playing a board game",
+        "tr": "kutu oyunu oynama",
+        "emoji": "🎯",
+        "options": [
+          "Playing a board game",
+          "Playing football",
+          "Playing golf",
+          "Playing the guitar"
+        ]
+      },
+      {
+        "Eng": "Playing football",
+        "tr": "futbol oynama",
+        "emoji": "🎯",
+        "options": ["Playing football", "Playing golf", "Swimming", "Cycling"]
+      },
+      {
+        "Eng": "Playing golf",
+        "tr": "golf oynama",
+        "emoji": "🎯",
+        "options": [
+          "Playing golf",
+          "Playing football",
+          "Playing a board game",
+          "Cycling"
+        ]
+      },
+      {
+        "Eng": "Playing the guitar",
+        "tr": "gitar çalma",
+        "emoji": "🎯",
+        "options": [
+          "Playing the guitar",
+          "Dancing",
+          "Playing a board game",
+          "Taking photos"
+        ]
+      },
+      {
+        "Eng": "Resting",
+        "tr": "dinlenme",
+        "emoji": "🎯",
+        "options": ["Resting", "Cooking", "Tidying up the house", "Camping"]
+      },
+      {
+        "Eng": "Riding a bike",
+        "tr": "bisiklete binme",
+        "emoji": "🎯",
+        "options": ["Riding a bike", "Cycling", "Riding a scooter", "Swimming"]
+      },
+      {
+        "Eng": "Riding a scooter",
+        "tr": "skuter binme",
+        "emoji": "🎯",
+        "options": ["Riding a scooter", "Riding a bike", "Cycling", "Swimming"]
+      },
+      {
+        "Eng": "Swimming",
+        "tr": "yüzme",
+        "emoji": "🎯",
+        "options": ["Swimming", "Cycling", "Fishing", "Camping"]
+      },
+      {
+        "Eng": "Taking care of a pet",
+        "tr": "evcil hayvanla ilgilenme",
+        "emoji": "🎯",
+        "options": [
+          "Taking care of a pet",
+          "Taking photos",
+          "Doing origami",
+          "Tidying up the house"
+        ]
+      },
+      {
+        "Eng": "Taking photos",
+        "tr": "fotoğraf çekme",
+        "emoji": "🎯",
+        "options": [
+          "Taking photos",
+          "Taking care of a pet",
+          "Doing origami",
+          "Playing the guitar"
+        ]
+      },
+      {
+        "Eng": "Tidying up the house",
+        "tr": "evi toplama",
+        "emoji": "🎯",
+        "options": [
+          "Tidying up the house",
+          "Resting",
+          "Cooking",
+          "Doing origami"
+        ]
+      },
+      {
+        "Eng": "Visiting a museum",
+        "tr": "müzeyi ziyaret etme",
+        "emoji": "🎯",
+        "options": [
+          "Visiting a museum",
+          "Having a picnic",
+          "Having a barbecue",
+          "Camping"
+        ]
+      },
+      {
+        "Eng": "Active",
+        "tr": "aktif",
+        "emoji": "📚",
+        "options": ["Active", "Funny", "Lucky", "Usual"]
+      },
+      {
+        "Eng": "Beach",
+        "tr": "plaj",
+        "emoji": "📚",
+        "options": ["Beach", "Forest", "Lake", "Garden"]
+      },
+      {
+        "Eng": "Birthday party",
+        "tr": "doğum günü partisi",
+        "emoji": "📚",
+        "options": ["Birthday party", "Festival", "Holiday", "Trip"]
+      },
+      {
+        "Eng": "Brush",
+        "tr": "fırçalamak",
+        "emoji": "📚",
+        "options": ["Brush", "Climb", "Jump", "Focus"]
+      },
+      {
+        "Eng": "Camera",
+        "tr": "fotoğraf makinesi",
+        "emoji": "📚",
+        "options": ["Camera", "Tent", "Newspaper", "Diary"]
+      },
+      {
+        "Eng": "Climb",
+        "tr": "tırmanmak",
+        "emoji": "📚",
+        "options": ["Climb", "Jump", "Brush", "Focus"]
+      },
+      {
+        "Eng": "Come over",
+        "tr": "uğramak, ziyaret etmek",
+        "emoji": "📚",
+        "options": ["Come over", "Organise", "Suggest", "Get on well"]
+      },
+      {
+        "Eng": "Computer game",
+        "tr": "bilgisayar oyunu",
+        "emoji": "📚",
+        "options": ["Computer game", "Hobby", "Task", "Role"]
+      },
+      {
+        "Eng": "Everyday",
+        "tr": "her günkü, günlük",
+        "emoji": "📚",
+        "options": ["Everyday", "Usual", "Specific", "Active"]
+      },
+      {
+        "Eng": "Diary",
+        "tr": "günlük",
+        "emoji": "📚",
+        "options": ["Diary", "Newspaper", "Camera", "Tent"]
+      },
+      {
+        "Eng": "Festival",
+        "tr": "festival",
+        "emoji": "📚",
+        "options": ["Festival", "Birthday party", "Holiday", "Trip"]
+      },
+      {
+        "Eng": "Focus",
+        "tr": "odaklanmak",
+        "emoji": "📚",
+        "options": ["Focus", "Brush", "Climb", "Jump"]
+      },
+      {
+        "Eng": "Forest",
+        "tr": "orman",
+        "emoji": "📚",
+        "options": ["Forest", "Beach", "Lake", "Garden"]
+      },
+      {
+        "Eng": "Funny",
+        "tr": "komik",
+        "emoji": "📚",
+        "options": ["Funny", "Strange", "Active", "Lucky"]
+      },
+      {
+        "Eng": "Garden",
+        "tr": "bahçe",
+        "emoji": "📚",
+        "options": ["Garden", "Forest", "Beach", "Lake"]
+      },
+      {
+        "Eng": "Get on well",
+        "tr": "iyi geçinmek",
+        "emoji": "📚",
+        "options": ["Get on well", "Come over", "Suggest", "Organise"]
+      },
+      {
+        "Eng": "Hobby",
+        "tr": "hobi",
+        "emoji": "📚",
+        "options": ["Hobby", "Computer game", "Task", "Role"]
+      },
+      {
+        "Eng": "Holiday",
+        "tr": "tatil",
+        "emoji": "📚",
+        "options": ["Holiday", "Trip", "Festival", "Birthday party"]
+      },
+      {
+        "Eng": "Jump",
+        "tr": "zıplamak",
+        "emoji": "📚",
+        "options": ["Jump", "Climb", "Brush", "Focus"]
+      },
+      {
+        "Eng": "Lake",
+        "tr": "göl",
+        "emoji": "📚",
+        "options": ["Lake", "Beach", "Forest", "Garden"]
+      },
+      {
+        "Eng": "Lucky",
+        "tr": "şanslı",
+        "emoji": "📚",
+        "options": ["Lucky", "Funny", "Active", "Strange"]
+      },
+      {
+        "Eng": "Member",
+        "tr": "üye",
+        "emoji": "📚",
+        "options": ["Member", "Role", "Task", "Specific"]
+      },
+      {
+        "Eng": "Newspaper",
+        "tr": "gazete",
+        "emoji": "📚",
+        "options": ["Newspaper", "Diary", "Camera", "Tent"]
+      },
+      {
+        "Eng": "Organise",
+        "tr": "düzenlemek",
+        "emoji": "📚",
+        "options": ["Organise", "Suggest", "Come over", "Get on well"]
+      },
+      {
+        "Eng": "Pet care",
+        "tr": "evcil hayvan bakımı",
+        "emoji": "📚",
+        "options": ["Pet care", "Hobby", "Task", "Role"]
+      },
+      {
+        "Eng": "Role",
+        "tr": "rol",
+        "emoji": "📚",
+        "options": ["Role", "Task", "Member", "Specific"]
+      },
+      {
+        "Eng": "Specific",
+        "tr": "belirli, özel",
+        "emoji": "📚",
+        "options": ["Specific", "Usual", "Everyday", "Strange"]
+      },
+      {
+        "Eng": "Strange",
+        "tr": "tuhaf, garip",
+        "emoji": "📚",
+        "options": ["Strange", "Funny", "Lucky", "Usual"]
+      },
+      {
+        "Eng": "Suggest",
+        "tr": "önermek",
+        "emoji": "📚",
+        "options": ["Suggest", "Organise", "Come over", "Get on well"]
+      },
+      {
+        "Eng": "Task",
+        "tr": "görev",
+        "emoji": "📚",
+        "options": ["Task", "Role", "Member", "Hobby"]
+      },
+      {
+        "Eng": "Tent",
+        "tr": "çadır",
+        "emoji": "📚",
+        "options": ["Tent", "Camera", "Diary", "Newspaper"]
+      },
+      {
+        "Eng": "Trip",
+        "tr": "gezi",
+        "emoji": "📚",
+        "options": ["Trip", "Holiday", "Festival", "Birthday party"]
+      },
+      {
+        "Eng": "Usual",
+        "tr": "alışıldık, sıradan",
+        "emoji": "📚",
+        "options": ["Usual", "Everyday", "Specific", "Strange"]
+      },
+      {
+        "Eng": "Win",
+        "tr": "kazanmak",
+        "emoji": "📚",
+        "options": ["Win", "Climb", "Jump", "Focus"]
+      }
+    ]
+  ],
+  "Unit-5": "5",
+  "Sections-5": [
+    {
+      "category": "places",
+      "emoji": "🏛️",
+      "words": [
+        { "en": "ancient site", "tr": "antik alan / bölge" },
+        { "en": "art gallery", "tr": "sanat galerisi" },
+        { "en": "castle", "tr": "kale" },
+        { "en": "cinema", "tr": "sinema" },
+        { "en": "coast", "tr": "kıyı" },
+        { "en": "corner", "tr": "köşe" },
+        { "en": "gym", "tr": "spor salonu" },
+        { "en": "hall", "tr": "salon" },
+        { "en": "mosque", "tr": "cami" },
+        { "en": "museum", "tr": "müze" },
+        { "en": "open-air cinema", "tr": "açık hava sineması" },
+        { "en": "shoe shop", "tr": "ayakkabı mağazası" },
+        { "en": "shop", "tr": "mağaza" },
+        { "en": "shopping centre", "tr": "alışveriş merkezi" },
+        { "en": "sports centre", "tr": "spor merkezi" },
+        { "en": "square", "tr": "meydan" },
+        { "en": "street fair", "tr": "sokak festivali" },
+        { "en": "tower", "tr": "kule" },
+        { "en": "town", "tr": "kasaba" },
+        { "en": "zoo", "tr": "hayvanat bahçesi" }
+      ]
+    },
+    {
+      "category": "parts_of_the_house",
+      "emoji": "🏠",
+      "words": [
+        { "en": "balcony", "tr": "balkon" },
+        { "en": "bathroom", "tr": "banyo" },
+        { "en": "bedroom", "tr": "yatak odası" },
+        { "en": "corridor", "tr": "koridor" },
+        { "en": "dining room", "tr": "yemek odası" },
+        { "en": "flat (apartment)", "tr": "daire" },
+        { "en": "floor", "tr": "kat" },
+        { "en": "garage", "tr": "garaj" },
+        { "en": "garden", "tr": "bahçe" },
+        { "en": "ground", "tr": "zemin" },
+        { "en": "kitchen", "tr": "mutfak" },
+        { "en": "lift", "tr": "asansör" },
+        { "en": "roof", "tr": "çatı" },
+        { "en": "sitting room", "tr": "oturma odası" },
+        { "en": "terrace", "tr": "teras" }
+      ]
+    },
+    {
+      "category": "furniture_and_household_items",
+      "emoji": "🛋️",
+      "words": [
+        { "en": "armchair", "tr": "koltuk" },
+        { "en": "bath", "tr": "küvet" },
+        { "en": "bed", "tr": "yatak" },
+        { "en": "bookcase", "tr": "kitaplık" },
+        { "en": "chair", "tr": "sandalye" },
+        { "en": "cupboard", "tr": "mutfak dolabı" },
+        { "en": "dishwasher", "tr": "bulaşık makinesi" },
+        { "en": "fork", "tr": "çatal" },
+        { "en": "fridge", "tr": "buzdolabı" },
+        { "en": "knife", "tr": "bıçak" },
+        { "en": "lamp", "tr": "lamba" },
+        { "en": "oven", "tr": "fırın" },
+        { "en": "pillow", "tr": "yastık" },
+        { "en": "plate", "tr": "tabak" },
+        { "en": "shelf", "tr": "raf" },
+        { "en": "sofa", "tr": "kanepe" },
+        { "en": "spoon", "tr": "kaşık" },
+        { "en": "toilet", "tr": "tuvalet" },
+        { "en": "wardrobe", "tr": "gardırop" }
+      ]
+    },
+    {
+      "category": "verbs",
+      "emoji": "⚙️",
+      "words": [
+        { "en": "attend", "tr": "katılmak" },
+        { "en": "cycle", "tr": "bisiklet sürmek" },
+        { "en": "experience", "tr": "deneyimlemek" },
+        { "en": "fish", "tr": "balık tutmak" },
+        { "en": "guide", "tr": "rehberlik etmek" },
+        { "en": "surf", "tr": "sörf yapmak" }
+      ]
+    },
+    {
+      "category": "adjectives",
+      "emoji": "🎨",
+      "words": [
+        { "en": "ancient", "tr": "antik, çok eski" },
+        { "en": "bottom", "tr": "alt" },
+        { "en": "brand-new", "tr": "yepyeni" },
+        { "en": "bright", "tr": "parlak" },
+        { "en": "close", "tr": "yakın" },
+        { "en": "comfortable", "tr": "rahat" },
+        { "en": "cosy", "tr": "rahat, huzurlu" },
+        { "en": "crowded", "tr": "kalabalık" },
+        { "en": "eco-friendly", "tr": "çevre dostu" },
+        { "en": "famous", "tr": "ünlü" },
+        { "en": "glass", "tr": "cam" },
+        { "en": "handmade", "tr": "el yapımı" },
+        { "en": "historical", "tr": "tarihi" },
+        { "en": "interesting", "tr": "ilginç" },
+        { "en": "light", "tr": "açık renk / hafif" },
+        { "en": "local", "tr": "yerel" },
+        { "en": "metal", "tr": "metal" },
+        { "en": "modern", "tr": "modern" },
+        { "en": "peaceful", "tr": "huzurlu" },
+        { "en": "plastic", "tr": "plastik" },
+        { "en": "quiet", "tr": "sessiz" },
+        { "en": "social", "tr": "sosyal" },
+        { "en": "steel", "tr": "çelik" },
+        { "en": "tiny", "tr": "çok küçük" },
+        { "en": "top", "tr": "üst" },
+        { "en": "traditional", "tr": "geleneksel" },
+        { "en": "unusual", "tr": "alışılmadık, sıradışı" },
+        { "en": "wide", "tr": "geniş" },
+        { "en": "wooden", "tr": "ahşap" }
+      ]
+    },
+    {
+      "category": "other_important_words",
+      "emoji": "📚",
+      "words": [
+        { "en": "attraction", "tr": "ilgi çekici yer" },
+        { "en": "best", "tr": "en iyi şekilde" },
+        { "en": "corner", "tr": "köşe" },
+        { "en": "double-decker bus", "tr": "çift katlı otobüs" },
+        { "en": "house", "tr": "ev" },
+        { "en": "easily", "tr": "kolayca" },
+        { "en": "environment", "tr": "çevre" },
+        { "en": "event", "tr": "etkinlik" },
+        { "en": "hire", "tr": "kiralamak" },
+        { "en": "inside", "tr": "içeride" },
+        { "en": "neighbourhood", "tr": "mahalle" },
+        { "en": "outside", "tr": "dışarıda" },
+        { "en": "painting", "tr": "tablo" },
+        {
+          "en": "recreation",
+          "tr": "hoşça vakit geçirme için yapılan etkinlikler"
+        },
+        { "en": "repair", "tr": "tamir etmek" },
+        { "en": "skyscraper", "tr": "gökdelen" },
+        { "en": "spin", "tr": "dönmek, döndürmek" },
+        { "en": "stone", "tr": "taş" },
+        { "en": "stuff", "tr": "eşya" },
+        { "en": "take a tour", "tr": "tura çıkmak" },
+        { "en": "tile", "tr": "kiremit" }
+      ]
+    },
+    [
+      {
+        "Eng": "Ancient site",
+        "tr": "antik alan / bölge",
+        "emoji": "🏛️",
+        "options": ["Ancient site", "Art gallery", "Castle", "Museum"]
+      },
+      {
+        "Eng": "Art gallery",
+        "tr": "sanat galerisi",
+        "emoji": "🏛️",
+        "options": ["Art gallery", "Museum", "Cinema", "Theatre"]
+      },
+      {
+        "Eng": "Castle",
+        "tr": "kale",
+        "emoji": "🏛️",
+        "options": ["Castle", "Tower", "Ancient site", "Museum"]
+      },
+      {
+        "Eng": "Cinema",
+        "tr": "sinema",
+        "emoji": "🏛️",
+        "options": ["Cinema", "Open-air cinema", "Art gallery", "Theatre"]
+      },
+      {
+        "Eng": "Coast",
+        "tr": "kıyı",
+        "emoji": "🏛️",
+        "options": ["Coast", "Square", "Corner", "Town"]
+      },
+      {
+        "Eng": "Corner",
+        "tr": "köşe",
+        "emoji": "🏛️",
+        "options": ["Corner", "Square", "Coast", "Town"]
+      },
+      {
+        "Eng": "Gym",
+        "tr": "spor salonu",
+        "emoji": "🏛️",
+        "options": ["Gym", "Sports centre", "Shopping centre", "Hall"]
+      },
+      {
+        "Eng": "Hall",
+        "tr": "salon",
+        "emoji": "🏛️",
+        "options": ["Hall", "Gym", "Museum", "Cinema"]
+      },
+      {
+        "Eng": "Mosque",
+        "tr": "cami",
+        "emoji": "🏛️",
+        "options": ["Mosque", "Museum", "Castle", "Tower"]
+      },
+      {
+        "Eng": "Museum",
+        "tr": "müze",
+        "emoji": "🏛️",
+        "options": ["Museum", "Art gallery", "Ancient site", "Castle"]
+      },
+      {
+        "Eng": "Open-air cinema",
+        "tr": "açık hava sineması",
+        "emoji": "🏛️",
+        "options": ["Open-air cinema", "Cinema", "Street fair", "Square"]
+      },
+      {
+        "Eng": "Shoe shop",
+        "tr": "ayakkabı mağazası",
+        "emoji": "🏛️",
+        "options": ["Shoe shop", "Shop", "Shopping centre", "Sports centre"]
+      },
+      {
+        "Eng": "Shop",
+        "tr": "mağaza",
+        "emoji": "🏛️",
+        "options": ["Shop", "Shoe shop", "Shopping centre", "Market"]
+      },
+      {
+        "Eng": "Shopping centre",
+        "tr": "alışveriş merkezi",
+        "emoji": "🏛️",
+        "options": ["Shopping centre", "Shop", "Sports centre", "Supermarket"]
+      },
+      {
+        "Eng": "Sports centre",
+        "tr": "spor merkezi",
+        "emoji": "🏛️",
+        "options": ["Sports centre", "Gym", "Shopping centre", "Hall"]
+      },
+      {
+        "Eng": "Square",
+        "tr": "meydan",
+        "emoji": "🏛️",
+        "options": ["Square", "Street fair", "Corner", "Town"]
+      },
+      {
+        "Eng": "Street fair",
+        "tr": "sokak festivali",
+        "emoji": "🏛️",
+        "options": ["Street fair", "Square", "Open-air cinema", "Town"]
+      },
+      {
+        "Eng": "Tower",
+        "tr": "kule",
+        "emoji": "🏛️",
+        "options": ["Tower", "Castle", "Skyscraper", "Town"]
+      },
+      {
+        "Eng": "Town",
+        "tr": "kasaba",
+        "emoji": "🏛️",
+        "options": ["Town", "Square", "Coast", "Neighbourhood"]
+      },
+      {
+        "Eng": "Zoo",
+        "tr": "hayvanat bahçesi",
+        "emoji": "🏛️",
+        "options": ["Zoo", "Museum", "Park", "Attraction"]
+      },
+      {
+        "Eng": "Balcony",
+        "tr": "balkon",
+        "emoji": "🏠",
+        "options": ["Balcony", "Terrace", "Roof", "Garden"]
+      },
+      {
+        "Eng": "Bathroom",
+        "tr": "banyo",
+        "emoji": "🏠",
+        "options": ["Bathroom", "Kitchen", "Bedroom", "Toilet"]
+      },
+      {
+        "Eng": "Bedroom",
+        "tr": "yatak odası",
+        "emoji": "🏠",
+        "options": ["Bedroom", "Sitting room", "Dining room", "Bathroom"]
+      },
+      {
+        "Eng": "Corridor",
+        "tr": "koridor",
+        "emoji": "🏠",
+        "options": ["Corridor", "Hall", "Balcony", "Floor"]
+      },
+      {
+        "Eng": "Dining room",
+        "tr": "yemek odası",
+        "emoji": "🏠",
+        "options": ["Dining room", "Sitting room", "Kitchen", "Bedroom"]
+      },
+      {
+        "Eng": "Flat (apartment)",
+        "tr": "daire",
+        "emoji": "🏠",
+        "options": ["Flat (apartment)", "House", "Building", "Floor"]
+      },
+      {
+        "Eng": "Floor",
+        "tr": "kat",
+        "emoji": "🏠",
+        "options": ["Floor", "Ground", "Roof", "Ceiling"]
+      },
+      {
+        "Eng": "Garage",
+        "tr": "garaj",
+        "emoji": "🏠",
+        "options": ["Garage", "Garden", "Balcony", "Terrace"]
+      },
+      {
+        "Eng": "Garden",
+        "tr": "bahçe",
+        "emoji": "🏠",
+        "options": ["Garden", "Garage", "Terrace", "Balcony"]
+      },
+      {
+        "Eng": "Ground",
+        "tr": "zemin",
+        "emoji": "🏠",
+        "options": ["Ground", "Floor", "Roof", "Wall"]
+      },
+      {
+        "Eng": "Kitchen",
+        "tr": "mutfak",
+        "emoji": "🏠",
+        "options": ["Kitchen", "Bathroom", "Dining room", "Sitting room"]
+      },
+      {
+        "Eng": "Lift",
+        "tr": "asansör",
+        "emoji": "🏠",
+        "options": ["Lift", "Stairs", "Corridor", "Floor"]
+      },
+      {
+        "Eng": "Roof",
+        "tr": "çatı",
+        "emoji": "🏠",
+        "options": ["Roof", "Terrace", "Balcony", "Ground"]
+      },
+      {
+        "Eng": "Sitting room",
+        "tr": "oturma odası",
+        "emoji": "🏠",
+        "options": ["Sitting room", "Dining room", "Bedroom", "Kitchen"]
+      },
+      {
+        "Eng": "Terrace",
+        "tr": "teras",
+        "emoji": "🏠",
+        "options": ["Terrace", "Balcony", "Roof", "Garden"]
+      },
+      {
+        "Eng": "Armchair",
+        "tr": "koltuk",
+        "emoji": "🛋️",
+        "options": ["Armchair", "Sofa", "Chair", "Bed"]
+      },
+      {
+        "Eng": "Bath",
+        "tr": "küvet",
+        "emoji": "🛋️",
+        "options": ["Bath", "Toilet", "Sink", "Shower"]
+      },
+      {
+        "Eng": "Bed",
+        "tr": "yatak",
+        "emoji": "🛋️",
+        "options": ["Bed", "Pillow", "Wardrobe", "Armchair"]
+      },
+      {
+        "Eng": "Bookcase",
+        "tr": "kitaplık",
+        "emoji": "🛋️",
+        "options": ["Bookcase", "Shelf", "Cupboard", "Wardrobe"]
+      },
+      {
+        "Eng": "Chair",
+        "tr": "sandalye",
+        "emoji": "🛋️",
+        "options": ["Chair", "Armchair", "Sofa", "Desk"]
+      },
+      {
+        "Eng": "Cupboard",
+        "tr": "mutfak dolabı",
+        "emoji": "🛋️",
+        "options": ["Cupboard", "Wardrobe", "Shelf", "Bookcase"]
+      },
+      {
+        "Eng": "Dishwasher",
+        "tr": "bulaşık makinesi",
+        "emoji": "🛋️",
+        "options": ["Dishwasher", "Fridge", "Oven", "Washing machine"]
+      },
+      {
+        "Eng": "Fork",
+        "tr": "çatal",
+        "emoji": "🛋️",
+        "options": ["Fork", "Knife", "Spoon", "Plate"]
+      },
+      {
+        "Eng": "Fridge",
+        "tr": "buzdolabı",
+        "emoji": "🛋️",
+        "options": ["Fridge", "Oven", "Dishwasher", "Cupboard"]
+      },
+      {
+        "Eng": "Knife",
+        "tr": "bıçak",
+        "emoji": "🛋️",
+        "options": ["Knife", "Fork", "Spoon", "Plate"]
+      },
+      {
+        "Eng": "Lamp",
+        "tr": "lamba",
+        "emoji": "🛋️",
+        "options": ["Lamp", "Light", "Candle", "Torch"]
+      },
+      {
+        "Eng": "Oven",
+        "tr": "fırın",
+        "emoji": "🛋️",
+        "options": ["Oven", "Fridge", "Dishwasher", "Cooker"]
+      },
+      {
+        "Eng": "Pillow",
+        "tr": "yastık",
+        "emoji": "🛋️",
+        "options": ["Pillow", "Bed", "Blanket", "Cushion"]
+      },
+      {
+        "Eng": "Plate",
+        "tr": "tabak",
+        "emoji": "🛋️",
+        "options": ["Plate", "Fork", "Knife", "Spoon"]
+      },
+      {
+        "Eng": "Shelf",
+        "tr": "raf",
+        "emoji": "🛋️",
+        "options": ["Shelf", "Bookcase", "Cupboard", "Wardrobe"]
+      },
+      {
+        "Eng": "Sofa",
+        "tr": "kanepe",
+        "emoji": "🛋️",
+        "options": ["Sofa", "Armchair", "Chair", "Bed"]
+      },
+      {
+        "Eng": "Spoon",
+        "tr": "kaşık",
+        "emoji": "🛋️",
+        "options": ["Spoon", "Fork", "Knife", "Plate"]
+      },
+      {
+        "Eng": "Toilet",
+        "tr": "tuvalet",
+        "emoji": "🛋️",
+        "options": ["Toilet", "Bath", "Sink", "Bathroom"]
+      },
+      {
+        "Eng": "Wardrobe",
+        "tr": "gardırop",
+        "emoji": "🛋️",
+        "options": ["Wardrobe", "Cupboard", "Bookcase", "Shelf"]
+      },
+      {
+        "Eng": "Attend",
+        "tr": "katılmak",
+        "emoji": "⚙️",
+        "options": ["Attend", "Experience", "Guide", "Join"]
+      },
+      {
+        "Eng": "Cycle",
+        "tr": "bisiklet sürmek",
+        "emoji": "⚙️",
+        "options": ["Cycle", "Surf", "Walk", "Run"]
+      },
+      {
+        "Eng": "Experience",
+        "tr": "deneyimlemek",
+        "emoji": "⚙️",
+        "options": ["Experience", "Attend", "Guide", "Try"]
+      },
+      {
+        "Eng": "Fish",
+        "tr": "balık tutmak",
+        "emoji": "⚙️",
+        "options": ["Fish", "Surf", "Cycle", "Swim"]
+      },
+      {
+        "Eng": "Guide",
+        "tr": "rehberlik etmek",
+        "emoji": "⚙️",
+        "options": ["Guide", "Attend", "Experience", "Lead"]
+      },
+      {
+        "Eng": "Surf",
+        "tr": "sörf yapmak",
+        "emoji": "⚙️",
+        "options": ["Surf", "Cycle", "Fish", "Swim"]
+      },
+      {
+        "Eng": "Ancient",
+        "tr": "antik, çok eski",
+        "emoji": "🎨",
+        "options": ["Ancient", "Historical", "Modern", "Traditional"]
+      },
+      {
+        "Eng": "Bottom",
+        "tr": "alt",
+        "emoji": "🎨",
+        "options": ["Bottom", "Top", "Inside", "Outside"]
+      },
+      {
+        "Eng": "Brand-new",
+        "tr": "yepyeni",
+        "emoji": "🎨",
+        "options": ["Brand-new", "Modern", "Old", "Ancient"]
+      },
+      {
+        "Eng": "Bright",
+        "tr": "parlak",
+        "emoji": "🎨",
+        "options": ["Bright", "Light", "Dark", "Shiny"]
+      },
+      {
+        "Eng": "Close",
+        "tr": "yakın",
+        "emoji": "🎨",
+        "options": ["Close", "Far", "Next", "Beside"]
+      },
+      {
+        "Eng": "Comfortable",
+        "tr": "rahat",
+        "emoji": "🎨",
+        "options": ["Comfortable", "Cosy", "Peaceful", "Relaxing"]
+      },
+      {
+        "Eng": "Cosy",
+        "tr": "rahat, huzurlu",
+        "emoji": "🎨",
+        "options": ["Cosy", "Comfortable", "Peaceful", "Quiet"]
+      },
+      {
+        "Eng": "Crowded",
+        "tr": "kalabalık",
+        "emoji": "🎨",
+        "options": ["Crowded", "Quiet", "Peaceful", "Busy"]
+      },
+      {
+        "Eng": "Eco-friendly",
+        "tr": "çevre dostu",
+        "emoji": "🎨",
+        "options": ["Eco-friendly", "Natural", "Green", "Modern"]
+      },
+      {
+        "Eng": "Famous",
+        "tr": "ünlü",
+        "emoji": "🎨",
+        "options": ["Famous", "Popular", "Unknown", "Local"]
+      },
+      {
+        "Eng": "Glass",
+        "tr": "cam",
+        "emoji": "🎨",
+        "options": ["Glass", "Metal", "Plastic", "Wooden"]
+      },
+      {
+        "Eng": "Handmade",
+        "tr": "el yapımı",
+        "emoji": "🎨",
+        "options": ["Handmade", "Traditional", "Modern", "Factory-made"]
+      },
+      {
+        "Eng": "Historical",
+        "tr": "tarihi",
+        "emoji": "🎨",
+        "options": ["Historical", "Ancient", "Modern", "Traditional"]
+      },
+      {
+        "Eng": "Interesting",
+        "tr": "ilginç",
+        "emoji": "🎨",
+        "options": ["Interesting", "Unusual", "Boring", "Famous"]
+      },
+      {
+        "Eng": "Light",
+        "tr": "açık renk / hafif",
+        "emoji": "🎨",
+        "options": ["Light", "Bright", "Dark", "Heavy"]
+      },
+      {
+        "Eng": "Local",
+        "tr": "yerel",
+        "emoji": "🎨",
+        "options": ["Local", "Foreign", "National", "Global"]
+      },
+      {
+        "Eng": "Metal",
+        "tr": "metal",
+        "emoji": "🎨",
+        "options": ["Metal", "Steel", "Glass", "Plastic"]
+      },
+      {
+        "Eng": "Modern",
+        "tr": "modern",
+        "emoji": "🎨",
+        "options": ["Modern", "Traditional", "Brand-new", "Old-fashioned"]
+      },
+      {
+        "Eng": "Peaceful",
+        "tr": "huzurlu",
+        "emoji": "🎨",
+        "options": ["Peaceful", "Quiet", "Cosy", "Crowded"]
+      },
+      {
+        "Eng": "Plastic",
+        "tr": "plastik",
+        "emoji": "🎨",
+        "options": ["Plastic", "Glass", "Metal", "Wooden"]
+      },
+      {
+        "Eng": "Quiet",
+        "tr": "sessiz",
+        "emoji": "🎨",
+        "options": ["Quiet", "Peaceful", "Noisy", "Crowded"]
+      },
+      {
+        "Eng": "Social",
+        "tr": "sosyal",
+        "emoji": "🎨",
+        "options": ["Social", "Friendly", "Public", "Private"]
+      },
+      {
+        "Eng": "Steel",
+        "tr": "çelik",
+        "emoji": "🎨",
+        "options": ["Steel", "Metal", "Iron", "Wood"]
+      },
+      {
+        "Eng": "Tiny",
+        "tr": "çok küçük",
+        "emoji": "🎨",
+        "options": ["Tiny", "Small", "Big", "Wide"]
+      },
+      {
+        "Eng": "Top",
+        "tr": "üst",
+        "emoji": "🎨",
+        "options": ["Top", "Bottom", "High", "Low"]
+      },
+      {
+        "Eng": "Traditional",
+        "tr": "geleneksel",
+        "emoji": "🎨",
+        "options": ["Traditional", "Historical", "Modern", "Local"]
+      },
+      {
+        "Eng": "Unusual",
+        "tr": "alışılmadık, sıradışı",
+        "emoji": "🎨",
+        "options": ["Unusual", "Interesting", "Ordinary", "Strange"]
+      },
+      {
+        "Eng": "Wide",
+        "tr": "geniş",
+        "emoji": "🎨",
+        "options": ["Wide", "Narrow", "Big", "Large"]
+      },
+      {
+        "Eng": "Wooden",
+        "tr": "ahşap",
+        "emoji": "🎨",
+        "options": ["Wooden", "Glass", "Metal", "Plastic"]
+      },
+      {
+        "Eng": "Attraction",
+        "tr": "ilgi çekici yer",
+        "emoji": "📚",
+        "options": ["Attraction", "Event", "Exhibition", "Tour"]
+      },
+      {
+        "Eng": "Best",
+        "tr": "en iyi şekilde",
+        "emoji": "📚",
+        "options": ["Best", "Better", "Good", "Great"]
+      },
+      {
+        "Eng": "Corner",
+        "tr": "köşe",
+        "emoji": "📚",
+        "options": ["Corner", "Edge", "Side", "Angle"]
+      },
+      {
+        "Eng": "Double-decker bus",
+        "tr": "çift katlı otobüs",
+        "emoji": "📚",
+        "options": ["Double-decker bus", "Bus", "Tram", "Train"]
+      },
+      {
+        "Eng": "House",
+        "tr": "ev",
+        "emoji": "📚",
+        "options": ["House", "Flat", "Home", "Building"]
+      },
+      {
+        "Eng": "Easily",
+        "tr": "kolayca",
+        "emoji": "📚",
+        "options": ["Easily", "Simply", "Quickly", "Hardly"]
+      },
+      {
+        "Eng": "Environment",
+        "tr": "çevre",
+        "emoji": "📚",
+        "options": ["Environment", "Nature", "Surroundings", "Neighbourhood"]
+      },
+      {
+        "Eng": "Event",
+        "tr": "etkinlik",
+        "emoji": "📚",
+        "options": ["Event", "Activity", "Festival", "Attraction"]
+      },
+      {
+        "Eng": "Hire",
+        "tr": "kiralamak",
+        "emoji": "📚",
+        "options": ["Hire", "Rent", "Borrow", "Buy"]
+      },
+      {
+        "Eng": "Inside",
+        "tr": "içeride",
+        "emoji": "📚",
+        "options": ["Inside", "Outside", "Within", "Indoors"]
+      },
+      {
+        "Eng": "Neighbourhood",
+        "tr": "mahalle",
+        "emoji": "📚",
+        "options": ["Neighbourhood", "Town", "City", "Area"]
+      },
+      {
+        "Eng": "Outside",
+        "tr": "dışarıda",
+        "emoji": "📚",
+        "options": ["Outside", "Inside", "Outdoors", "Away"]
+      },
+      {
+        "Eng": "Painting",
+        "tr": "tablo",
+        "emoji": "📚",
+        "options": ["Painting", "Art", "Picture", "Drawing"]
+      },
+      {
+        "Eng": "Recreation",
+        "tr": "hoşça vakit geçirme için yapılan etkinlikler",
+        "emoji": "📚",
+        "options": ["Recreation", "Entertainment", "Leisure", "Fun"]
+      },
+      {
+        "Eng": "Repair",
+        "tr": "tamir etmek",
+        "emoji": "📚",
+        "options": ["Repair", "Fix", "Mend", "Build"]
+      },
+      {
+        "Eng": "Skyscraper",
+        "tr": "gökdelen",
+        "emoji": "📚",
+        "options": ["Skyscraper", "Tower", "Building", "High-rise"]
+      },
+      {
+        "Eng": "Spin",
+        "tr": "dönmek, döndürmek",
+        "emoji": "📚",
+        "options": ["Spin", "Turn", "Rotate", "Roll"]
+      },
+      {
+        "Eng": "Stone",
+        "tr": "taş",
+        "emoji": "📚",
+        "options": ["Stone", "Rock", "Brick", "Tile"]
+      },
+      {
+        "Eng": "Stuff",
+        "tr": "eşya",
+        "emoji": "📚",
+        "options": ["Stuff", "Things", "Items", "Objects"]
+      },
+      {
+        "Eng": "Take a tour",
+        "tr": "tura çıkmak",
+        "emoji": "📚",
+        "options": ["Take a tour", "Travel", "Visit", "Explore"]
+      },
+      {
+        "Eng": "Tile",
+        "tr": "kiremit",
+        "emoji": "📚",
+        "options": ["Tile", "Brick", "Stone", "Roof"]
+      }
+    ]
+  ],
+  "Unit-6": "6",
+  "Sections-6": [
+    {
+      "category": "foods",
+      "emoji": "🍲",
+      "words": [
+        { "en": "baking powder", "tr": "kabartma tozu" },
+        { "en": "beans", "tr": "fasulye" },
+        { "en": "beef", "tr": "sığır eti, dana eti" },
+        { "en": "biscuit", "tr": "bisküvi" },
+        { "en": "bread", "tr": "ekmek" },
+        { "en": "butter", "tr": "tereyağı" },
+        { "en": "cheese", "tr": "peynir" },
+        { "en": "cinnamon", "tr": "tarçın" },
+        { "en": "corn", "tr": "mısır" },
+        { "en": "croissant", "tr": "kruvasan" },
+        { "en": "cucumber", "tr": "salatalık" },
+        { "en": "dairy products", "tr": "süt ürünleri" },
+        { "en": "fizzy drink", "tr": "gazlı içecek" },
+        { "en": "flour", "tr": "un" },
+        { "en": "fruit juice", "tr": "meyve suyu" },
+        { "en": "garlic", "tr": "sarımsak" },
+        { "en": "ice cream", "tr": "dondurma" },
+        { "en": "jam", "tr": "reçel" },
+        { "en": "lemon", "tr": "limon" },
+        { "en": "lentil", "tr": "mercimek" },
+        { "en": "lettuce", "tr": "marul" },
+        { "en": "meat", "tr": "et" },
+        { "en": "meatball", "tr": "köfte" },
+        { "en": "mushroom", "tr": "mantar" },
+        { "en": "nut", "tr": "kuruyemiş" },
+        { "en": "oil", "tr": "yağ" },
+        { "en": "olive", "tr": "zeytin" },
+        { "en": "pasta", "tr": "makarna" },
+        { "en": "pie", "tr": "turta" },
+        { "en": "salad", "tr": "salata" },
+        { "en": "salt", "tr": "tuz" },
+        { "en": "sauce", "tr": "sos" },
+        { "en": "smoothie", "tr": "smuti, meyveli içecek" },
+        { "en": "soda water", "tr": "maden suyu" },
+        { "en": "soup", "tr": "çorba" },
+        { "en": "spice", "tr": "baharat" },
+        { "en": "sugar", "tr": "şeker" },
+        { "en": "sweet", "tr": "şekerleme" },
+        { "en": "tart", "tr": "turta" },
+        { "en": "tuna", "tr": "ton balığı" }
+      ]
+    },
+    {
+      "category": "ordering_in_a_restaurant",
+      "emoji": "🍽️",
+      "words": [
+        { "en": "customer", "tr": "müşteri" },
+        { "en": "dessert", "tr": "tatlı" },
+        { "en": "dish", "tr": "yemek" },
+        { "en": "main dish", "tr": "ana yemek" },
+        { "en": "meal", "tr": "yemek" },
+        { "en": "order", "tr": "sipariş" },
+        { "en": "service", "tr": "servis, hizmet" },
+        { "en": "starter", "tr": "başlangıç yemeği" },
+        { "en": "waiter", "tr": "garson" }
+      ]
+    },
+    {
+      "category": "adjectives",
+      "emoji": "🌟",
+      "words": [
+        { "en": "available", "tr": "uygun, müsait" },
+        { "en": "boiled", "tr": "haşlanmış" },
+        { "en": "delicious", "tr": "nefis, çok lezzetli" },
+        { "en": "empty", "tr": "boş" },
+        { "en": "excellent", "tr": "harika, mükemmel" },
+        { "en": "fatty", "tr": "yağlı" },
+        { "en": "fresh", "tr": "taze" },
+        { "en": "grilled", "tr": "ızgara" },
+        { "en": "healthy", "tr": "sağlıklı" },
+        { "en": "home-made", "tr": "ev yapımı" },
+        { "en": "light", "tr": "hafif" },
+        { "en": "medium", "tr": "orta pişmiş" },
+        { "en": "rare", "tr": "az pişmiş" },
+        { "en": "special", "tr": "özel" },
+        { "en": "sweet", "tr": "tatlı" },
+        { "en": "tasty", "tr": "lezzetli" },
+        { "en": "well-done", "tr": "iyi pişmiş" },
+        { "en": "yummy", "tr": "lezzetli" }
+      ]
+    },
+    {
+      "category": "verbs",
+      "emoji": "👨‍‍🍳",
+      "words": [
+        { "en": "add", "tr": "eklemek" },
+        { "en": "boil", "tr": "kaynatmak" },
+        { "en": "book", "tr": "rezervasyon yapmak" },
+        { "en": "contain", "tr": "içermek" },
+        { "en": "cook", "tr": "pişirmek" },
+        { "en": "cut", "tr": "kesmek" },
+        { "en": "dry", "tr": "kurutmak" },
+        { "en": "fry", "tr": "kızartmak" },
+        { "en": "heat", "tr": "ısıtmak" },
+        { "en": "marinate", "tr": "marine etmek, terbiyelemek" },
+        { "en": "mash", "tr": "ezmek" },
+        { "en": "mix", "tr": "karıştırmak, karışım yapmak" },
+        { "en": "need", "tr": "gerekmek, ihtiyaç duymak" },
+        { "en": "order", "tr": "sipariş vermek" },
+        { "en": "pay", "tr": "ödemek" },
+        { "en": "prepare", "tr": "hazırlamak" },
+        { "en": "recommend", "tr": "tavsiye etmek" },
+        { "en": "reserve", "tr": "rezerve etmek" },
+        { "en": "serve", "tr": "servis yapmak" },
+        { "en": "smell", "tr": "koklamak, kokmak" },
+        { "en": "squeeze", "tr": "sıkmak, suyunu çıkarmak" },
+        { "en": "stir", "tr": "karıştırmak" },
+        { "en": "taste", "tr": "tatmak" },
+        { "en": "wash", "tr": "yıkamak" }
+      ]
+    },
+    {
+      "category": "phrases",
+      "emoji": "💬",
+      "words": [
+        { "en": "book a table", "tr": "masa ayırtmak" },
+        { "en": "lose weight", "tr": "kilo vermek" },
+        { "en": "pay by card", "tr": "kartla ödemek" },
+        { "en": "pay in cash", "tr": "nakit ödemek" },
+        { "en": "put on weight", "tr": "kilo almak" }
+      ]
+    },
+    {
+      "category": "other_important_words",
+      "emoji": "📚",
+      "words": [
+        { "en": "a bit", "tr": "biraz, azıcık" },
+        { "en": "amount", "tr": "miktar" },
+        { "en": "bowl", "tr": "kase" },
+        { "en": "carefully", "tr": "dikkatlice" },
+        { "en": "chef", "tr": "şef, aşçı" },
+        { "en": "cooker", "tr": "ocak" },
+        { "en": "cuisine", "tr": "mutfak (yemek kültürü)" },
+        { "en": "dough", "tr": "hamur" },
+        { "en": "ingredient", "tr": "malzeme" },
+        { "en": "pan", "tr": "tava" },
+        { "en": "pot", "tr": "tencere" },
+        { "en": "quality", "tr": "kalite" },
+        { "en": "quickly", "tr": "hızlıca" },
+        { "en": "recipe", "tr": "tarif" },
+        { "en": "secret", "tr": "sır" },
+        { "en": "slice", "tr": "dilim" },
+        { "en": "slowly", "tr": "yavaşça" },
+        { "en": "tablespoon", "tr": "yemek kaşığı" },
+        { "en": "teaspoon", "tr": "çay kaşığı" },
+        { "en": "tip", "tr": "tavsiye, ipucu" }
+      ]
+    },
+    [
+      {
+        "Eng": "Baking powder",
+        "tr": "kabartma tozu",
+        "emoji": "🍲",
+        "options": ["Baking powder", "Flour", "Sugar", "Salt"]
+      },
+      {
+        "Eng": "Beans",
+        "tr": "fasulye",
+        "emoji": "🍲",
+        "options": ["Beans", "Lentil", "Corn", "Mushroom"]
+      },
+      {
+        "Eng": "Beef",
+        "tr": "sığır eti, dana eti",
+        "emoji": "🍲",
+        "options": ["Beef", "Meat", "Meatball", "Tuna"]
+      },
+      {
+        "Eng": "Biscuit",
+        "tr": "bisküvi",
+        "emoji": "🍲",
+        "options": ["Biscuit", "Bread", "Croissant", "Sweet"]
+      },
+      {
+        "Eng": "Bread",
+        "tr": "ekmek",
+        "emoji": "🍲",
+        "options": ["Bread", "Biscuit", "Croissant", "Flour"]
+      },
+      {
+        "Eng": "Butter",
+        "tr": "tereyağı",
+        "emoji": "🍲",
+        "options": ["Butter", "Cheese", "Oil", "Dairy products"]
+      },
+      {
+        "Eng": "Cheese",
+        "tr": "peynir",
+        "emoji": "🍲",
+        "options": ["Cheese", "Butter", "Dairy products", "Jam"]
+      },
+      {
+        "Eng": "Cinnamon",
+        "tr": "tarçın",
+        "emoji": "🍲",
+        "options": ["Cinnamon", "Spice", "Sugar", "Salt"]
+      },
+      {
+        "Eng": "Corn",
+        "tr": "mısır",
+        "emoji": "🍲",
+        "options": ["Corn", "Beans", "Lentil", "Cucumber"]
+      },
+      {
+        "Eng": "Croissant",
+        "tr": "kruvasan",
+        "emoji": "🍲",
+        "options": ["Croissant", "Bread", "Biscuit", "Pie"]
+      },
+      {
+        "Eng": "Cucumber",
+        "tr": "salatalık",
+        "emoji": "🍲",
+        "options": ["Cucumber", "Lettuce", "Salad", "Lemon"]
+      },
+      {
+        "Eng": "Dairy products",
+        "tr": "süt ürünleri",
+        "emoji": "🍲",
+        "options": ["Dairy products", "Butter", "Cheese", "Ice cream"]
+      },
+      {
+        "Eng": "Fizzy drink",
+        "tr": "gazlı içecek",
+        "emoji": "🍲",
+        "options": ["Fizzy drink", "Soda water", "Fruit juice", "Smoothie"]
+      },
+      {
+        "Eng": "Flour",
+        "tr": "un",
+        "emoji": "🍲",
+        "options": ["Flour", "Baking powder", "Sugar", "Bread"]
+      },
+      {
+        "Eng": "Fruit juice",
+        "tr": "meyve suyu",
+        "emoji": "🍲",
+        "options": ["Fruit juice", "Smoothie", "Fizzy drink", "Soda water"]
+      },
+      {
+        "Eng": "Garlic",
+        "tr": "sarımsak",
+        "emoji": "🍲",
+        "options": ["Garlic", "Lemon", "Mushroom", "Spice"]
+      },
+      {
+        "Eng": "Ice cream",
+        "tr": "dondurma",
+        "emoji": "🍲",
+        "options": ["Ice cream", "Sweet", "Tart", "Jam"]
+      },
+      {
+        "Eng": "Jam",
+        "tr": "reçel",
+        "emoji": "🍲",
+        "options": ["Jam", "Butter", "Cheese", "Sweet"]
+      },
+      {
+        "Eng": "Lemon",
+        "tr": "limon",
+        "emoji": "🍲",
+        "options": ["Lemon", "Garlic", "Cucumber", "Sauce"]
+      },
+      {
+        "Eng": "Lentil",
+        "tr": "mercimek",
+        "emoji": "🍲",
+        "options": ["Lentil", "Beans", "Soup", "Corn"]
+      },
+      {
+        "Eng": "Lettuce",
+        "tr": "marul",
+        "emoji": "🍲",
+        "options": ["Lettuce", "Cucumber", "Salad", "Mushroom"]
+      },
+      {
+        "Eng": "Meat",
+        "tr": "et",
+        "emoji": "🍲",
+        "options": ["Meat", "Beef", "Meatball", "Tuna"]
+      },
+      {
+        "Eng": "Meatball",
+        "tr": "köfte",
+        "emoji": "🍲",
+        "options": ["Meatball", "Meat", "Beef", "Soup"]
+      },
+      {
+        "Eng": "Mushroom",
+        "tr": "mantar",
+        "emoji": "🍲",
+        "options": ["Mushroom", "Lettuce", "Garlic", "Nut"]
+      },
+      {
+        "Eng": "Nut",
+        "tr": "kuruyemiş",
+        "emoji": "🍲",
+        "options": ["Nut", "Spice", "Sweet", "Mushroom"]
+      },
+      {
+        "Eng": "Oil",
+        "tr": "yağ",
+        "emoji": "🍲",
+        "options": ["Oil", "Olive", "Butter", "Sauce"]
+      },
+      {
+        "Eng": "Olive",
+        "tr": "zeytin",
+        "emoji": "🍲",
+        "options": ["Olive", "Oil", "Cheese", "Salad"]
+      },
+      {
+        "Eng": "Pasta",
+        "tr": "makarna",
+        "emoji": "🍲",
+        "options": ["Pasta", "Soup", "Bread", "Sauce"]
+      },
+      {
+        "Eng": "Pie",
+        "tr": "turta",
+        "emoji": "🍲",
+        "options": ["Pie", "Tart", "Biscuit", "Croissant"]
+      },
+      {
+        "Eng": "Salad",
+        "tr": "salata",
+        "emoji": "🍲",
+        "options": ["Salad", "Lettuce", "Cucumber", "Soup"]
+      },
+      {
+        "Eng": "Salt",
+        "tr": "tuz",
+        "emoji": "🍲",
+        "options": ["Salt", "Sugar", "Spice", "Cinnamon"]
+      },
+      {
+        "Eng": "Sauce",
+        "tr": "sos",
+        "emoji": "🍲",
+        "options": ["Sauce", "Oil", "Spice", "Soup"]
+      },
+      {
+        "Eng": "Smoothie",
+        "tr": "smuti, meyveli içecek",
+        "emoji": "🍲",
+        "options": ["Smoothie", "Fruit juice", "Fizzy drink", "Soda water"]
+      },
+      {
+        "Eng": "Soda water",
+        "tr": "maden suyu",
+        "emoji": "🍲",
+        "options": ["Soda water", "Fizzy drink", "Fruit juice", "Smoothie"]
+      },
+      {
+        "Eng": "Soup",
+        "tr": "çorba",
+        "emoji": "🍲",
+        "options": ["Soup", "Lentil", "Salad", "Pasta"]
+      },
+      {
+        "Eng": "Spice",
+        "tr": "baharat",
+        "emoji": "🍲",
+        "options": ["Spice", "Cinnamon", "Salt", "Sauce"]
+      },
+      {
+        "Eng": "Sugar",
+        "tr": "şeker",
+        "emoji": "🍲",
+        "options": ["Sugar", "Salt", "Sweet", "Cinnamon"]
+      },
+      {
+        "Eng": "Sweet",
+        "tr": "şekerleme",
+        "emoji": "🍲",
+        "options": ["Sweet", "Sugar", "Ice cream", "Jam"]
+      },
+      {
+        "Eng": "Tart",
+        "tr": "turta",
+        "emoji": "🍲",
+        "options": ["Tart", "Pie", "Biscuit", "Croissant"]
+      },
+      {
+        "Eng": "Tuna",
+        "tr": "ton balığı",
+        "emoji": "🍲",
+        "options": ["Tuna", "Meat", "Beef", "Salad"]
+      },
+      {
+        "Eng": "Customer",
+        "tr": "müşteri",
+        "emoji": "🍽️",
+        "options": ["Customer", "Waiter", "Service", "Order"]
+      },
+      {
+        "Eng": "Dessert",
+        "tr": "tatlı",
+        "emoji": "🍽️",
+        "options": ["Dessert", "Starter", "Main dish", "Meal"]
+      },
+      {
+        "Eng": "Dish",
+        "tr": "yemek",
+        "emoji": "🍽️",
+        "options": ["Dish", "Main dish", "Meal", "Starter"]
+      },
+      {
+        "Eng": "Main dish",
+        "tr": "ana yemek",
+        "emoji": "🍽️",
+        "options": ["Main dish", "Starter", "Dessert", "Dish"]
+      },
+      {
+        "Eng": "Meal",
+        "tr": "yemek",
+        "emoji": "🍽️",
+        "options": ["Meal", "Dish", "Order", "Service"]
+      },
+      {
+        "Eng": "Order",
+        "tr": "sipariş",
+        "emoji": "🍽️",
+        "options": ["Order", "Service", "Customer", "Waiter"]
+      },
+      {
+        "Eng": "Service",
+        "tr": "servis, hizmet",
+        "emoji": "🍽️",
+        "options": ["Service", "Order", "Waiter", "Customer"]
+      },
+      {
+        "Eng": "Starter",
+        "tr": "başlangıç yemeği",
+        "emoji": "🍽️",
+        "options": ["Starter", "Main dish", "Dessert", "Dish"]
+      },
+      {
+        "Eng": "Waiter",
+        "tr": "garson",
+        "emoji": "🍽️",
+        "options": ["Waiter", "Customer", "Service", "Order"]
+      },
+      {
+        "Eng": "Available",
+        "tr": "uygun, müsait",
+        "emoji": "🌟",
+        "options": ["Available", "Empty", "Special", "Fresh"]
+      },
+      {
+        "Eng": "Boiled",
+        "tr": "haşlanmış",
+        "emoji": "🌟",
+        "options": ["Boiled", "Grilled", "Fresh", "Fatty"]
+      },
+      {
+        "Eng": "Delicious",
+        "tr": "nefis, çok lezzetli",
+        "emoji": "🌟",
+        "options": ["Delicious", "Tasty", "Yummy", "Excellent"]
+      },
+      {
+        "Eng": "Empty",
+        "tr": "boş",
+        "emoji": "🌟",
+        "options": ["Empty", "Available", "Special", "Light"]
+      },
+      {
+        "Eng": "Excellent",
+        "tr": "harika, mükemmel",
+        "emoji": "🌟",
+        "options": ["Excellent", "Delicious", "Tasty", "Special"]
+      },
+      {
+        "Eng": "Fatty",
+        "tr": "yağlı",
+        "emoji": "🌟",
+        "options": ["Fatty", "Light", "Healthy", "Boiled"]
+      },
+      {
+        "Eng": "Fresh",
+        "tr": "taze",
+        "emoji": "🌟",
+        "options": ["Fresh", "Home-made", "Healthy", "Delicious"]
+      },
+      {
+        "Eng": "Grilled",
+        "tr": "ızgara",
+        "emoji": "🌟",
+        "options": ["Grilled", "Boiled", "Medium", "Well-done"]
+      },
+      {
+        "Eng": "Healthy",
+        "tr": "sağlıklı",
+        "emoji": "🌟",
+        "options": ["Healthy", "Fresh", "Light", "Home-made"]
+      },
+      {
+        "Eng": "Home-made",
+        "tr": "ev yapımı",
+        "emoji": "🌟",
+        "options": ["Home-made", "Fresh", "Delicious", "Special"]
+      },
+      {
+        "Eng": "Light",
+        "tr": "hafif",
+        "emoji": "🌟",
+        "options": ["Light", "Fatty", "Healthy", "Sweet"]
+      },
+      {
+        "Eng": "Medium",
+        "tr": "orta pişmiş",
+        "emoji": "🌟",
+        "options": ["Medium", "Rare", "Well-done", "Grilled"]
+      },
+      {
+        "Eng": "Rare",
+        "tr": "az pişmiş",
+        "emoji": "🌟",
+        "options": ["Rare", "Medium", "Well-done", "Boiled"]
+      },
+      {
+        "Eng": "Special",
+        "tr": "özel",
+        "emoji": "🌟",
+        "options": ["Special", "Excellent", "Home-made", "Available"]
+      },
+      {
+        "Eng": "Sweet",
+        "tr": "tatlı",
+        "emoji": "🌟",
+        "options": ["Sweet", "Delicious", "Tasty", "Light"]
+      },
+      {
+        "Eng": "Tasty",
+        "tr": "lezzetli",
+        "emoji": "🌟",
+        "options": ["Tasty", "Delicious", "Yummy", "Fresh"]
+      },
+      {
+        "Eng": "Well-done",
+        "tr": "iyi pişmiş",
+        "emoji": "🌟",
+        "options": ["Well-done", "Medium", "Rare", "Grilled"]
+      },
+      {
+        "Eng": "Yummy",
+        "tr": "lezzetli",
+        "emoji": "🌟",
+        "options": ["Yummy", "Tasty", "Delicious", "Sweet"]
+      },
+      {
+        "Eng": "Add",
+        "tr": "eklemek",
+        "emoji": "👨‍‍🍳",
+        "options": ["Add", "Mix", "Stir", "Contain"]
+      },
+      {
+        "Eng": "Boil",
+        "tr": "kaynatmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Boil", "Fry", "Cook", "Heat"]
+      },
+      {
+        "Eng": "Book",
+        "tr": "rezervasyon yapmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Book", "Reserve", "Order", "Pay"]
+      },
+      {
+        "Eng": "Contain",
+        "tr": "içermek",
+        "emoji": "👨‍‍🍳",
+        "options": ["Contain", "Add", "Need", "Prepare"]
+      },
+      {
+        "Eng": "Cook",
+        "tr": "pişirmek",
+        "emoji": "👨‍‍🍳",
+        "options": ["Cook", "Prepare", "Boil", "Fry"]
+      },
+      {
+        "Eng": "Cut",
+        "tr": "kesmek",
+        "emoji": "👨‍‍🍳",
+        "options": ["Cut", "Mash", "Squeeze", "Dry"]
+      },
+      {
+        "Eng": "Dry",
+        "tr": "kurutmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Dry", "Wash", "Cut", "Heat"]
+      },
+      {
+        "Eng": "Fry",
+        "tr": "kızartmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Fry", "Boil", "Cook", "Marinate"]
+      },
+      {
+        "Eng": "Heat",
+        "tr": "ısıtmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Heat", "Boil", "Cook", "Dry"]
+      },
+      {
+        "Eng": "Marinate",
+        "tr": "marine etmek, terbiyelemek",
+        "emoji": "👨‍‍🍳",
+        "options": ["Marinate", "Prepare", "Mix", "Fry"]
+      },
+      {
+        "Eng": "Mash",
+        "tr": "ezmek",
+        "emoji": "👨‍‍🍳",
+        "options": ["Mash", "Cut", "Mix", "Squeeze"]
+      },
+      {
+        "Eng": "Mix",
+        "tr": "karıştırmak, karışım yapmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Mix", "Stir", "Add", "Mash"]
+      },
+      {
+        "Eng": "Need",
+        "tr": "gerekmek, ihtiyaç duymak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Need", "Contain", "Prepare", "Order"]
+      },
+      {
+        "Eng": "Order",
+        "tr": "sipariş vermek",
+        "emoji": "👨‍‍🍳",
+        "options": ["Order", "Pay", "Serve", "Book"]
+      },
+      {
+        "Eng": "Pay",
+        "tr": "ödemek",
+        "emoji": "👨‍‍🍳",
+        "options": ["Pay", "Order", "Book", "Reserve"]
+      },
+      {
+        "Eng": "Prepare",
+        "tr": "hazırlamak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Prepare", "Cook", "Serve", "Mix"]
+      },
+      {
+        "Eng": "Recommend",
+        "tr": "tavsiye etmek",
+        "emoji": "👨‍‍🍳",
+        "options": ["Recommend", "Serve", "Order", "Taste"]
+      },
+      {
+        "Eng": "Reserve",
+        "tr": "rezerve etmek",
+        "emoji": "👨‍‍🍳",
+        "options": ["Reserve", "Book", "Pay", "Order"]
+      },
+      {
+        "Eng": "Serve",
+        "tr": "servis yapmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Serve", "Prepare", "Recommend", "Order"]
+      },
+      {
+        "Eng": "Smell",
+        "tr": "koklamak, kokmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Smell", "Taste", "Wash", "Cook"]
+      },
+      {
+        "Eng": "Squeeze",
+        "tr": "sıkmak, suyunu çıkarmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Squeeze", "Mash", "Cut", "Mix"]
+      },
+      {
+        "Eng": "Stir",
+        "tr": "karıştırmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Stir", "Mix", "Add", "Mash"]
+      },
+      {
+        "Eng": "Taste",
+        "tr": "tatmak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Taste", "Smell", "Serve", "Recommend"]
+      },
+      {
+        "Eng": "Wash",
+        "tr": "yıkamak",
+        "emoji": "👨‍‍🍳",
+        "options": ["Wash", "Dry", "Cut", "Prepare"]
+      },
+      {
+        "Eng": "Book a table",
+        "tr": "masa ayırtmak",
+        "emoji": "💬",
+        "options": ["Book a table", "Pay by card", "Pay in cash", "Order"]
+      },
+      {
+        "Eng": "Lose weight",
+        "tr": "kilo vermek",
+        "emoji": "💬",
+        "options": [
+          "Lose weight",
+          "Put on weight",
+          "Book a table",
+          "Pay in cash"
+        ]
+      },
+      {
+        "Eng": "Pay by card",
+        "tr": "kartla ödemek",
+        "emoji": "💬",
+        "options": ["Pay by card", "Pay in cash", "Book a table", "Lose weight"]
+      },
+      {
+        "Eng": "Pay in cash",
+        "tr": "nakit ödemek",
+        "emoji": "💬",
+        "options": [
+          "Pay in cash",
+          "Pay by card",
+          "Book a table",
+          "Put on weight"
+        ]
+      },
+      {
+        "Eng": "Put on weight",
+        "tr": "kilo almak",
+        "emoji": "💬",
+        "options": [
+          "Put on weight",
+          "Lose weight",
+          "Pay by card",
+          "Book a table"
+        ]
+      },
+      {
+        "Eng": "A bit",
+        "tr": "biraz, azıcık",
+        "emoji": "📚",
+        "options": ["A bit", "Amount", "Slice", "Tip"]
+      },
+      {
+        "Eng": "Amount",
+        "tr": "miktar",
+        "emoji": "📚",
+        "options": ["Amount", "A bit", "Quality", "Slice"]
+      },
+      {
+        "Eng": "Bowl",
+        "tr": "kase",
+        "emoji": "📚",
+        "options": ["Bowl", "Pan", "Pot", "Slice"]
+      },
+      {
+        "Eng": "Carefully",
+        "tr": "dikkatlice",
+        "emoji": "📚",
+        "options": ["Carefully", "Quickly", "Slowly", "Secret"]
+      },
+      {
+        "Eng": "Chef",
+        "tr": "şef, aşçı",
+        "emoji": "📚",
+        "options": ["Chef", "Cooker", "Cuisine", "Recipe"]
+      },
+      {
+        "Eng": "Cooker",
+        "tr": "ocak",
+        "emoji": "📚",
+        "options": ["Cooker", "Chef", "Pan", "Pot"]
+      },
+      {
+        "Eng": "Cuisine",
+        "tr": "mutfak (yemek kültürü)",
+        "emoji": "📚",
+        "options": ["Cuisine", "Recipe", "Chef", "Ingredient"]
+      },
+      {
+        "Eng": "Dough",
+        "tr": "hamur",
+        "emoji": "📚",
+        "options": ["Dough", "Ingredient", "Recipe", "Slice"]
+      },
+      {
+        "Eng": "Ingredient",
+        "tr": "malzeme",
+        "emoji": "📚",
+        "options": ["Ingredient", "Dough", "Recipe", "Cuisine"]
+      },
+      {
+        "Eng": "Pan",
+        "tr": "tava",
+        "emoji": "📚",
+        "options": ["Pan", "Pot", "Bowl", "Cooker"]
+      },
+      {
+        "Eng": "Pot",
+        "tr": "tencere",
+        "emoji": "📚",
+        "options": ["Pot", "Pan", "Bowl", "Cooker"]
+      },
+      {
+        "Eng": "Quality",
+        "tr": "kalite",
+        "emoji": "📚",
+        "options": ["Quality", "Amount", "Secret", "Tip"]
+      },
+      {
+        "Eng": "Quickly",
+        "tr": "hızlıca",
+        "emoji": "📚",
+        "options": ["Quickly", "Slowly", "Carefully", "Secret"]
+      },
+      {
+        "Eng": "Recipe",
+        "tr": "tarif",
+        "emoji": "📚",
+        "options": ["Recipe", "Cuisine", "Ingredient", "Tip"]
+      },
+      {
+        "Eng": "Secret",
+        "tr": "sır",
+        "emoji": "📚",
+        "options": ["Secret", "Tip", "Recipe", "Quality"]
+      },
+      {
+        "Eng": "Slice",
+        "tr": "dilim",
+        "emoji": "📚",
+        "options": ["Slice", "Amount", "Tablespoon", "Teaspoon"]
+      },
+      {
+        "Eng": "Slowly",
+        "tr": "yavaşça",
+        "emoji": "📚",
+        "options": ["Slowly", "Quickly", "Carefully", "Secret"]
+      },
+      {
+        "Eng": "Tablespoon",
+        "tr": "yemek kaşığı",
+        "emoji": "📚",
+        "options": ["Tablespoon", "Teaspoon", "Slice", "Bowl"]
+      },
+      {
+        "Eng": "Teaspoon",
+        "tr": "çay kaşığı",
+        "emoji": "📚",
+        "options": ["Teaspoon", "Tablespoon", "Slice", "Bowl"]
+      },
+      {
+        "Eng": "Tip",
+        "tr": "tavsiye, ipucu",
+        "emoji": "📚",
+        "options": ["Tip", "Secret", "Recipe", "Quality"]
+      }
+    ]
+  ],
+
+  "Unit-7": "7",
+  "Sections-7": [
+    {
+      "category": "types_of_animals_in_nature",
+      "emoji": "🐾",
+      "words": [
+        { "en": "bird", "tr": "kuş" },
+        { "en": "insect", "tr": "böcek" },
+        { "en": "mammal", "tr": "memeli" },
+        { "en": "reptile", "tr": "sürüngen" }
+      ]
+    },
+    {
+      "category": "wild_animals_in_nature",
+      "emoji": "🦁",
+      "words": [
+        { "en": "bear", "tr": "ayı" },
+        { "en": "bee", "tr": "arı" },
+        { "en": "cheetah", "tr": "çita" },
+        { "en": "crocodile", "tr": "timsah" },
+        { "en": "eagle", "tr": "kartal" },
+        { "en": "elephant", "tr": "fil" },
+        { "en": "giraffe", "tr": "zürafa" },
+        { "en": "gorilla", "tr": "goril" },
+        { "en": "leopard", "tr": "leopar" },
+        { "en": "lion", "tr": "aslan" },
+        { "en": "monkey", "tr": "maymun" },
+        { "en": "parrot", "tr": "papağan" },
+        { "en": "penguin", "tr": "penguen" },
+        { "en": "seagull", "tr": "martı" },
+        { "en": "seal", "tr": "fok" },
+        { "en": "shark", "tr": "köpekbalığı" },
+        { "en": "snake", "tr": "yılan" },
+        { "en": "tiger", "tr": "kaplan" },
+        { "en": "whale", "tr": "balina" },
+        { "en": "wolf", "tr": "kurt" },
+        { "en": "zebra", "tr": "zebra" }
+      ]
+    },
+    {
+      "category": "habitats",
+      "emoji": "🌍",
+      "words": [
+        { "en": "coast", "tr": "sahil, deniz kıyısı" },
+        { "en": "farm", "tr": "çiftlik" },
+        { "en": "field", "tr": "tarla" },
+        { "en": "forest", "tr": "orman" },
+        { "en": "jungle", "tr": "tropikal orman" },
+        { "en": "mountain", "tr": "dağ" },
+        { "en": "national park", "tr": "milli park" },
+        { "en": "ocean", "tr": "okyanus" },
+        { "en": "river", "tr": "nehir" },
+        { "en": "savanna", "tr": "savan (otlak alan)" },
+        { "en": "sky", "tr": "gökyüzü" }
+      ]
+    },
+    {
+      "category": "body_parts_of_animals",
+      "emoji": "🦴",
+      "words": [
+        { "en": "feather", "tr": "tüy" },
+        { "en": "flipper", "tr": "yüzgeç" },
+        { "en": "paw", "tr": "pati" },
+        { "en": "stripe", "tr": "çizgi" },
+        { "en": "tail", "tr": "kuyruk" },
+        { "en": "tusk", "tr": "fildişi" },
+        { "en": "wing", "tr": "kanat" }
+      ]
+    },
+    {
+      "category": "adjectives",
+      "emoji": "🌟",
+      "words": [
+        { "en": "colourful", "tr": "rengarenk" },
+        { "en": "dangerous", "tr": "tehlikeli" },
+        { "en": "enormous", "tr": "devasa" },
+        { "en": "difficult", "tr": "zor" },
+        { "en": "easy", "tr": "kolay" },
+        { "en": "fast", "tr": "hızlı" },
+        { "en": "friendly", "tr": "cana yakın, içten" },
+        { "en": "full", "tr": "tok, karnı doymuş" },
+        { "en": "funny", "tr": "komik" },
+        { "en": "furry", "tr": "tüylü" },
+        { "en": "heavy", "tr": "ağır" },
+        { "en": "high", "tr": "yüksek" },
+        { "en": "huge", "tr": "kocaman" },
+        { "en": "quick", "tr": "hızlı" },
+        { "en": "quiet", "tr": "sessiz" },
+        { "en": "scary", "tr": "korkutucu" },
+        { "en": "slow", "tr": "yavaş" },
+        { "en": "strong", "tr": "güçlü" },
+        { "en": "weak", "tr": "güçsüz" },
+        { "en": "wild", "tr": "vahşi" }
+      ]
+    },
+    {
+      "category": "verbs",
+      "emoji": "⚙️",
+      "words": [
+        { "en": "attack", "tr": "saldırmak" },
+        { "en": "bark", "tr": "havlamak" },
+        { "en": "climb", "tr": "tırmanmak" },
+        { "en": "communicate", "tr": "iletişim kurmak" },
+        { "en": "fly", "tr": "uçmak" },
+        { "en": "hide", "tr": "saklanmak" },
+        { "en": "hunt", "tr": "avlanmak" },
+        { "en": "interact", "tr": "etkileşim kurmak" },
+        { "en": "move", "tr": "hareket etmek" },
+        { "en": "reach", "tr": "ulaşmak" },
+        { "en": "rest", "tr": "dinlenmek" },
+        { "en": "run", "tr": "koşmak" },
+        { "en": "survive", "tr": "hayatta kalmak" },
+        { "en": "swim", "tr": "yüzmek" },
+        { "en": "swing", "tr": "sallanmak" },
+        { "en": "talk", "tr": "konuşmak" },
+        { "en": "waddle", "tr": "paytak paytak yürümek" },
+        { "en": "wag", "tr": "sallamak (özellikle hayvan kuyruğu)" },
+        { "en": "watch out", "tr": "dikkat etmek" }
+      ]
+    },
+    {
+      "category": "other_important_words",
+      "emoji": "📚",
+      "words": [
+        { "en": "colony", "tr": "koloni, topluluk" },
+        { "en": "danger", "tr": "tehlike" },
+        { "en": "diet", "tr": "diyet, beslenme düzeni" },
+        { "en": "grass", "tr": "çim, çimen" },
+        { "en": "pet", "tr": "evcil hayvan" }
+      ]
+    },
+    [
+      {
+        "Eng": "Bird",
+        "tr": "kuş",
+        "emoji": "🐾",
+        "options": ["Bird", "Insect", "Mammal", "Reptile"]
+      },
+      {
+        "Eng": "Insect",
+        "tr": "böcek",
+        "emoji": "🐾",
+        "options": ["Insect", "Bird", "Reptile", "Mammal"]
+      },
+      {
+        "Eng": "Mammal",
+        "tr": "memeli",
+        "emoji": "🐾",
+        "options": ["Mammal", "Reptile", "Bird", "Insect"]
+      },
+      {
+        "Eng": "Reptile",
+        "tr": "sürüngen",
+        "emoji": "🐾",
+        "options": ["Reptile", "Mammal", "Insect", "Bird"]
+      },
+      {
+        "Eng": "Bear",
+        "tr": "ayı",
+        "emoji": "🦁",
+        "options": ["Bear", "Lion", "Tiger", "Wolf"]
+      },
+      {
+        "Eng": "Bee",
+        "tr": "arı",
+        "emoji": "🦁",
+        "options": ["Bee", "Eagle", "Parrot", "Seagull"]
+      },
+      {
+        "Eng": "Cheetah",
+        "tr": "çita",
+        "emoji": "🦁",
+        "options": ["Cheetah", "Leopard", "Lion", "Tiger"]
+      },
+      {
+        "Eng": "Crocodile",
+        "tr": "timsah",
+        "emoji": "🦁",
+        "options": ["Crocodile", "Snake", "Shark", "Seal"]
+      },
+      {
+        "Eng": "Eagle",
+        "tr": "kartal",
+        "emoji": "🦁",
+        "options": ["Eagle", "Parrot", "Seagull", "Penguin"]
+      },
+      {
+        "Eng": "Elephant",
+        "tr": "fil",
+        "emoji": "🦁",
+        "options": ["Elephant", "Giraffe", "Zebra", "Gorilla"]
+      },
+      {
+        "Eng": "Giraffe",
+        "tr": "zürafa",
+        "emoji": "🦁",
+        "options": ["Giraffe", "Elephant", "Zebra", "Monkey"]
+      },
+      {
+        "Eng": "Gorilla",
+        "tr": "goril",
+        "emoji": "🦁",
+        "options": ["Gorilla", "Monkey", "Bear", "Elephant"]
+      },
+      {
+        "Eng": "Leopard",
+        "tr": "leopar",
+        "emoji": "🦁",
+        "options": ["Leopard", "Cheetah", "Tiger", "Lion"]
+      },
+      {
+        "Eng": "Lion",
+        "tr": "aslan",
+        "emoji": "🦁",
+        "options": ["Lion", "Tiger", "Cheetah", "Leopard"]
+      },
+      {
+        "Eng": "Monkey",
+        "tr": "maymun",
+        "emoji": "🦁",
+        "options": ["Monkey", "Gorilla", "Giraffe", "Bear"]
+      },
+      {
+        "Eng": "Parrot",
+        "tr": "papağan",
+        "emoji": "🦁",
+        "options": ["Parrot", "Eagle", "Seagull", "Bee"]
+      },
+      {
+        "Eng": "Penguin",
+        "tr": "penguen",
+        "emoji": "🦁",
+        "options": ["Penguin", "Seal", "Whale", "Seagull"]
+      },
+      {
+        "Eng": "Seagull",
+        "tr": "martı",
+        "emoji": "🦁",
+        "options": ["Seagull", "Penguin", "Eagle", "Parrot"]
+      },
+      {
+        "Eng": "Seal",
+        "tr": "fok",
+        "emoji": "🦁",
+        "options": ["Seal", "Whale", "Penguin", "Shark"]
+      },
+      {
+        "Eng": "Shark",
+        "tr": "köpekbalığı",
+        "emoji": "🦁",
+        "options": ["Shark", "Whale", "Crocodile", "Seal"]
+      },
+      {
+        "Eng": "Snake",
+        "tr": "yılan",
+        "emoji": "🦁",
+        "options": ["Snake", "Crocodile", "Wolf", "Tiger"]
+      },
+      {
+        "Eng": "Tiger",
+        "tr": "kaplan",
+        "emoji": "🦁",
+        "options": ["Tiger", "Lion", "Cheetah", "Leopard"]
+      },
+      {
+        "Eng": "Whale",
+        "tr": "balina",
+        "emoji": "🦁",
+        "options": ["Whale", "Shark", "Seal", "Penguin"]
+      },
+      {
+        "Eng": "Wolf",
+        "tr": "kurt",
+        "emoji": "🦁",
+        "options": ["Wolf", "Bear", "Lion", "Snake"]
+      },
+      {
+        "Eng": "Zebra",
+        "tr": "zebra",
+        "emoji": "🦁",
+        "options": ["Zebra", "Giraffe", "Elephant", "Cheetah"]
+      },
+      {
+        "Eng": "Coast",
+        "tr": "sahil, deniz kıyısı",
+        "emoji": "🌍",
+        "options": ["Coast", "Ocean", "River", "Mountain"]
+      },
+      {
+        "Eng": "Farm",
+        "tr": "çiftlik",
+        "emoji": "🌍",
+        "options": ["Farm", "Field", "National park", "Forest"]
+      },
+      {
+        "Eng": "Field",
+        "tr": "tarla",
+        "emoji": "🌍",
+        "options": ["Field", "Farm", "Savanna", "River"]
+      },
+      {
+        "Eng": "Forest",
+        "tr": "orman",
+        "emoji": "🌍",
+        "options": ["Forest", "Jungle", "Mountain", "Coast"]
+      },
+      {
+        "Eng": "Jungle",
+        "tr": "tropikal orman",
+        "emoji": "🌍",
+        "options": ["Jungle", "Forest", "Savanna", "River"]
+      },
+      {
+        "Eng": "Mountain",
+        "tr": "dağ",
+        "emoji": "🌍",
+        "options": ["Mountain", "Forest", "Coast", "Sky"]
+      },
+      {
+        "Eng": "National park",
+        "tr": "milli park",
+        "emoji": "🌍",
+        "options": ["National park", "Farm", "Field", "Forest"]
+      },
+      {
+        "Eng": "Ocean",
+        "tr": "okyanus",
+        "emoji": "🌍",
+        "options": ["Ocean", "River", "Coast", "Sky"]
+      },
+      {
+        "Eng": "River",
+        "tr": "nehir",
+        "emoji": "🌍",
+        "options": ["River", "Ocean", "Field", "Mountain"]
+      },
+      {
+        "Eng": "Savanna",
+        "tr": "savan (otlak alan)",
+        "emoji": "🌍",
+        "options": ["Savanna", "Field", "Jungle", "Farm"]
+      },
+      {
+        "Eng": "Sky",
+        "tr": "gökyüzü",
+        "emoji": "🌍",
+        "options": ["Sky", "Mountain", "Ocean", "Coast"]
+      },
+      {
+        "Eng": "Feather",
+        "tr": "tüy",
+        "emoji": "🦴",
+        "options": ["Feather", "Wing", "Tail", "Flipper"]
+      },
+      {
+        "Eng": "Flipper",
+        "tr": "yüzgeç",
+        "emoji": "🦴",
+        "options": ["Flipper", "Tail", "Wing", "Paw"]
+      },
+      {
+        "Eng": "Paw",
+        "tr": "pati",
+        "emoji": "🦴",
+        "options": ["Paw", "Tail", "Stripe", "Tusk"]
+      },
+      {
+        "Eng": "Stripe",
+        "tr": "çizgi",
+        "emoji": "🦴",
+        "options": ["Stripe", "Tail", "Feather", "Tusk"]
+      },
+      {
+        "Eng": "Tail",
+        "tr": "kuyruk",
+        "emoji": "🦴",
+        "options": ["Tail", "Paw", "Wing", "Flipper"]
+      },
+      {
+        "Eng": "Tusk",
+        "tr": "fildişi",
+        "emoji": "🦴",
+        "options": ["Tusk", "Stripe", "Paw", "Feather"]
+      },
+      {
+        "Eng": "Wing",
+        "tr": "kanat",
+        "emoji": "🦴",
+        "options": ["Wing", "Feather", "Tail", "Flipper"]
+      },
+      {
+        "Eng": "Colourful",
+        "tr": "rengarenk",
+        "emoji": "🌟",
+        "options": ["Colourful", "Furry", "Dangerous", "Funny"]
+      },
+      {
+        "Eng": "Dangerous",
+        "tr": "tehlikeli",
+        "emoji": "🌟",
+        "options": ["Dangerous", "Scary", "Wild", "Strong"]
+      },
+      {
+        "Eng": "Enormous",
+        "tr": "devasa",
+        "emoji": "🌟",
+        "options": ["Enormous", "Huge", "Heavy", "High"]
+      },
+      {
+        "Eng": "Difficult",
+        "tr": "zor",
+        "emoji": "🌟",
+        "options": ["Difficult", "Easy", "Heavy", "Slow"]
+      },
+      {
+        "Eng": "Easy",
+        "tr": "kolay",
+        "emoji": "🌟",
+        "options": ["Easy", "Difficult", "Quick", "Fast"]
+      },
+      {
+        "Eng": "Fast",
+        "tr": "hızlı",
+        "emoji": "🌟",
+        "options": ["Fast", "Quick", "Slow", "Strong"]
+      },
+      {
+        "Eng": "Friendly",
+        "tr": "cana yakın, içten",
+        "emoji": "🌟",
+        "options": ["Friendly", "Funny", "Furry", "Quiet"]
+      },
+      {
+        "Eng": "Full",
+        "tr": "tok, karnı doymuş",
+        "emoji": "🌟",
+        "options": ["Full", "Heavy", "Strong", "Wild"]
+      },
+      {
+        "Eng": "Funny",
+        "tr": "komik",
+        "emoji": "🌟",
+        "options": ["Funny", "Friendly", "Scary", "Colourful"]
+      },
+      {
+        "Eng": "Furry",
+        "tr": "tüylü",
+        "emoji": "🌟",
+        "options": ["Furry", "Colourful", "Friendly", "Wild"]
+      },
+      {
+        "Eng": "Heavy",
+        "tr": "ağır",
+        "emoji": "🌟",
+        "options": ["Heavy", "Huge", "Enormous", "Light"]
+      },
+      {
+        "Eng": "High",
+        "tr": "yüksek",
+        "emoji": "🌟",
+        "options": ["High", "Heavy", "Enormous", "Strong"]
+      },
+      {
+        "Eng": "Huge",
+        "tr": "kocaman",
+        "emoji": "🌟",
+        "options": ["Huge", "Enormous", "Heavy", "Strong"]
+      },
+      {
+        "Eng": "Quick",
+        "tr": "hızlı",
+        "emoji": "🌟",
+        "options": ["Quick", "Fast", "Slow", "Strong"]
+      },
+      {
+        "Eng": "Quiet",
+        "tr": "sessiz",
+        "emoji": "🌟",
+        "options": ["Quiet", "Friendly", "Slow", "Wild"]
+      },
+      {
+        "Eng": "Scary",
+        "tr": "korkutucu",
+        "emoji": "🌟",
+        "options": ["Scary", "Dangerous", "Wild", "Funny"]
+      },
+      {
+        "Eng": "Slow",
+        "tr": "yavaş",
+        "emoji": "🌟",
+        "options": ["Slow", "Fast", "Quick", "Weak"]
+      },
+      {
+        "Eng": "Strong",
+        "tr": "güçlü",
+        "emoji": "🌟",
+        "options": ["Strong", "Weak", "Dangerous", "Fast"]
+      },
+      {
+        "Eng": "Weak",
+        "tr": "güçsüz",
+        "emoji": "🌟",
+        "options": ["Weak", "Strong", "Slow", "Heavy"]
+      },
+      {
+        "Eng": "Wild",
+        "tr": "vahşi",
+        "emoji": "🌟",
+        "options": ["Wild", "Dangerous", "Scary", "Strong"]
+      },
+      {
+        "Eng": "Attack",
+        "tr": "saldırmak",
+        "emoji": "⚙️",
+        "options": ["Attack", "Hunt", "Survive", "Move"]
+      },
+      {
+        "Eng": "Bark",
+        "tr": "havlamak",
+        "emoji": "⚙️",
+        "options": ["Bark", "Talk", "Communicate", "Waddle"]
+      },
+      {
+        "Eng": "Climb",
+        "tr": "tırmanmak",
+        "emoji": "⚙️",
+        "options": ["Climb", "Run", "Swim", "Fly"]
+      },
+      {
+        "Eng": "Communicate",
+        "tr": "iletişim kurmak",
+        "emoji": "⚙️",
+        "options": ["Communicate", "Interact", "Talk", "Bark"]
+      },
+      {
+        "Eng": "Fly",
+        "tr": "uçmak",
+        "emoji": "⚙️",
+        "options": ["Fly", "Swim", "Run", "Climb"]
+      },
+      {
+        "Eng": "Hide",
+        "tr": "saklanmak",
+        "emoji": "⚙️",
+        "options": ["Hide", "Move", "Rest", "Watch out"]
+      },
+      {
+        "Eng": "Hunt",
+        "tr": "avlanmak",
+        "emoji": "⚙️",
+        "options": ["Hunt", "Attack", "Survive", "Move"]
+      },
+      {
+        "Eng": "Interact",
+        "tr": "etkileşim kurmak",
+        "emoji": "⚙️",
+        "options": ["Interact", "Communicate", "Talk", "Move"]
+      },
+      {
+        "Eng": "Move",
+        "tr": "hareket etmek",
+        "emoji": "⚙️",
+        "options": ["Move", "Run", "Swim", "Walk"]
+      },
+      {
+        "Eng": "Reach",
+        "tr": "ulaşmak",
+        "emoji": "⚙️",
+        "options": ["Reach", "Move", "Climb", "Run"]
+      },
+      {
+        "Eng": "Rest",
+        "tr": "dinlenmek",
+        "emoji": "⚙️",
+        "options": ["Rest", "Hide", "Move", "Survive"]
+      },
+      {
+        "Eng": "Run",
+        "tr": "koşmak",
+        "emoji": "⚙️",
+        "options": ["Run", "Swim", "Fly", "Climb"]
+      },
+      {
+        "Eng": "Survive",
+        "tr": "hayatta kalmak",
+        "emoji": "⚙️",
+        "options": ["Survive", "Hunt", "Attack", "Rest"]
+      },
+      {
+        "Eng": "Swim",
+        "tr": "yüzmek",
+        "emoji": "⚙️",
+        "options": ["Swim", "Run", "Fly", "Climb"]
+      },
+      {
+        "Eng": "Swing",
+        "tr": "sallanmak",
+        "emoji": "⚙️",
+        "options": ["Swing", "Climb", "Move", "Waddle"]
+      },
+      {
+        "Eng": "Talk",
+        "tr": "konuşmak",
+        "emoji": "⚙️",
+        "options": ["Talk", "Communicate", "Bark", "Interact"]
+      },
+      {
+        "Eng": "Waddle",
+        "tr": "paytak paytak yürümek",
+        "emoji": "⚙️",
+        "options": ["Waddle", "Move", "Run", "Swim"]
+      },
+      {
+        "Eng": "Wag",
+        "tr": "sallamak (özellikle hayvan kuyruğu)",
+        "emoji": "⚙️",
+        "options": ["Wag", "Move", "Swing", "Rest"]
+      },
+      {
+        "Eng": "Watch out",
+        "tr": "dikkat etmek",
+        "emoji": "⚙️",
+        "options": ["Watch out", "Hide", "Survive", "Attack"]
+      },
+      {
+        "Eng": "Colony",
+        "tr": "koloni, topluluk",
+        "emoji": "📚",
+        "options": ["Colony", "Group", "Danger", "Diet"]
+      },
+      {
+        "Eng": "Danger",
+        "tr": "tehlike",
+        "emoji": "📚",
+        "options": ["Danger", "Colony", "Diet", "Pet"]
+      },
+      {
+        "Eng": "Diet",
+        "tr": "diyet, beslenme düzeni",
+        "emoji": "📚",
+        "options": ["Diet", "Grass", "Colony", "Danger"]
+      },
+      {
+        "Eng": "Grass",
+        "tr": "çim, çimen",
+        "emoji": "📚",
+        "options": ["Grass", "Diet", "Pet", "Colony"]
+      },
+      {
+        "Eng": "Pet",
+        "tr": "evcil hayvan",
+        "emoji": "📚",
+        "options": ["Pet", "Colony", "Danger", "Diet"]
+      }
+    ]
+  ],
+  "Unit-8": "8",
+  "Sections-8": [
+    {
+      "category": "planet_earth",
+      "emoji": "🌍",
+      "words": [
+        { "en": "canyon", "tr": "kanyon" },
+        { "en": "climate", "tr": "iklim" },
+        { "en": "continent", "tr": "kita" },
+        { "en": "coral reef", "tr": "mercan kayalığı" },
+        { "en": "desert", "tr": "çöl" },
+        { "en": "island", "tr": "ada" },
+        { "en": "lake", "tr": "göl" },
+        { "en": "ocean", "tr": "okyanus" },
+        { "en": "river", "tr": "nehir" },
+        { "en": "rock", "tr": "kaya, taş" },
+        { "en": "sand dune", "tr": "kum tepesi" },
+        { "en": "season", "tr": "mevsim" },
+        { "en": "sky", "tr": "gökyüzü" },
+        { "en": "temperature", "tr": "sıcaklık" },
+        { "en": "valley", "tr": "vadi" },
+        { "en": "mountain", "tr": "dağ" },
+        { "en": "hill", "tr": "tepe" }
+      ]
+    },
+    {
+      "category": "words_about_holidays",
+      "emoji": "🏖️",
+      "words": [
+        { "en": "amusement park", "tr": "lunapark, eğlence parkı" },
+        { "en": "beach", "tr": "plaj" },
+        { "en": "bridge", "tr": "köprü" },
+        { "en": "destination", "tr": "gidilecek yer" },
+        { "en": "fountain", "tr": "çeşme" },
+        { "en": "holiday", "tr": "tatil" },
+        { "en": "jolly", "tr": "eğlenceli etkinlik, gezi" },
+        { "en": "national park", "tr": "milli park" },
+        { "en": "seaside", "tr": "deniz kenarı" },
+        {
+          "en": "summer / winter / spring / half-term",
+          "tr": "yaz / kış / ilkbahar / dönem arası tatili"
+        },
+        { "en": "tour", "tr": "gezi, tur" },
+        { "en": "tower", "tr": "kule" },
+        { "en": "trip", "tr": "gezi" },
+        { "en": "zoo", "tr": "hayvanat bahçesi" }
+      ]
+    },
+    {
+      "category": "adjectives",
+      "emoji": "🌟",
+      "words": [
+        { "en": "amazing", "tr": "şaşırtıcı, harika" },
+        { "en": "calm", "tr": "sakin" },
+        { "en": "famous", "tr": "ünlü" },
+        { "en": "fun", "tr": "eğlenceli" },
+        { "en": "historical", "tr": "tarihi" },
+        { "en": "magical", "tr": "büyülü" },
+        { "en": "peaceful", "tr": "huzurlu" },
+        { "en": "tiring", "tr": "yorucu" },
+        { "en": "unforgettable", "tr": "unutulmaz" },
+        { "en": "giant", "tr": "devasa, kocaman" },
+        { "en": "deep", "tr": "derin" },
+        { "en": "perfect", "tr": "mükemmel" }
+      ]
+    },
+    {
+      "category": "verbs",
+      "emoji": "⚙️",
+      "words": [
+        { "en": "book", "tr": "rezervasyon yapmak" },
+        { "en": "explore", "tr": "keşfetmek" },
+        { "en": "flow", "tr": "akmak" },
+        { "en": "invite", "tr": "davet etmek" },
+        { "en": "involve", "tr": "içermek, dahil etmek" },
+        { "en": "need", "tr": "ihtiyaç duymak" },
+        { "en": "pack", "tr": "eşya toplamak, bavul hazırlamak" },
+        { "en": "recommend", "tr": "tavsiye etmek" },
+        { "en": "relax", "tr": "rahatlamak" },
+        { "en": "rest", "tr": "dinlenmek" },
+        { "en": "rise", "tr": "yükselmek" }
+      ]
+    },
+    {
+      "category": "holiday_activities",
+      "emoji": "⛵",
+      "words": [
+        { "en": "build / make a sandcastle", "tr": "kumdan kale yapmak" },
+        { "en": "collect seashells", "tr": "deniz kabuğu toplamak" },
+        { "en": "hiking", "tr": "doğa yürüyüşü" },
+        { "en": "join a sightseeing tour", "tr": "şehir turuna katılmak" },
+        { "en": "ride a camel", "tr": "deveye binmek" },
+        {
+          "en": "ride a roller coaster",
+          "tr": "hız trenine binmek (lunaparkta)"
+        },
+        { "en": "scuba diving", "tr": "tüplü dalış" },
+        { "en": "skiing", "tr": "kayak yapma" },
+        { "en": "snorkelling", "tr": "şorkelle yüzme" },
+        { "en": "swim with dolphins", "tr": "yunuslarla yüzmek" },
+        { "en": "take a boat tour", "tr": "tekne turuna çıkmak" },
+        { "en": "take photos", "tr": "fotoğraf çekmek" },
+        { "en": "visit a museum", "tr": "müzeyi ziyaret etmek" }
+      ]
+    },
+    {
+      "category": "other_important_words",
+      "emoji": "📚",
+      "words": [
+        { "en": "beauty", "tr": "güzellik" },
+        { "en": "ice", "tr": "buz" },
+        { "en": "including", "tr": "dahil, kapsayan" },
+        { "en": "opportunity", "tr": "fırsat" },
+        { "en": "sunscreen", "tr": "güneş kremi" },
+        { "en": "tourism", "tr": "turizm" }
+      ]
+    },
+    [
+      {
+        "Eng": "Canyon",
+        "tr": "kanyon",
+        "emoji": "🌍",
+        "options": ["Canyon", "Valley", "Desert", "Mountain"]
+      },
+      {
+        "Eng": "Climate",
+        "tr": "iklim",
+        "emoji": "🌍",
+        "options": ["Climate", "Season", "Temperature", "Sky"]
+      },
+      {
+        "Eng": "Continent",
+        "tr": "kita",
+        "emoji": "🌍",
+        "options": ["Continent", "Island", "Desert", "Ocean"]
+      },
+      {
+        "Eng": "Coral reef",
+        "tr": "mercan kayalığı",
+        "emoji": "🌍",
+        "options": ["Coral reef", "Island", "Rock", "Sand dune"]
+      },
+      {
+        "Eng": "Desert",
+        "tr": "çöl",
+        "emoji": "🌍",
+        "options": ["Desert", "Canyon", "Valley", "Island"]
+      },
+      {
+        "Eng": "Island",
+        "tr": "ada",
+        "emoji": "🌍",
+        "options": ["Island", "Continent", "Lake", "Ocean"]
+      },
+      {
+        "Eng": "Lake",
+        "tr": "göl",
+        "emoji": "🌍",
+        "options": ["Lake", "River", "Ocean", "Island"]
+      },
+      {
+        "Eng": "Ocean",
+        "tr": "okyanus",
+        "emoji": "🌍",
+        "options": ["Ocean", "River", "Lake", "Continent"]
+      },
+      {
+        "Eng": "River",
+        "tr": "nehir",
+        "emoji": "🌍",
+        "options": ["River", "Lake", "Ocean", "Valley"]
+      },
+      {
+        "Eng": "Rock",
+        "tr": "kaya, taş",
+        "emoji": "🌍",
+        "options": ["Rock", "Sand dune", "Mountain", "Hill"]
+      },
+      {
+        "Eng": "Sand dune",
+        "tr": "kum tepesi",
+        "emoji": "🌍",
+        "options": ["Sand dune", "Desert", "Rock", "Hill"]
+      },
+      {
+        "Eng": "Season",
+        "tr": "mevsim",
+        "emoji": "🌍",
+        "options": ["Season", "Climate", "Temperature", "Sky"]
+      },
+      {
+        "Eng": "Sky",
+        "tr": "gökyüzü",
+        "emoji": "🌍",
+        "options": ["Sky", "Temperature", "Season", "Climate"]
+      },
+      {
+        "Eng": "Temperature",
+        "tr": "sıcaklık",
+        "emoji": "🌍",
+        "options": ["Temperature", "Climate", "Season", "Sky"]
+      },
+      {
+        "Eng": "Valley",
+        "tr": "vadi",
+        "emoji": "🌍",
+        "options": ["Valley", "Canyon", "Mountain", "Hill"]
+      },
+      {
+        "Eng": "Mountain",
+        "tr": "dağ",
+        "emoji": "🌍",
+        "options": ["Mountain", "Hill", "Valley", "Canyon"]
+      },
+      {
+        "Eng": "Hill",
+        "tr": "tepe",
+        "emoji": "🌍",
+        "options": ["Hill", "Mountain", "Rock", "Sand dune"]
+      },
+      {
+        "Eng": "Amusement park",
+        "tr": "lunapark, eğlence parkı",
+        "emoji": "🏖️",
+        "options": ["Amusement park", "National park", "Beach", "Zoo"]
+      },
+      {
+        "Eng": "Beach",
+        "tr": "plaj",
+        "emoji": "🏖️",
+        "options": ["Beach", "Seaside", "Destination", "Holiday"]
+      },
+      {
+        "Eng": "Bridge",
+        "tr": "köprü",
+        "emoji": "🏖️",
+        "options": ["Bridge", "Tower", "Fountain", "Tour"]
+      },
+      {
+        "Eng": "Destination",
+        "tr": "gidilecek yer",
+        "emoji": "🏖️",
+        "options": ["Destination", "Holiday", "Trip", "Tour"]
+      },
+      {
+        "Eng": "Fountain",
+        "tr": "çeşme",
+        "emoji": "🏖️",
+        "options": ["Fountain", "Bridge", "Tower", "Amusement park"]
+      },
+      {
+        "Eng": "Holiday",
+        "tr": "tatil",
+        "emoji": "🏖️",
+        "options": ["Holiday", "Trip", "Tour", "Destination"]
+      },
+      {
+        "Eng": "Jolly",
+        "tr": "eğlenceli etkinlik, gezi",
+        "emoji": "🏖️",
+        "options": ["Jolly", "Tour", "Trip", "Holiday"]
+      },
+      {
+        "Eng": "National park",
+        "tr": "milli park",
+        "emoji": "🏖️",
+        "options": ["National park", "Amusement park", "Zoo", "Beach"]
+      },
+      {
+        "Eng": "Seaside",
+        "tr": "deniz kenarı",
+        "emoji": "🏖️",
+        "options": ["Seaside", "Beach", "Destination", "Holiday"]
+      },
+      {
+        "Eng": "Summer / winter / spring / half-term",
+        "tr": "yaz / kış / ilkbahar / dönem arası tatili",
+        "emoji": "🏖️",
+        "options": [
+          "Summer / winter / spring / half-term",
+          "Holiday",
+          "Trip",
+          "Tour"
+        ]
+      },
+      {
+        "Eng": "Tour",
+        "tr": "gezi, tur",
+        "emoji": "🏖️",
+        "options": ["Tour", "Trip", "Destination", "Holiday"]
+      },
+      {
+        "Eng": "Tower",
+        "tr": "kule",
+        "emoji": "🏖️",
+        "options": ["Tower", "Bridge", "Fountain", "Destination"]
+      },
+      {
+        "Eng": "Trip",
+        "tr": "gezi",
+        "emoji": "🏖️",
+        "options": ["Trip", "Tour", "Holiday", "Destination"]
+      },
+      {
+        "Eng": "Zoo",
+        "tr": "hayvanat bahçesi",
+        "emoji": "🏖️",
+        "options": ["Zoo", "Amusement park", "National park", "Beach"]
+      },
+      {
+        "Eng": "Amazing",
+        "tr": "şaşırtıcı, harika",
+        "emoji": "🌟",
+        "options": ["Amazing", "Perfect", "Magical", "Fun"]
+      },
+      {
+        "Eng": "Calm",
+        "tr": "sakin",
+        "emoji": "🌟",
+        "options": ["Calm", "Peaceful", "Tiring", "Famous"]
+      },
+      {
+        "Eng": "Famous",
+        "tr": "ünlü",
+        "emoji": "🌟",
+        "options": ["Famous", "Amazing", "Magical", "Perfect"]
+      },
+      {
+        "Eng": "Fun",
+        "tr": "eğlenceli",
+        "emoji": "🌟",
+        "options": ["Fun", "Amazing", "Perfect", "Tiring"]
+      },
+      {
+        "Eng": "Historical",
+        "tr": "tarihi",
+        "emoji": "🌟",
+        "options": ["Historical", "Famous", "Magical", "Unforgettable"]
+      },
+      {
+        "Eng": "Magical",
+        "tr": "büyülü",
+        "emoji": "🌟",
+        "options": ["Magical", "Amazing", "Perfect", "Historical"]
+      },
+      {
+        "Eng": "Peaceful",
+        "tr": "huzurlu",
+        "emoji": "🌟",
+        "options": ["Peaceful", "Calm", "Tiring", "Fun"]
+      },
+      {
+        "Eng": "Tiring",
+        "tr": "yorucu",
+        "emoji": "🌟",
+        "options": ["Tiring", "Calm", "Peaceful", "Fun"]
+      },
+      {
+        "Eng": "Unforgettable",
+        "tr": "unutulmaz",
+        "emoji": "🌟",
+        "options": ["Unforgettable", "Amazing", "Magical", "Perfect"]
+      },
+      {
+        "Eng": "Giant",
+        "tr": "devasa, kocaman",
+        "emoji": "🌟",
+        "options": ["Giant", "Deep", "Amazing", "Perfect"]
+      },
+      {
+        "Eng": "Deep",
+        "tr": "derin",
+        "emoji": "🌟",
+        "options": ["Deep", "Giant", "Amazing", "Perfect"]
+      },
+      {
+        "Eng": "Perfect",
+        "tr": "mükemmel",
+        "emoji": "🌟",
+        "options": ["Perfect", "Amazing", "Magical", "Unforgettable"]
+      },
+      {
+        "Eng": "Book",
+        "tr": "rezervasyon yapmak",
+        "emoji": "⚙️",
+        "options": ["Book", "Recommend", "Explore", "Pack"]
+      },
+      {
+        "Eng": "Explore",
+        "tr": "keşfetmek",
+        "emoji": "⚙️",
+        "options": ["Explore", "Book", "Involve", "Rise"]
+      },
+      {
+        "Eng": "Flow",
+        "tr": "akmak",
+        "emoji": "⚙️",
+        "options": ["Flow", "Rise", "Explore", "Relax"]
+      },
+      {
+        "Eng": "Invite",
+        "tr": "davet etmek",
+        "emoji": "⚙️",
+        "options": ["Invite", "Involve", "Need", "Recommend"]
+      },
+      {
+        "Eng": "Involve",
+        "tr": "içermek, dahil etmek",
+        "emoji": "⚙️",
+        "options": ["Involve", "Invite", "Need", "Explore"]
+      },
+      {
+        "Eng": "Need",
+        "tr": "ihtiyaç duymak",
+        "emoji": "⚙️",
+        "options": ["Need", "Involve", "Invite", "Book"]
+      },
+      {
+        "Eng": "Pack",
+        "tr": "eşya toplamak, bavul hazırlamak",
+        "emoji": "⚙️",
+        "options": ["Pack", "Book", "Recommend", "Explore"]
+      },
+      {
+        "Eng": "Recommend",
+        "tr": "tavsiye etmek",
+        "emoji": "⚙️",
+        "options": ["Recommend", "Book", "Explore", "Invite"]
+      },
+      {
+        "Eng": "Relax",
+        "tr": "rahatlamak",
+        "emoji": "⚙️",
+        "options": ["Relax", "Rest", "Flow", "Rise"]
+      },
+      {
+        "Eng": "Rest",
+        "tr": "dinlenmek",
+        "emoji": "⚙️",
+        "options": ["Rest", "Relax", "Flow", "Rise"]
+      },
+      {
+        "Eng": "Rise",
+        "tr": "yükselmek",
+        "emoji": "⚙️",
+        "options": ["Rise", "Flow", "Explore", "Relax"]
+      },
+      {
+        "Eng": "Build / make a sandcastle",
+        "tr": "kumdan kale yapmak",
+        "emoji": "⛵",
+        "options": [
+          "Build / make a sandcastle",
+          "Collect seashells",
+          "Take a boat tour",
+          "Scuba diving"
+        ]
+      },
+      {
+        "Eng": "Collect seashells",
+        "tr": "deniz kabuğu toplamak",
+        "emoji": "⛵",
+        "options": [
+          "Collect seashells",
+          "Build / make a sandcastle",
+          "Scuba diving",
+          "Snorkelling"
+        ]
+      },
+      {
+        "Eng": "Hiking",
+        "tr": "doğa yürüyüşü",
+        "emoji": "⛵",
+        "options": [
+          "Hiking",
+          "Skiing",
+          "Join a sightseeing tour",
+          "Take photos"
+        ]
+      },
+      {
+        "Eng": "Join a sightseeing tour",
+        "tr": "şehir turuna katılmak",
+        "emoji": "⛵",
+        "options": [
+          "Join a sightseeing tour",
+          "Take a boat tour",
+          "Hiking",
+          "Visit a museum"
+        ]
+      },
+      {
+        "Eng": "Ride a camel",
+        "tr": "deveye binmek",
+        "emoji": "⛵",
+        "options": ["Ride a camel", "Ride a roller coaster", "Hiking", "Skiing"]
+      },
+      {
+        "Eng": "Ride a roller coaster",
+        "tr": "hız trenine binmek (lunaparkta)",
+        "emoji": "⛵",
+        "options": [
+          "Ride a roller coaster",
+          "Ride a camel",
+          "Join a sightseeing tour",
+          "Take photos"
+        ]
+      },
+      {
+        "Eng": "Scuba diving",
+        "tr": "tüplü dalış",
+        "emoji": "⛵",
+        "options": [
+          "Scuba diving",
+          "Snorkelling",
+          "Swim with dolphins",
+          "Collect seashells"
+        ]
+      },
+      {
+        "Eng": "Skiing",
+        "tr": "kayak yapma",
+        "emoji": "⛵",
+        "options": ["Skiing", "Hiking", "Ride a camel", "Take photos"]
+      },
+      {
+        "Eng": "Snorkelling",
+        "tr": "şorkelle yüzme",
+        "emoji": "⛵",
+        "options": [
+          "Snorkelling",
+          "Scuba diving",
+          "Swim with dolphins",
+          "Collect seashells"
+        ]
+      },
+      {
+        "Eng": "Swim with dolphins",
+        "tr": "yunuslarla yüzmek",
+        "emoji": "⛵",
+        "options": [
+          "Swim with dolphins",
+          "Scuba diving",
+          "Snorkelling",
+          "Take a boat tour"
+        ]
+      },
+      {
+        "Eng": "Take a boat tour",
+        "tr": "tekne turuna çıkmak",
+        "emoji": "⛵",
+        "options": [
+          "Take a boat tour",
+          "Join a sightseeing tour",
+          "Swim with dolphins",
+          "Take photos"
+        ]
+      },
+      {
+        "Eng": "Take photos",
+        "tr": "fotoğraf çekmek",
+        "emoji": "⛵",
+        "options": [
+          "Take photos",
+          "Visit a museum",
+          "Hiking",
+          "Join a sightseeing tour"
+        ]
+      },
+      {
+        "Eng": "Visit a museum",
+        "tr": "müzeyi ziyaret etmek",
+        "emoji": "⛵",
+        "options": [
+          "Visit a museum",
+          "Take photos",
+          "Join a sightseeing tour",
+          "Hiking"
+        ]
+      },
+      {
+        "Eng": "Beauty",
+        "tr": "güzellik",
+        "emoji": "📚",
+        "options": ["Beauty", "Opportunity", "Tourism", "Ice"]
+      },
+      {
+        "Eng": "Ice",
+        "tr": "buz",
+        "emoji": "📚",
+        "options": ["Ice", "Sunscreen", "Beauty", "Opportunity"]
+      },
+      {
+        "Eng": "Including",
+        "tr": "dahil, kapsayan",
+        "emoji": "📚",
+        "options": ["Including", "Opportunity", "Tourism", "Beauty"]
+      },
+      {
+        "Eng": "Opportunity",
+        "tr": "fırsat",
+        "emoji": "📚",
+        "options": ["Opportunity", "Beauty", "Tourism", "Including"]
+      },
+      {
+        "Eng": "Sunscreen",
+        "tr": "güneş kremi",
+        "emoji": "📚",
+        "options": ["Sunscreen", "Ice", "Opportunity", "Tourism"]
+      },
+      {
+        "Eng": "Tourism",
+        "tr": "turizm",
+        "emoji": "📚",
+        "options": ["Tourism", "Opportunity", "Beauty", "Including"]
+      }
+    ]
+  ]
+}

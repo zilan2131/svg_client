@@ -1,0 +1,1515 @@
+{
+  "Unit-1": "1",
+  "Sections-1": [
+    {
+      "Unites": "Unit 1",
+      "section": "grammar",
+      "title": "Rule 1: Expressing Likes and Dislikes",
+      "chapter": "grammar_1",
+      "emoji": "❤️",
+      "description": "Expressing Likes and Dislikes",
+      "descriptionTr": "Sevilen ve Sevilmeyen Durumları İfade Etme",
+      "statement": [
+        "Bir şeyleri sevdiğimizi, hoşlandığımızı, tercih ettiğimizi veya sevmediğimizi belirtmek için kullanılan kalıplar:",
+        {
+          "title": "Beğenileri belirtmek için: like, love, prefer",
+          "description": "I like music club. (Müzik kulübünü severim.), John loves studying in the library. (John kütüphanede ders çalışmayı çok sever.), Kate prefers going to the canteen. (Kate kantine gitmeyi tercih eder.)"
+        },
+        {
+          "title": "Hoşlanmama ve nefret etme durumları: don't/doesn't like, dislike, hate",
+          "description": "I don't like exams. (Sınavları sevmem.), Jack doesn't like doing homework. (Jack ödev yapmayı sevmez.), I hate tests. (Testlerden nefret ederim.)"
+        },
+        {
+          "title": "İsim kullanımı",
+          "description": "like, love, prefer, hate, dislike fiillerinden sonra bir isim kullanabiliriz (Örn: I like the library.)."
+        },
+        {
+          "title": "-ing takısı kullanımı",
+          "description": "like, love, prefer, hate, dislike fiillerinden sonra başka bir fiil kullanılacaksa bu fiile -ing takısı eklenir (Örn: I love learning languages.)."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "I like the library.",
+          "tr": "Kütüphaneyi severim.",
+          "emoji": "📚"
+        },
+        {
+          "Eng": "John loves studying in the classroom.",
+          "tr": "John sınıfta ders çalışmayı çok sever.",
+          "emoji": "🏫"
+        },
+        {
+          "Eng": "Kate prefers going to the canteen.",
+          "tr": "Kate kantine gitmeyi tercih eder.",
+          "emoji": "🥪"
+        },
+        {
+          "Eng": "I don't like exams.",
+          "tr": "Sınavları sevmem.",
+          "emoji": "📝"
+        },
+        {
+          "Eng": "Jack doesn't like doing homework.",
+          "tr": "Jack ödev yapmayı sevmez.",
+          "emoji": "📚"
+        },
+        {
+          "Eng": "I dislike school subjects.",
+          "tr": "Okul derslerinden hoşlanmam.",
+          "emoji": "📖"
+        },
+        {
+          "Eng": "Sally dislikes taking exams.",
+          "tr": "Sally sınav olmaktan hoşlanmaz.",
+          "emoji": "📋"
+        },
+        {
+          "Eng": "I hate difficult exams.",
+          "tr": "Zor sınavlardan nefret ederim.",
+          "emoji": "❌"
+        },
+        {
+          "Eng": "She hates doing homework.",
+          "tr": "O, ödev yapmaktan nefret eder.",
+          "emoji": "😩"
+        },
+        {
+          "Eng": "I love visiting the library.",
+          "tr": "Kütüphaneyi ziyaret etmeyi çok severim.",
+          "emoji": "🏛️"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "I like the chess club.",
+          "tr": "Satranç kulübünü severim.",
+          "emoji": "♟️️"
+        },
+        {
+          "Eng": "Tom likes the drama club.",
+          "tr": "Tom tiyatro kulübünü sever.",
+          "emoji": "🎭"
+        },
+        {
+          "Eng": "My friends love playing in the playground.",
+          "tr": "Arkadaşlarım oyun alanında oynamayı çok sever.",
+          "emoji": "🛝"
+        },
+        {
+          "Eng": "I like the school canteen.",
+          "tr": "Okul kantinini severim.",
+          "emoji": "🍏"
+        },
+        {
+          "Eng": "Sally likes the music club, but she hates exams.",
+          "tr": "Sally müzik kulübünü sever, ancak sınavlardan nefret eder.",
+          "emoji": "🎶"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 1",
+      "section": "grammar",
+      "title": "Rule 2: Wh- Questions",
+      "chapter": "grammar_2",
+      "emoji": "❓",
+      "description": "Wh- Questions",
+      "descriptionTr": "Soru Kelimeleri (Wh- Soruları)",
+      "statement": [
+        "Detaylı bilgi almak ve soru sormak için kullanılan soru kelimeleri:",
+        {
+          "title": "WHAT (Ne?)",
+          "description": "What is your favourite subject? -> It's Maths."
+        },
+        {
+          "title": "WHO (Kim?)",
+          "description": "Who is your principal? -> Mr. Brown."
+        },
+        {
+          "title": "WHERE (Nerede?)",
+          "description": "Where are you from? -> I'm from Turkey."
+        },
+        {
+          "title": "WHICH (Hangisi?)",
+          "description": "Which countries can you visit? -> I can visit France and Italy."
+        },
+        {
+          "title": "HOW OLD (Kaç yaşında?)",
+          "description": "How old is the student? -> He is fourteen."
+        },
+        {
+          "title": "HOW (Nasıl?)",
+          "description": "How is your break? -> It's great, thanks."
+        },
+        {
+          "title": "HOW MANY (Kaç tane?)",
+          "description": "How many lessons do you have? -> We have six lessons."
+        },
+        {
+          "title": "WHY (Neden?)",
+          "description": "Why do you like the science club? -> Because doing experiments is fun."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "What is your favourite subject?",
+          "tr": "En sevdiğin ders nedir?",
+          "emoji": "📚"
+        },
+        {
+          "Eng": "Who is your principal?",
+          "tr": "Müdürün kim?",
+          "emoji": "👨‍💼"
+        },
+        {
+          "Eng": "Where are you from?",
+          "tr": "Nerelisin?",
+          "emoji": "🌍"
+        },
+        {
+          "Eng": "Which countries do you know?",
+          "tr": "Hangi ülkeleri biliyorsun?",
+          "emoji": "🗺️"
+        },
+        {
+          "Eng": "How old is the student?",
+          "tr": "Öğrenci kaç yaşında?",
+          "emoji": "🧑‍🎓"
+        },
+        {
+          "Eng": "How is your break?",
+          "tr": "Teneffüsün nasıl geçiyor?",
+          "emoji": "🔔"
+        },
+        {
+          "Eng": "How many students are in the classroom?",
+          "tr": "Sınıfta kaç öğrenci var?",
+          "emoji": "👥"
+        },
+        {
+          "Eng": "Why do you like Republic Day?",
+          "tr": "Neden Cumhuriyet Bayramı'nı seviyorsun?",
+          "emoji": "🇹🇷"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "What school clubs are you a member of?",
+          "tr": "Hangi okul kulüplerinin üyesisin?",
+          "emoji": "🏫"
+        },
+        {
+          "Eng": "Where is the teacher from?",
+          "tr": "Öğretmen nereli?",
+          "emoji": "✈️"
+        },
+        {
+          "Eng": "How many teachers are in the school?",
+          "tr": "Okulda kaç öğretmen var?",
+          "emoji": "🏫"
+        },
+        {
+          "Eng": "Why do you dislike exams?",
+          "tr": "Neden sınavları sevmiyorsun?",
+          "emoji": "📝"
+        },
+        {
+          "Eng": "How is your lesson today?",
+          "tr": "Bugünkü dersin nasıl?",
+          "emoji": "😊"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 1",
+      "section": "grammar",
+      "title": "Rule 3: Imperatives",
+      "chapter": "grammar_3",
+      "emoji": "⚠️",
+      "description": "Imperatives",
+      "descriptionTr": "Emir Cümleleri ve Yönergeler",
+      "statement": [
+        "Emir cümlelerini, yönergeleri ve talimatlar vermek için kullanılan yapılar:",
+        {
+          "title": "Olumlu Emirler",
+          "description": "Clean the classroom. (Sınıfı temizle.) / Listen to the teacher. (Öğretmeni dinle.)"
+        },
+        {
+          "title": "Olumsuz Emirler (Don't)",
+          "description": "Don't run in the playground. (Oyun alanında koşma.) / Don't shout in the library. (Kütüphanede bağırma.)"
+        },
+        {
+          "title": "Nezaket Eki (Please)",
+          "description": "Daha kibar olmak için cümlelerin başına veya sonuna \"please\" eklenir (Örn: Please, clean the blackboard)."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "Clean the classroom.",
+          "tr": "Sınıfı temizle.",
+          "emoji": "🧹"
+        },
+        {
+          "Eng": "Listen to the teacher.",
+          "tr": "Öğretmeni dinle.",
+          "emoji": "👨‍🏫"
+        },
+        {
+          "Eng": "Don't run in the corridors.",
+          "tr": "Koridorlarda koşma.",
+          "emoji": "🏃‍♂️"
+        },
+        {
+          "Eng": "Don't shout in the library.",
+          "tr": "Kütüphanede bağırma.",
+          "emoji": "🤫"
+        },
+        {
+          "Eng": "Please, raise your flag.",
+          "tr": "Lütfen bayrağını kaldır/çek.",
+          "emoji": "🚩"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "Don't run in the classroom!",
+          "tr": "Sınıfta koşma!",
+          "emoji": "🏃‍♂️"
+        },
+        {
+          "Eng": "Clean the canteen!",
+          "tr": "Kantini temizle!",
+          "emoji": "🧽"
+        },
+        {
+          "Eng": "Keep the library clean!",
+          "tr": "Kütüphaneyi temiz tut!",
+          "emoji": "📚"
+        },
+        {
+          "Eng": "Don't make a noise during the lesson!",
+          "tr": "Ders sırasında gürültü yapma!",
+          "emoji": "🤫"
+        },
+        {
+          "Eng": "Close the classroom door!",
+          "tr": "Sınıf kapısını kapat!",
+          "emoji": "🚪"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 1",
+      "section": "grammar",
+      "title": "Rule 4: Must / Mustn't / Can't",
+      "chapter": "grammar_4",
+      "emoji": "🛑",
+      "description": "Must, Mustn't and Can't",
+      "descriptionTr": "Zorunluluklar ve Yasaklar (Must / Mustn't / Can't)",
+      "statement": [
+        "Kurallardan, zorunluluklardan ve yasaklardan bahsederken kullanılan yapılar:",
+        {
+          "title": "Must (Zorunluluk / Kural)",
+          "description": "Zorunluluklar, kurallar veya görevlerden bahsederken kullanılır (Örn: Students must come to school on time.)."
+        },
+        {
+          "title": "Mustn't / Can't (Yasak)",
+          "description": "Yasaklardan bahsederken mustn't veya can't kullanılır (Örn: Students mustn't talk in the library. / You can't eat in the classroom.)."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "Students must come to school on time.",
+          "tr": "Öğrenciler okula zamanında gelmelidir.",
+          "emoji": "🏫"
+        },
+        {
+          "Eng": "The teacher must prepare the exam.",
+          "tr": "Öğretmen sınavı hazırlamak zorunda.",
+          "emoji": "📝"
+        },
+        {
+          "Eng": "Students mustn't shout in the library.",
+          "tr": "Öğrenciler kütüphanede bağırmamaladır.",
+          "emoji": "🤫"
+        },
+        {
+          "Eng": "You can't use your phone during the lesson.",
+          "tr": "Derste telefonunu kullanamazsın.",
+          "emoji": "📵"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "You must listen to the teacher during the lesson.",
+          "tr": "Derste öğretmeni dinlemelisin.",
+          "emoji": "👂"
+        },
+        {
+          "Eng": "We must do our homework on time.",
+          "tr": "Ödevimizi zamanında yapmalıyız.",
+          "emoji": "📚"
+        },
+        {
+          "Eng": "You mustn't run in the corridors.",
+          "tr": "Koridorlarda koşmamalısın.",
+          "emoji": "🚶‍♂️"
+        },
+        {
+          "Eng": "He mustn't eat or drink in the library.",
+          "tr": "Kütüphanede yiyip içmemelidir.",
+          "emoji": "🍔"
+        },
+        {
+          "Eng": "Jack mustn't use his mobile phone in the lesson.",
+          "tr": "Jack derste cep telefonunu kullanmamalıdır.",
+          "emoji": "📵"
+        }
+      ]
+    }
+  ],
+  "Unit-2": "2",
+  "Sections-2": [
+    {
+      "Unites": "Unit 2",
+      "section": "grammar",
+      "title": "Rule 1: Telling the Time",
+      "chapter": "grammar_1",
+      "emoji": "⏰",
+      "description": "Telling the Time",
+      "descriptionTr": "Saatleri Söyleme ve Sorma",
+      "statement": [
+        "Saatlerin kaç olduğunu sormak, söylemek ve zaman dilimlerini belirtmek için kullanılan kalıplar:",
+        {
+          "title": "Saat sormak için: What time is it?",
+          "description": "What time is it? (Saat kaç?)"
+        },
+        {
+          "title": "Tam saatleri belirtmek için: It's ... o'clock",
+          "description": "It's ten o'clock (Saat on)."
+        },
+        {
+          "title": "Geçen dakikaları söylemek için: ... past ...",
+          "description": "It's (a) quarter past ten (Onu çeyrek geçiyor) veya It's twenty past six (Altıyı yirmi geçiyor)."
+        },
+        {
+          "title": "Kalan dakikaları söylemek için: ... to ...",
+          "description": "It's ten to eleven (On bire ten var) veya It's (a) quarter to nine (Dokuza çeyrek var)."
+        },
+        {
+          "title": "Buçuklu saatleri söylemek için: It's half past ...",
+          "description": "It's half past five (Saat beş buçuk)."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "What time is it?",
+          "tr": "Saat kaç?",
+          "emoji": "❓"
+        },
+        {
+          "Eng": "It's ten o'clock.",
+          "tr": "Saat on.",
+          "emoji": "🕙"
+        },
+        {
+          "Eng": "It's quarter past ten.",
+          "tr": "Onu çeyrek geçiyor.",
+          "emoji": "🕥"
+        },
+        {
+          "Eng": "It's half past ten.",
+          "tr": "Saat on buçuk.",
+          "emoji": "🕥"
+        },
+        {
+          "Eng": "It's quarter to eleven.",
+          "tr": "On bire çeyrek var.",
+          "emoji": "⏰"
+        },
+        {
+          "Eng": "It's ten to eleven.",
+          "tr": "On bire ten var.",
+          "emoji": "⏰"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "It's quarter past twelve.",
+          "tr": "On ikiyi çeyrek geçiyor.",
+          "emoji": "🕛"
+        },
+        {
+          "Eng": "It's twenty to nine.",
+          "tr": "Dokuza yirmi var.",
+          "emoji": "⏰"
+        },
+        {
+          "Eng": "It's half past five.",
+          "tr": "Saat beş buçuk.",
+          "emoji": "🕠"
+        },
+        {
+          "Eng": "It's twenty past six.",
+          "tr": "Altıyı yirmi geçiyor.",
+          "emoji": "🕡"
+        },
+        {
+          "Eng": "It's quarter to nine.",
+          "tr": "Dokuza çeyrek var.",
+          "emoji": "🕘"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 2",
+      "section": "grammar",
+      "title": "Rule 2: The Simple Present Tense",
+      "chapter": "grammar_2",
+      "emoji": "🔄",
+      "description": "The Simple Present Tense",
+      "descriptionTr": "Geniş Zaman (Rutinler ve Alışkanlıklar)",
+      "statement": [
+        "Günlük rutinleri, alışkanlıkları ve ders programlarını anlatmak için kullanılır:",
+        {
+          "title": "Olumlu Cümle (Affirmative)",
+          "description": "I/You/We/They sleep | He/She/It sleeps (-s eki alır)."
+        },
+        {
+          "title": "Olumsuz Cümle (Negative)",
+          "description": "I/You/We/They do not (don't) sleep | He/She/It does not (doesn't) sleep."
+        },
+        {
+          "title": "Soru ve Kısa Cevaplar (Interrogative)",
+          "description": "Do I/you/we/they sleep? -> Yes, I do. / No, I don't. | Does he/she/it sleep? -> Yes, he does. / No, he doesn't."
+        },
+        {
+          "title": "Sık Kullanılan Zaman İfadeleri",
+          "description": "every day / week, in the morning / afternoon / evening, on Monday / Tuesday vb."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "I wake up at 7 o'clock every morning.",
+          "tr": "Her sabah saat 7'de uyanırım.",
+          "emoji": "⏰"
+        },
+        {
+          "Eng": "He plays basketball on Sunday.",
+          "tr": "O, Pazar günü basketbol oynar.",
+          "emoji": "🏀"
+        },
+        {
+          "Eng": "Alice doesn't watch TV in the evenings.",
+          "tr": "Alice akşamları televizyon izlemez.",
+          "emoji": "📺"
+        },
+        {
+          "Eng": "My lessons start at 8:30 in the morning.",
+          "tr": "Derslerim sabah 8:30'da başlar.",
+          "emoji": "🏫"
+        },
+        {
+          "Eng": "Do you play basketball on weekdays?",
+          "tr": "Hafta içi günlerde basketbol oynar mısın?",
+          "emoji": "🏀"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "Mike wakes up at half past seven in the morning.",
+          "tr": "Mike sabah saat yedi buçukta uyanır.",
+          "emoji": "🌅"
+        },
+        {
+          "Eng": "My lessons finish at 9 o'clock.",
+          "tr": "Derslerim saat 9'da biter.",
+          "emoji": "🔔"
+        },
+        {
+          "Eng": "Jill goes to school at 9:15 on Monday.",
+          "tr": "Jill Pazartesi günü saat 9:15'te okula gider.",
+          "emoji": "🎒"
+        },
+        {
+          "Eng": "The kids have lunch at noon.",
+          "tr": "Çocuklar öğleyin öğle yemeği yerler.",
+          "emoji": "🥪"
+        },
+        {
+          "Eng": "My friends and I tidy up the classroom after the lessons.",
+          "tr": "Arkadaşlarımla ben derslerden sonra sınıfı toplarız.",
+          "emoji": "🧹"
+        }
+      ]
+    }
+  ],
+  "Unit-3": "3",
+  "Sections-3": [
+    {
+      "Unites": "Unit 3",
+      "section": "grammar",
+      "title": "Rule 1: Question Tags",
+      "chapter": "grammar_1",
+      "emoji": "❓",
+      "description": "Question Tags for Simple Present Tense",
+      "descriptionTr": "Değil mi? Soru Ekleri (Question Tags)",
+      "statement": [
+        "Cümlenin sonunda onay almak veya karşıdakine 'değil mi?' diye sormak için kullanılan eklerdir:",
+        {
+          "title": "Olumlu Cümle İçin Olumsuz Soru Eki",
+          "description": "Olumlu cümlelerde olumsuz soru ekleri kullanılır (örneğin: isn't it, aren't they, don't you, doesn't she, don't they)[cite: 7]."
+        },
+        {
+          "title": "Olumsuz Cümle İçin Olumlu Soru Eki",
+          "description": "Olumsuz cümlelerde olumlu soru ekleri kullanılır (örneğin: is it, are they, do you, does she)[cite: 7]."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "Your skirt is new, isn't it?",
+          "tr": "Eteğin yeni, değil mi?",
+          "emoji": "👗"
+        },
+        {
+          "Eng": "You play football, don't you?",
+          "tr": "Sen futbol oynarsın, değil mi?",
+          "emoji": "⚽"
+        },
+        {
+          "Eng": "She likes playing chess, doesn't she?",
+          "tr": "O, satranç oynamayı sever, değil mi?",
+          "emoji": "♟️️"
+        },
+        {
+          "Eng": "This dress isn't expensive, is it?",
+          "tr": "Bu elbise pahalı değil, değil mi?",
+          "emoji": "🏷️"
+        },
+        {
+          "Eng": "You don't like milk, do you?",
+          "tr": "Süt sevmezsin, değil mi?",
+          "emoji": "🥛"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "You are good at drawing, aren't you?",
+          "tr": "Resim çizmede iyisin, değil misin?",
+          "emoji": "🎨"
+        },
+        {
+          "Eng": "Mary doesn't wear trousers, does she?",
+          "tr": "Mary pantolon giymez, giyer mi?",
+          "emoji": "👖"
+        },
+        {
+          "Eng": "Jack is tall, isn't he?",
+          "tr": "Jack uzun, değil mi?",
+          "emoji": "📏"
+        },
+        {
+          "Eng": "We don't have English on Fridays, do we?",
+          "tr": "Cuma günleri İngilizcemiz yok, var mı?",
+          "emoji": "📚"
+        },
+        {
+          "Eng": "This isn't your umbrella, is it?",
+          "tr": "Bu senin şemsiyen değil, değil mi?",
+          "emoji": "☂️"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 3",
+      "section": "grammar",
+      "title": "Rule 2: Adverbs of Frequency",
+      "chapter": "grammar_2",
+      "emoji": "📊",
+      "description": "Adverbs of Frequency",
+      "descriptionTr": "Sıklık Zarfları",
+      "statement": [
+        "Bir eylemin ne kadar sıklıkla yapıldığını belirtmek için sıklık zarfları kullanılır[cite: 8]:",
+        {
+          "title": "Sıklık Oranları",
+          "description": "%100 Always (her zaman) -> %80 Usually (genellikle) -> %50 Often (sık sık) -> %20 Sometimes (bazen) -> %0 Never (asla)[cite: 8]."
+        },
+        {
+          "title": "Cümle İçindeki Yeri",
+          "description": "Sıklık zarfları ana fiilden önce, ancak 'to be' (am/is/are) fiilinden sonra kullanılır[cite: 8]."
+        },
+        {
+          "title": "Soru Kalıbı",
+          "description": "Bir eylemin sıklığını sormak için 'How often' soru kalıbı kullanılır[cite: 8]."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "I usually read a book in the evening.",
+          "tr": "Genellikle akşamları kitap okurum.",
+          "emoji": "📖"
+        },
+        {
+          "Eng": "They sometimes play football after school.",
+          "tr": "Onlar bazen okuldan sonra futbol oynarlar.",
+          "emoji": "⚽"
+        },
+        {
+          "Eng": "Jack never plays video games.",
+          "tr": "Jack asla video oyunu oynamaz.",
+          "emoji": "🎮"
+        },
+        {
+          "Eng": "Mary is always cool and trendy.",
+          "tr": "Mary her zaman havalı ve modaya uygundur.",
+          "emoji": "🌟"
+        },
+        {
+          "Eng": "How often do you read a book?",
+          "tr": "Ne sıklıkla kitap okursun?",
+          "emoji": "❓"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "I often go jogging in the morning.",
+          "tr": "Sabahları sık sık koşuya çıkarım.",
+          "emoji": "🏃"
+        },
+        {
+          "Eng": "Jack is never late for school.",
+          "tr": "Jack asla okula geç kalmaz.",
+          "emoji": "⏰"
+        },
+        {
+          "Eng": "She always goes out on Saturdays.",
+          "tr": "O, her zaman cumartesi günleri dışarı çıkar.",
+          "emoji": "🛍️"
+        },
+        {
+          "Eng": "She sometimes buys a fashion magazine.",
+          "tr": "O, bazen bir moda dergisi satın alır.",
+          "emoji": "📰"
+        },
+        {
+          "Eng": "Do you usually listen to music?",
+          "tr": "Genellikle müzik dinler misin?",
+          "emoji": "🎧"
+        }
+      ]
+    }
+  ],
+  "Unit-4": "4",
+  "Sections-4": [
+    {
+      "Unites": "Unit 4",
+      "section": "grammar",
+      "title": "Rule 1: Possessive Pronouns",
+      "chapter": "grammar_1",
+      "emoji": "👜",
+      "description": "Possessive Pronouns",
+      "descriptionTr": "İyelik Zamirleri",
+      "statement": [
+        "Bir şeyin kime ait olduğunu söylemek için iyelik zamirlerini (mine, yours, his, hers, ours, theirs) isim yerine kullanırız[cite: 9].",
+        {
+          "title": "Özne Zamirleri ve Karşılıkları",
+          "description": "I -> mine, you -> yours, he -> his, she -> hers, we -> ours, they -> theirs[cite: 9]."
+        },
+        {
+          "title": "İsim Yerine Kullanım",
+          "description": "İsim tekrarını önlemek için 'It isn't hers or mine' veya 'Is it yours?' şeklinde kullanılır[cite: 9]."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "Is this your bag or hers?",
+          "tr": "Bu senin çantan mı yoksa onun mu?",
+          "emoji": "👜"
+        },
+        {
+          "Eng": "It isn't hers or mine.",
+          "tr": "O ne onunki ne de benimki.",
+          "emoji": "🎒"
+        },
+        {
+          "Eng": "There is a pen on the desk. Is it yours?",
+          "tr": "Sırada bir kalem var. O senin mi?",
+          "emoji": "✒️"
+        },
+        {
+          "Eng": "No, it is his.",
+          "tr": "Hayır, o onun.",
+          "emoji": "✏️"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "Whose is this bicycle? It is Peter's. Yes, it is his.",
+          "tr": "Bu bisiklet kime ait? Peter'ın. Evet, o onun.",
+          "emoji": "🚲"
+        },
+        {
+          "Eng": "Whose is this camera? It is my parents'. Yes, it is theirs.",
+          "tr": "Bu kamera kime ait? Ebeveynlerimin. Evet, o onların.",
+          "emoji": "📷"
+        },
+        {
+          "Eng": "Whose is this scooter? It is Emma's. Yes, it is hers.",
+          "tr": "Bu skuter kime ait? Emma'nın. Evet, o onun.",
+          "emoji": "🛴"
+        },
+        {
+          "Eng": "Whose is this piano? It is yours and your sister's. Yes, it is ours.",
+          "tr": "Bu piyano kime ait? Senin ve kız kardeşinin. Evet, o bizim.",
+          "emoji": "🎹"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 4",
+      "section": "grammar",
+      "title": "Rule 2: Present Continuous Tense",
+      "chapter": "grammar_2",
+      "emoji": "🏃‍♂️",
+      "description": "Present Continuous Tense",
+      "descriptionTr": "Şimdiki Zaman",
+      "statement": [
+        "Şu anda gerçekleşen eylemleri anlatmak için Present Continuous Tense yapısını kullanırız[cite: 10].",
+        {
+          "title": "Olumlu Cümle (Affirmative)",
+          "description": "I am ('m) sleeping | He/She/It is ('s) sleeping | We/You/They are ('re) sleeping[cite: 10]."
+        },
+        {
+          "title": "Olumsuz Cümle (Negative)",
+          "description": "I am not ('m not) sleeping | He/She/It is not (isn't) sleeping | We/You/They are not (aren't) sleeping[cite: 10]."
+        },
+        {
+          "title": "Yazım Kuralları (Spelling)",
+          "description": "Çoğu fiil -ing alır. -e ile biten fiillerde -e düşer ve -ing eklenir (come -> coming). Kısa sesli + sessiz harfle bitenlerde son harf tekrarlanır (run -> running)[cite: 10]."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "I'm reading a book now.",
+          "tr": "Şu anda kitap okuyorum.",
+          "emoji": "📖"
+        },
+        {
+          "Eng": "She isn't climbing the tree.",
+          "tr": "O, ağaca tırmanmıyor.",
+          "emoji": "🌳"
+        },
+        {
+          "Eng": "They are playing football.",
+          "tr": "Onlar futbol oynuyorlar.",
+          "emoji": "⚽"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "John is riding a scooter.",
+          "tr": "John skuter sürüyor.",
+          "emoji": "🛴"
+        },
+        {
+          "Eng": "I am reading a book.",
+          "tr": "Ben kitap okuyorum.",
+          "emoji": "📖"
+        },
+        {
+          "Eng": "The children are swimming in the pool.",
+          "tr": "Çocuklar havuzda yüzüyor.",
+          "emoji": "🏊"
+        },
+        {
+          "Eng": "The cat is climbing the tree.",
+          "tr": "Kedi ağaca tırmanıyor.",
+          "emoji": "🐈"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 4",
+      "section": "grammar",
+      "title": "Rule 3: Present Continuous Tense: Questions",
+      "chapter": "grammar_3",
+      "emoji": "❓",
+      "description": "Present Continuous Tense Questions and Short Answers",
+      "descriptionTr": "Şimdiki Zaman Soru ve Kısa Cevaplar",
+      "statement": [
+        "Şimdiki zamanda soru sormak için 'Am / Is / Are' yardımcı fiilleri öznenin önüne getirilir[cite: 12].",
+        {
+          "title": "Soru Yapısı (Questions)",
+          "description": "Am I walking? | Are you/we/they walking? | Is he/she/it walking?[cite: 12]"
+        },
+        {
+          "title": "Kısa Cevaplar (Short Answers)",
+          "description": "Yes, I am. / No, I'm not. | Yes, you are. / No, you aren't. | Yes, he is. / No, he isn't."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "What are you doing?",
+          "tr": "Ne yapıyorsun?",
+          "emoji": "❓"
+        },
+        {
+          "Eng": "Where is he going?",
+          "tr": "Nereye gidiyor?",
+          "emoji": "📍"
+        },
+        {
+          "Eng": "Who is cooking?",
+          "tr": "Kim yemek yapıyor?",
+          "emoji": "🍳"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "Is David playing basketball? Yes, he is.",
+          "tr": "David basketbol mu oynuyor? Evet, öyle.",
+          "emoji": "🏀"
+        },
+        {
+          "Eng": "Is Sue visiting a museum? Yes, she is.",
+          "tr": "Sue bir müzeyi mi ziyaret ediyor? Evet, öyle.",
+          "emoji": "🏛️"
+        },
+        {
+          "Eng": "Are Nick and Carol reading a book? Yes, they are.",
+          "tr": "Nick ve Carol kitap mı okuyor? Evet, öyle.",
+          "emoji": "📖"
+        },
+        {
+          "Eng": "Is John playing golf? Yes, he is.",
+          "tr": "John golf mü oynuyor? Evet, öyle.",
+          "emoji": "⛳"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 4",
+      "section": "grammar",
+      "title": "Rule 4: Present Simple Tense vs. Present Continuous Tense",
+      "chapter": "grammar_4",
+      "emoji": "⚖️",
+      "description": "Present Simple vs. Present Continuous",
+      "descriptionTr": "Geniş Zaman ve Şimdiki Zaman Karşılaştırması",
+      "statement": [
+        "Genel gerçekler, rutinler ve kalıcı durumlar için Geniş Zaman (Present Simple); şu anda gerçekleşen geçici eylemler için Şimdiki Zaman (Present Continuous) kullanılır.",
+        {
+          "title": "Present Simple Zaman İfadeleri",
+          "description": "usually, always, never, every day, Mondays."
+        },
+        {
+          "title": "Present Continuous Zaman İfadeleri",
+          "description": "now, at the moment, right now[cite: 10]."
+        },
+        {
+          "title": "Önemli Not",
+          "description": "like, hate, know, want, need, believe, understand fiilleri şimdiki zamanda (Present Continuous) genellikle -ing almaz."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "He works in an office.",
+          "tr": "O, bir ofiste çalışır (Kalıcı durum / Geniş zaman).",
+          "emoji": "💼"
+        },
+        {
+          "Eng": "I'm watching TV now.",
+          "tr": "Şu anda televizyon izliyorum (Şu anki eylem).",
+          "emoji": "📺"
+        },
+        {
+          "Eng": "Giraffes don't eat meat.",
+          "tr": "Zürafalar et yemez (Genel gerçek).",
+          "emoji": "🦒"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "She never walks to school.",
+          "tr": "O, asla okula yürüyerek gitmez.",
+          "emoji": "🏫"
+        },
+        {
+          "Eng": "Where do you go? To the supermarket. I need to buy some food.",
+          "tr": "Nereye gidiyorsun? Süpermarkete. Biraz yiyecek almam gerekiyor.",
+          "emoji": "🛒"
+        },
+        {
+          "Eng": "I visit / am visiting my grandparents every Sunday.",
+          "tr": "Her Pazar büyükannemi ve büyükbabamı ziyaret ederim.",
+          "emoji": "👵"
+        },
+        {
+          "Eng": "Today it's hot and sunny. I wear / am wearing a T-shirt.",
+          "tr": "Bugün hava sıcak ve güneşli. Tişört giyiyorum.",
+          "emoji": "☀️"
+        }
+      ]
+    }
+  ],
+  "Unit-5": "5",
+  "Sections-5": [
+    {
+      "Unites": "Unit 5",
+      "section": "grammar",
+      "title": "Rule 1: There is / There are",
+      "chapter": "grammar_1",
+      "emoji": "🏙️",
+      "description": "There is / There are",
+      "descriptionTr": "Var / Vardır Yapısı",
+      "statement": [
+        "Bir yerde ne olduğunu veya ne olmadığını belirtmek için tekillerde 'There is', çoğullarda ise 'There are' yapısını kullanırız[cite: 13].",
+        {
+          "title": "Olumlu Cümle (Affirmative)",
+          "description": "Singular: There is a sofa. | Plural: There are two chairs[cite: 13]."
+        },
+        {
+          "title": "Olumsuz Cümle (Negative)",
+          "description": "Singular: There isn't a sofa. | Plural: There aren't two chairs[cite: 13]."
+        },
+        {
+          "title": "Soru ve Kısa Cevaplar (Interrogative & Short Answers)",
+          "description": "Is there a sofa? (Yes, there is / No, there isn't) | Are there two chairs? (Yes, there are / No, there aren't)[cite: 13]."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "There is a museum in my town.",
+          "tr": "Kasabamda bir müze var.",
+          "emoji": "🏛️"
+        },
+        {
+          "Eng": "There are six rooms in our house.",
+          "tr": "Evimizde altı oda var.",
+          "emoji": "🏠"
+        },
+        {
+          "Eng": "Are there any shops?",
+          "tr": "Hiç dükkan var mı?",
+          "emoji": "🛒"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "There is an ancient castle.",
+          "tr": "Antik bir kale var.",
+          "emoji": "🏰"
+        },
+        {
+          "Eng": "There are three shops in the city centre.",
+          "tr": "Şehir merkezinde üç dükkan var.",
+          "emoji": "🏬"
+        },
+        {
+          "Eng": "There are four wooden chairs in the kitchen.",
+          "tr": "Mutfakta dört ahşap sandalye var.",
+          "emoji": "🪑"
+        },
+        {
+          "Eng": "There is a gym on the corner of the street.",
+          "tr": "Sokağın köşesinde bir spor salonu var.",
+          "emoji": "🏋️‍♂️"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 5",
+      "section": "grammar",
+      "title": "Rule 2: Comparatives (Karşılaştırma Sıfatları)",
+      "chapter": "grammar_2",
+      "emoji": "⚖️",
+      "description": "Comparatives",
+      "descriptionTr": "Karşılaştırma Sıfatları",
+      "statement": [
+        "Karşılaştırma sıfatlarını iki kişiyi, hayvanı ya da nesneyi kıyaslamak için kullanırız ve sıfattan sonra 'than' kelimesini getiririz[cite: 14].",
+        {
+          "title": "Tek Heceli Sıfatlar",
+          "description": "Genellikle sıfatın sonuna '-er' takısı eklenir (old -> older, short -> shorter, smart -> smarter)[cite: 14]."
+        },
+        {
+          "title": "İki Heceli ve Uzun Sıfatlar",
+          "description": "İki heceli -y ile bitenlerde '-ier' kullanılır (happy -> happier). İki veya daha fazla heceli uzun sıfatlarda ise kelimenin önüne 'more' getirilir (comfortable -> more comfortable)[cite: 14]."
+        },
+        {
+          "title": "Düzensiz Sıfatlar (Irregular)",
+          "description": "good -> better, bad -> worse, many/much -> more, little -> less, far -> farther / further[cite: 14]."
+        }
+      ],
+      "examples": [
+        {
+          "Eng": "An armchair is more comfortable than a chair.",
+          "tr": "Bir koltuk sandalyeden daha rahattır.",
+          "emoji": "🛋️"
+        },
+        {
+          "Eng": "Your flat is larger than my flat.",
+          "tr": "Senin dairen benim dairemden daha büyüktür.",
+          "emoji": "🏢"
+        },
+        {
+          "Eng": "My brother is shorter than me.",
+          "tr": "Erkek kardeşim benden daha kısadır.",
+          "emoji": "👦"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "Tiny -> tinier",
+          "tr": "Çok küçük -> daha küçük",
+          "emoji": "🔹"
+        },
+        {
+          "Eng": "Old -> older",
+          "tr": "Yaşlı/Eski -> daha yaşlı/eski",
+          "emoji": "👴"
+        },
+        {
+          "Eng": "Bad -> worse",
+          "tr": "Kötü -> daha kötü",
+          "emoji": "⚠️"
+        },
+        {
+          "Eng": "Modern -> more modern",
+          "tr": "Modern -> daha modern",
+          "emoji": "🏙️"
+        }
+      ]
+    }
+  ],
+  "Unit-6": "6",
+  "Sections-6": [
+    {
+      "Unites": "Unit 6",
+      "section": "grammar",
+      "title": "Rule 1: Countable & Uncountable Nouns, A / An / Some / Any",
+      "chapter": "grammar_1",
+      "emoji": "🍲",
+      "description": "Countable & Uncountable Nouns",
+      "descriptionTr": "Sayılabilen ve Sayılamayan İsimler, A / An / Some / Any",
+      "statement": [
+        "Sayılabilen isimlerin (countable nouns) hem tekil hem de çoğul halleri vardır[cite: 15].",
+        "Sayılamayan isimlerin (uncountable nouns) çoğul halleri yoktur[cite: 15].",
+        "Tekil sayılabilen isimlerle olumlu, olumsuz ve soru cümlelerinde 'a / an' kullanırız[cite: 15].",
+        "Çoğul sayılabilen ve sayılamayan isimlerle olumlu cümlelerde 'some', olumsuz ve soru cümlelerinde ise 'any' kullanırız[cite: 15]."
+      ],
+      "examples": [
+        {
+          "Eng": "There is a banana.",
+          "tr": "Bir muz var.",
+          "emoji": "🍌"
+        },
+        {
+          "Eng": "There are some bananas.",
+          "tr": "Birkaç muz var.",
+          "emoji": "🍌"
+        },
+        {
+          "Eng": "There is some meat.",
+          "tr": "Biraz et var.",
+          "emoji": "🥩"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "Water is uncountable (U).",
+          "tr": "Su, sayılamayan bir isimdir (U).",
+          "emoji": "💧"
+        },
+        {
+          "Eng": "Pasta is uncountable (U).",
+          "tr": "Makarna, sayılamayan bir isimdir (U).",
+          "emoji": "🍝"
+        },
+        {
+          "Eng": "Tomato is countable (C).",
+          "tr": "Domates, sayılabilen bir isimdir (C).",
+          "emoji": "🍅"
+        },
+        {
+          "Eng": "Biscuit is countable (C).",
+          "tr": "Bisküvi, sayılabilen bir isimdir (C).",
+          "emoji": "🍪"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 6",
+      "section": "grammar",
+      "title": "Rule 2: How many / How much",
+      "chapter": "grammar_2",
+      "emoji": "❓",
+      "description": "How many / How much",
+      "descriptionTr": "Miktar Sormak İçin Kullanılan Yapılar",
+      "statement": [
+        "Miktar sormak için 'How many / How much' kullanırız[cite: 16].",
+        "Sayılabilen isimlerle miktar sormak için 'How many' kullanırız[cite: 16].",
+        "Sayılamayan isimlerle miktar sormak için 'How much' kullanırız[cite: 16]."
+      ],
+      "examples": [
+        {
+          "Eng": "How many eggs do you need?",
+          "tr": "Kaç tane yumurtaya ihtiyacın var?",
+          "emoji": "🥚"
+        },
+        {
+          "Eng": "How much flour is there in the cupboard?",
+          "tr": "Dolapta ne kadar un var?",
+          "emoji": "🌾"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "How many onions are there?",
+          "tr": "Kaç tane soğan var?",
+          "emoji": "🧅"
+        },
+        {
+          "Eng": "How much water do you drink a day?",
+          "tr": "Günde ne kadar su içersin?",
+          "emoji": "💧"
+        },
+        {
+          "Eng": "How much oil is there in the bottle?",
+          "tr": "Şişede ne kadar yağ var?",
+          "emoji": "🛢️"
+        },
+        {
+          "Eng": "How many apples are there in the fridge?",
+          "tr": "Buzdolabında kaç tane elma var?",
+          "emoji": "🍎"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 6",
+      "section": "grammar",
+      "title": "Rule 3: Have got / Has got",
+      "chapter": "grammar_3",
+      "emoji": "🎒",
+      "description": "Have got / Has got",
+      "descriptionTr": "Sahiplik Bildiren Yapılar",
+      "statement": [
+        "Sahiplikleri anlatmak için 'have got / has got / haven't got / hasn't got' kullanırız[cite: 17].",
+        "Soru sormak için 'Have ... got? / Has ... got?' yapısını kullanırız[cite: 17]."
+      ],
+      "examples": [
+        {
+          "Eng": "I have got dark hair.",
+          "tr": "Koyu renk saçlarım var.",
+          "emoji": "👦"
+        },
+        {
+          "Eng": "She has got a big bed in her room.",
+          "tr": "Odasında büyük bir yatağı var.",
+          "emoji": "🛏️"
+        },
+        {
+          "Eng": "Have you got a dog? Yes, I have. / No, I haven't.",
+          "tr": "Bir köpeğin var mı? Evet, var. / Hayır, yok.",
+          "emoji": "🐕"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "John has got a new bike.",
+          "tr": "John'un yeni bir bisikleti var.",
+          "emoji": "🚲"
+        },
+        {
+          "Eng": "We have got some eggs in the fridge.",
+          "tr": "Buzdolabında biraz yumurtamız var.",
+          "emoji": "🥚"
+        },
+        {
+          "Eng": "I have got a good recipe for chocolate cake.",
+          "tr": "Çikolatalı kek için güzel bir tarifim var.",
+          "emoji": "🎂"
+        },
+        {
+          "Eng": "Lucy has got a bookcase in her bedroom.",
+          "tr": "Lucy'nin yatak odasında bir kitaplığı var.",
+          "emoji": "📚"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 6",
+      "section": "grammar",
+      "title": "Rule 4: Can for Permission & Ordering Food in a Restaurant",
+      "chapter": "grammar_4",
+      "emoji": "🍽️",
+      "description": "Can for Permission and Restaurant Ordering",
+      "descriptionTr": "İzin İsteme ve Restoranda Sipariş Verme",
+      "statement": [
+        "İzin istemek, izin vermek ya da izni reddetmek için 'can' kullanırız[cite: 17].",
+        "Restoranda yemek siparişi verirken 'I'd like to have...' veya 'Could I have...' kalıplarını kullanırız[cite: 18]."
+      ],
+      "examples": [
+        {
+          "Eng": "Can I have a sandwich? Yes, you can. / No, you can't.",
+          "tr": "Bir sandviç alabilir miyim? Evet, alabilirsin. / Hayır, alamazsın.",
+          "emoji": "🥪"
+        },
+        {
+          "Eng": "I'd like to have chicken soup, please.",
+          "tr": "Tavuk çorbası alabilir miyim lütfen.",
+          "emoji": "🍲"
+        },
+        {
+          "Eng": "Are you ready to order?",
+          "tr": "Sipariş vermeye hazır mısınız?",
+          "emoji": "📋"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "Can I go to the party? Yes, you can.",
+          "tr": "Partiye gidebilir miyim? Evet, gidebilirsin.",
+          "emoji": "🎉"
+        },
+        {
+          "Eng": "Can I eat some more sweets? No, you can't.",
+          "tr": "Biraz daha tatlı yiyebilir miyim? Hayır, yiyemezsin.",
+          "emoji": "🍬"
+        },
+        {
+          "Eng": "Can we play in the garden? No, you can't.",
+          "tr": "Bahçede oynayabilir miyiz? Hayır, oynayamazsınız.",
+          "emoji": "🌳"
+        },
+        {
+          "Eng": "Can we have pasta for lunch? Yes, you can.",
+          "tr": "Öğle yemeğinde makarna yiyebilir miyiz? Evet, yiyebilirsiniz.",
+          "emoji": "🍝"
+        }
+      ]
+    }
+  ],
+
+  "Unit-7": "7",
+  "Sections-7": [
+    {
+      "Unites": "Unit 7",
+      "section": "grammar",
+      "title": "Rule 1: Can for Ability (Yetenekler ve Beceriler)",
+      "chapter": "grammar_1",
+      "emoji": "🐾",
+      "description": "Can for Ability",
+      "descriptionTr": "Yetenek Bildiren 'Can' Yapısı",
+      "statement": [
+        "Yeteneklerimizi ve yapabildiğimiz şeyleri anlatırken 'can' yapısını kullanırız[cite: 19].",
+        "Yapamadığımız şeylerden bahsederken ise 'can't' yapısını kullanırız[cite: 19].",
+        "Olumlu cümlelerde: I/He/She/It/We/You/They can run fast[cite: 19].",
+        "Olumsuz cümlelerde: I/He/She/It/We/You/They cannot (can't) run fast[cite: 19]."
+      ],
+      "examples": [
+        {
+          "Eng": "I can run fast.",
+          "tr": "Hızlı koşabilirim.",
+          "emoji": "🏃‍♂️"
+        },
+        {
+          "Eng": "He can play the guitar.",
+          "tr": "O, gitar çalabilir.",
+          "emoji": "🎸"
+        },
+        {
+          "Eng": "I can't swim well.",
+          "tr": "İyi yüzemem.",
+          "emoji": "🏊‍♂️"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "A seagull can fly.",
+          "tr": "Bir martı uçabilir.",
+          "emoji": "🕊️"
+        },
+        {
+          "Eng": "A penguin can't fly.",
+          "tr": "Bir penguen uçamaz.",
+          "emoji": "🐧"
+        },
+        {
+          "Eng": "A snake can't walk.",
+          "tr": "Bir yılan yürüyemez.",
+          "emoji": "🐍"
+        },
+        {
+          "Eng": "A whale can't survive on land.",
+          "tr": "Bir balina karada hayatta kalamaz.",
+          "emoji": "🐋"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 7",
+      "section": "grammar",
+      "title": "Rule 2: Superlatives (Üstünlük Sıfatları)",
+      "chapter": "grammar_2",
+      "emoji": "🌟",
+      "description": "Superlatives",
+      "descriptionTr": "Üstünlük Sıfatları",
+      "statement": [
+        "Üç veya daha fazla kişi, hayvan ya da şeyi karşılaştırmak için üstünlük sıfatlarını (superlative adjectives) kullanırız[cite: 20].",
+        "Üstünlük sıfatlarıyla birlikte 'the ... of / in' yapısını kullanırız[cite: 20].",
+        "Tek heceli sıfatlarda kelimenin sonuna '-est' takısı eklenir (örn: the youngest, the shortest)[cite: 20].",
+        "Uzun sıfatlarda kelimenin önüne 'the most' getirilir (örn: the most interesting, the most dangerous)[cite: 20]."
+      ],
+      "examples": [
+        {
+          "Eng": "Giraffes are the tallest animals of all.",
+          "tr": "Zürafalar hepsinin en uzun hayvanlarıdır.",
+          "emoji": "🦒"
+        },
+        {
+          "Eng": "Giraffes are the tallest animals in the world.",
+          "tr": "Zürafalar dünyadaki en uzun hayvanlardır.",
+          "emoji": "🌍"
+        },
+        {
+          "Eng": "Cheetahs are the fastest animals.",
+          "tr": "Çitalar en hızlı hayvanlardır.",
+          "emoji": "🐆"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "The giraffe has the longest neck of all animals.",
+          "tr": "Zürafa, tüm hayvanlar içinde en uzun boyna sahiptir.",
+          "emoji": "🦒"
+        },
+        {
+          "Eng": "I think snakes are the scariest animals in the world.",
+          "tr": "Bence yılanlar dünyadaki en korkunç hayvanlardır.",
+          "emoji": "🐍"
+        },
+        {
+          "Eng": "John is the best player in the team.",
+          "tr": "John, takımdaki en iyi oyuncudur.",
+          "emoji": "⚽"
+        },
+        {
+          "Eng": "The blue whale is the biggest animal in the world.",
+          "tr": "Mavi balina, dünyadaki en büyük hayvandır.",
+          "emoji": "🐋"
+        }
+      ]
+    }
+  ],
+  "Unit-8": "8",
+  "Sections-8": [
+    {
+      "Unites": "Unit 8",
+      "section": "grammar",
+      "title": "Rule 1: Be Going To (Gelecek Planları)",
+      "chapter": "grammar_1",
+      "emoji": "🌍",
+      "description": "Be Going To",
+      "descriptionTr": "Gelecek Zaman Planları ve Niyetler",
+      "statement": [
+        "Gelecek planlarından ve niyetlerimizden bahsederken 'be going to' yapısını kullanırız[cite: 21].",
+        "Olumlu cümlelerde: I am going to, He/She/It is going to, You/We/They are going to[cite: 21].",
+        "Olumsuz cümlelerde: I am not going to, He/She/It isn't going to, You/We/They aren't going to[cite: 21].",
+        "Zaman ifadeleri olarak tomorrow, next week, in two weeks, soon gibi ifadeler kullanılır[cite: 21]."
+      ],
+      "examples": [
+        {
+          "Eng": "I'm going to visit a museum tomorrow.",
+          "tr": "Yarın bir müze ziyareti yapacağım.",
+          "emoji": "🏛️"
+        },
+        {
+          "Eng": "We're going to go on a trip next week.",
+          "tr": "Gelecek hafta bir geziye çıkacağız.",
+          "emoji": "🧳"
+        },
+        {
+          "Eng": "They aren't going to stay in a hotel.",
+          "tr": "Bir otelde kalmayacaklar.",
+          "emoji": "🏨"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "I am going to travel to Italy next summer.",
+          "tr": "Gelecek yaz İtalya'ya seyahat edeceğim.",
+          "emoji": "✈️"
+        },
+        {
+          "Eng": "They are not going to stay in a hotel on holiday.",
+          "tr": "Tatilde bir otelde kalmayacaklar.",
+          "emoji": "🏖️"
+        },
+        {
+          "Eng": "We are going to do a lot of sightseeing on holiday this summer.",
+          "tr": "Bu yaz tatilde bol bol çevre gezisi yapacağız.",
+          "emoji": "📸"
+        },
+        {
+          "Eng": "Lucy is going to go camping with her friends next weekend.",
+          "tr": "Lucy gelecek hafta sonu arkadaşlarıyla kamp yapmaya gidecek.",
+          "emoji": "⛺"
+        }
+      ]
+    },
+    {
+      "Unites": "Unit 8",
+      "section": "grammar",
+      "title": "Rule 2: Be Going To - Questions & Wh- Questions",
+      "chapter": "grammar_2",
+      "emoji": "❓",
+      "description": "Be Going To Questions",
+      "descriptionTr": "Be Going To Soru Cümleleri ve Kısa Cevaplar",
+      "statement": [
+        "Soru sormak için 'Am/Is/Are' yardımcı fiilleri öznenin önüne getirilir (örn: Am I going to swim?, Are you going to swim?, Is he going to swim?)[cite: 22].",
+        "Kısa cevaplarda 'Yes, I am / No, I'm not' veya 'Yes, we are / No, they aren't' gibi yapılar kullanılır[cite: 22].",
+        "Soru kelimeleriyle (Wh- questions) kullanımında: 'What are you going to do on holiday?', 'Who is he going to go on holiday with?' şeklindedir[cite: 22]."
+      ],
+      "examples": [
+        {
+          "Eng": "Are you going to go to the beach? Yes, I am.",
+          "tr": "Plaja gidecek misin? Evet, gideceğim.",
+          "emoji": "🏖️"
+        },
+        {
+          "Eng": "What are you going to do on holiday?",
+          "tr": "Tatilde ne yapacaksın?",
+          "emoji": "🎒"
+        },
+        {
+          "Eng": "Where are they going to go for holiday?",
+          "tr": "Tatil için nereye gidecekler?",
+          "emoji": "🗺️"
+        }
+      ],
+      "exercises": [
+        {
+          "Eng": "Are Paul and Alice going to go to the beach? Yes, they are.",
+          "tr": "Paul ve Alice plaja gidecek mi? Evet, gidecekler.",
+          "emoji": "🌊"
+        },
+        {
+          "Eng": "Is Paul going to have a picnic? No, he isn't.",
+          "tr": "Paul piknik yapacak mı? Hayır, yapmayacak.",
+          "emoji": "🧺"
+        },
+        {
+          "Eng": "Are Paul and Alice going to collect seashells? No, they aren't.",
+          "tr": "Paul ve Alice deniz kabuğu toplayacak mı? Hayır, toplamayacaklar.",
+          "emoji": "🐚"
+        },
+        {
+          "Eng": "What are you going to buy? I'm going to go to the shopping centre tomorrow.",
+          "tr": "Ne satın alacaksın? Yarın alışveriş merkezine gideceğim.",
+          "emoji": "🛍️"
+        }
+      ]
+    }
+  ]
+}
