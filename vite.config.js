@@ -8,12 +8,16 @@ export default defineConfig({
     proxy: {
       "/api": {
         target:
-          "http://localhost:3001" || "https://svg-server-3tw8.onrender.com",
+          process.env.NODE_ENV === "production"
+            ? "https://svg-server-3tw8.onrender.com"
+            : "http://localhost:10000",
         changeOrigin: true,
       },
       "/ortaokul": {
         target:
-          "http://localhost:3001" || "https://svg-server-3tw8.onrender.com",
+          process.env.NODE_ENV === "production"
+            ? "https://svg-server-3tw8.onrender.com"
+            : "http://localhost:10000",
         changeOrigin: true,
       },
     },
