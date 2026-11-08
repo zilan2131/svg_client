@@ -10,14 +10,14 @@ export default defineConfig({
         target:
           process.env.NODE_ENV === "production"
             ? "https://svg-server-3tw8.onrender.com"
-            : "http://localhost:10000",
+            : "http://localhost:3001",
         changeOrigin: true,
       },
       "/ortaokul": {
         target:
           process.env.NODE_ENV === "production"
             ? "https://svg-server-3tw8.onrender.com"
-            : "http://localhost:10000",
+            : "http://localhost:3001",
         changeOrigin: true,
       },
     },
