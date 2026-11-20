@@ -65,115 +65,115 @@
       {
         "Eng": "Teacher",
         "tr": "öğretmen",
-        "emoji": "🏫",
+        "emoji": "teacher.svg",
         "options": ["Teacher", "Student", "Principal", "Classroom"]
       },
       {
         "Eng": "Student",
         "tr": "öğrenci",
-        "emoji": "🏫",
+        "emoji": "classmate.svg",
         "options": ["Student", "Teacher", "Library", "Canteen"]
       },
       {
         "Eng": "Principal",
         "tr": "müdür",
-        "emoji": "🏫",
+        "emoji": "businessman.svg",
         "options": ["Principal", "Student", "Playground", "Teacher"]
       },
       {
         "Eng": "Classroom",
         "tr": "sınıf",
-        "emoji": "🏫",
+        "emoji": "cleanTheboard.svg",
         "options": ["Classroom", "Library", "Canteen", "Principal"]
       },
       {
         "Eng": "Library",
         "tr": "kütüphane",
-        "emoji": "🏫",
+        "emoji": "library.svg",
         "options": ["Library", "Classroom", "Playground", "Student"]
       },
       {
         "Eng": "Canteen",
         "tr": "kantin",
-        "emoji": "🏫",
+        "emoji": "cafe.svg",
         "options": ["Canteen", "Library", "Teacher", "Classroom"]
       },
       {
         "Eng": "Playground",
         "tr": "oyun alanı",
-        "emoji": "🏫",
+        "emoji": "park.svg",
         "options": ["Playground", "Canteen", "Student", "Principal"]
       },
       {
         "Eng": "Turkey",
         "tr": "Türkiye",
-        "emoji": "🌍",
+        "emoji": "turkey.svg",
         "options": ["Turkey", "England", "Germany", "France"]
       },
       {
         "Eng": "England",
         "tr": "İngiltere",
-        "emoji": "🌍",
+        "emoji": "british.svg",
         "options": ["England", "Turkey", "Italy", "Spain"]
       },
       {
         "Eng": "Germany",
         "tr": "Almanya",
-        "emoji": "🌍",
+        "emoji": "germany.svg",
         "options": ["Germany", "France", "USA", "Turkey"]
       },
       {
         "Eng": "France",
         "tr": "Fransa",
-        "emoji": "🌍",
+        "emoji": "france.svg",
         "options": ["France", "Germany", "Spain", "England"]
       },
       {
         "Eng": "Italy",
         "tr": "İtalya",
-        "emoji": "🌍",
+        "emoji": "italy.svg",
         "options": ["Italy", "Spain", "USA", "Germany"]
       },
       {
         "Eng": "Spain",
         "tr": "İspanya",
-        "emoji": "🌍",
+        "emoji": "spain.svg",
         "options": ["Spain", "Italy", "England", "France"]
       },
       {
         "Eng": "USA",
         "tr": "ABD",
-        "emoji": "🌍",
+        "emoji": "usa.svg",
         "options": ["USA", "Turkey", "Germany", "Italy"]
       },
       {
         "Eng": "Drama club",
         "tr": "tiyatro kulübü",
-        "emoji": "🎭",
+        "emoji": "Costume.svg",
         "options": ["Drama club", "Music club", "Science club", "Chess club"]
       },
       {
         "Eng": "Music club",
         "tr": "müzik kulübü",
-        "emoji": "🎭",
+        "emoji": "microphone.svg",
         "options": ["Music club", "Drama club", "Sports club", "Science club"]
       },
       {
         "Eng": "Science club",
         "tr": "fen kulübü",
-        "emoji": "🎭",
+        "emoji": "science.svg",
         "options": ["Science club", "Chess club", "Music club", "Drama club"]
       },
       {
         "Eng": "Chess club",
         "tr": "satranç kulübü",
-        "emoji": "🎭",
+        "emoji": "boardGame.svg",
         "options": ["Chess club", "Sports club", "Science club", "Music club"]
       },
       {
         "Eng": "Sports club",
         "tr": "spor kulübü",
-        "emoji": "🎭",
+        "emoji": "game.svg",
         "options": ["Sports club", "Chess club", "Drama club", "Science club"]
       },
       {
@@ -234,37 +234,37 @@
       {
         "Eng": "Homework",
         "tr": "ödev",
-        "emoji": "📚",
+        "emoji": "do-homework.svg",
         "options": ["Homework", "Exam", "Break", "Subject"]
       },
       {
         "Eng": "Exam",
         "tr": "sınav",
-        "emoji": "📚",
+        "emoji": "examine.svg",
         "options": ["Exam", "Homework", "Lesson", "Flag"]
       },
       {
         "Eng": "Break",
         "tr": "teneffüs",
-        "emoji": "📚",
+        "emoji": "free_time.svg",
         "options": ["Break", "Subject", "Homework", "Exam"]
       },
       {
         "Eng": "Subject",
         "tr": "ders",
-        "emoji": "📚",
+        "emoji": "study.svg",
         "options": ["Subject", "Lesson", "Break", "Flag"]
       },
       {
         "Eng": "Lesson",
         "tr": "ders (öğretim)",
-        "emoji": "📚",
+        "emoji": "study.svg",
         "options": ["Lesson", "Subject", "Exam", "Homework"]
       },
       {
         "Eng": "Flag",
         "tr": "bayrak",
-        "emoji": "📚",
+        "emoji": "🚩",
         "options": ["Flag", "Break", "Subject", "Exam"]
       }
     ]
@@ -459,7 +459,7 @@
       {
         "Eng": "Science",
         "tr": "Fen Bilimleri",
-        "emoji": "📖",
+        "emoji": "science.svg",
         "options": [
           "Science",
           "Maths",
@@ -488,7 +488,7 @@
       {
         "Eng": "Bookcase",
         "tr": "kitaplık",
-        "emoji": "✏️",
+        "emoji": "bookcase.svg",
         "options": ["Bookcase", "Bookshelf", "Desk", "Seat"]
       },
       {
@@ -506,7 +506,7 @@
       {
         "Eng": "Desk",
         "tr": "sıra / masa",
-        "emoji": "✏️",
+        "emoji": "desk.svg",
         "options": ["Desk", "Seat", "Bookcase", "Smart board"]
       },
       {
@@ -626,7 +626,7 @@
       {
         "Eng": "Borrow",
         "tr": "ödünç almak",
-        "emoji": "🔧",
+        "emoji": "borrow.svg",
         "options": ["Borrow", "Bring", "Forget", "Remind"]
       },
       {
@@ -1131,7 +1131,7 @@
       {
         "Eng": "Science",
         "tr": "Fen Bilimleri",
-        "emoji": "📖",
+        "emoji": "science.svg",
         "options": [
           "Science",
           "Maths",
@@ -1160,7 +1160,7 @@
       {
         "Eng": "Bookcase",
         "tr": "kitaplık",
-        "emoji": "✏️",
+        "emoji": "bookcase.svg",
         "options": ["Bookcase", "Bookshelf", "Desk", "Seat"]
       },
       {
@@ -1178,7 +1178,7 @@
       {
         "Eng": "Desk",
         "tr": "sıra / masa",
-        "emoji": "✏️",
+        "emoji": "desk.svg",
         "options": ["Desk", "Seat", "Bookcase", "Smart board"]
       },
       {
@@ -1298,7 +1298,7 @@
       {
         "Eng": "Borrow",
         "tr": "ödünç almak",
-        "emoji": "🔧",
+        "emoji": "borrow.svg",
         "options": ["Borrow", "Bring", "Forget", "Remind"]
       },
       {
@@ -2034,7 +2034,7 @@
       {
         "Eng": "Forest",
         "tr": "orman",
-        "emoji": "📚",
+        "emoji": "forest.svg",
         "options": ["Forest", "Beach", "Lake", "Garden"]
       },
       {
@@ -2046,7 +2046,7 @@
       {
         "Eng": "Garden",
         "tr": "bahçe",
-        "emoji": "📚",
+        "emoji": "garden.svg",
         "options": ["Garden", "Forest", "Beach", "Lake"]
       },
       {
@@ -2058,7 +2058,7 @@
       {
         "Eng": "Hobby",
         "tr": "hobi",
-        "emoji": "📚",
+        "emoji": "hobby.svg",
         "options": ["Hobby", "Computer game", "Task", "Role"]
       },
       {
@@ -2076,7 +2076,7 @@
       {
         "Eng": "Lake",
         "tr": "göl",
-        "emoji": "📚",
+        "emoji": "lake.svg",
         "options": ["Lake", "Beach", "Forest", "Garden"]
       },
       {
